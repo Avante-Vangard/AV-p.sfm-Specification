@@ -1,0 +1,5567 @@
+ID;PCALCOOO32
+C;X1;Y1;K"[p.sfm] v2212"
+C;X2;Y1;K"Sort"
+C;X3;Y1;K"S"
+C;X4;Y1;K"M"
+C;X5;Y1;K"P"
+C;X6;Y1;K"F"
+C;X7;Y1;K"C"
+C;X8;Y1;K"Description"
+C;X9;Y1;K"V2211"
+C;X10;Y1;K"Special"
+C;X11;Y1;K"Inherit from"
+C;X12;Y1;K"Face"
+C;X13;Y1;K"Vert"
+C;X14;Y1;K"Horz"
+C;X15;Y1;K"Extra"
+C;X16;Y1;K"X2"
+C;X17;Y1;K"Style :Type"
+C;X18;Y1;K"Tag"
+C;X1;Y2;K"m"
+C;X2;Y2;K"Z"
+C;X5;Y2;K1
+C;X8;Y2;K"Flush Left Margin Paragraph"
+C;X9;Y2;K1
+C;X12;Y2;K"B40"
+C;X13;Y2;K"L10"
+C;X14;Y2;K"M"
+C;X15;Y2;K"Default"
+C;X17;Y2;K"paragraph"
+C;X18;Y2;K"m"
+C;X1;Y3;K"Footer"
+C;X2;Y3;K"Y"
+C;X5;Y3;K1
+C;X8;Y3;K"Footer Text [LO]"
+C;X10;Y3;K"LO Autostyle"
+C;X11;Y3;K"mt"
+C;X12;Y3;K"T70"
+C;X13;Y3;K"L08"
+C;X15;Y3;K"AC"
+C;X16;Y3;K"T3"
+C;X17;Y3;K"paragraph"
+C;X18;Y3;K"Footer"
+C;X1;Y4;K"Header"
+C;X2;Y4;K"Y"
+C;X5;Y4;K1
+C;X8;Y4;K"Header Text [LO]"
+C;X10;Y4;K"LO Autostyle"
+C;X11;Y4;K"mt"
+C;X12;Y4;K"T70"
+C;X13;Y4;K"L08"
+C;X15;Y4;K"AC"
+C;X16;Y4;K"T3"
+C;X17;Y4;K"paragraph"
+C;X18;Y4;K"Header"
+C;X1;Y5;K"f ... f*"
+C;X2;Y5;K"X"
+C;X6;Y5;K1
+C;X8;Y5;K"Footnote"
+C;X9;Y5;K1
+C;X10;Y5;K"Convert to Footnote"
+C;X11;Y5;K"m"
+C;X12;Y5;K"C76"
+C;X13;Y5;K"F10"
+C;X14;Y5;K"M"
+C;X17;Y5;K"paragraph"
+C;X18;Y5;K"f"
+C;X1;Y6;K"ibd … ibd*"
+C;X2;Y6;K"X"
+C;X7;Y6;K1
+C;X8;Y6;K"Sans Bold [p.sfm]"
+C;X9;Y6;K1
+C;X10;Y6;K"PSFM Only"
+C;X12;Y6;K"S70"
+C;X17;Y6;K"text"
+C;X18;Y6;K"ibd"
+C;X1;Y7;K"iem … iem*"
+C;X2;Y7;K"X"
+C;X7;Y7;K1
+C;X8;Y7;K"Sans Bold Italic [p.sfm]"
+C;X9;Y7;K1
+C;X10;Y7;K"PSFM Only"
+C;X12;Y7;K"S71"
+C;X17;Y7;K"text"
+C;X18;Y7;K"iem"
+C;X1;Y8;K"im"
+C;X2;Y8;K"X"
+C;X5;Y8;K1
+C;X8;Y8;K"Intro Margin Paragraph"
+C;X9;Y8;K1
+C;X11;Y8;K"m"
+C;X12;Y8;K"S40"
+C;X14;Y8;K"M"
+C;X15;Y8;K"SPN"
+C;X17;Y8;K"paragraph"
+C;X18;Y8;K"im"
+C;X1;Y9;K"ino … ino*"
+C;X2;Y9;K"X"
+C;X7;Y9;K1
+C;X8;Y9;K"Sans Text [p.sfm]"
+C;X9;Y9;K1
+C;X10;Y9;K"PSFM Only"
+C;X12;Y9;K"S40"
+C;X17;Y9;K"text"
+C;X18;Y9;K"ino"
+C;X1;Y10;K"iq"
+C;X2;Y10;K"X"
+C;X5;Y10;K1
+C;X8;Y10;K"Intro Poetry Paragraph"
+C;X9;Y10;K1
+C;X11;Y10;K"im"
+C;X12;Y10;K"S40"
+C;X14;Y10;K"C"
+C;X17;Y10;K"paragraph"
+C;X18;Y10;K"iq"
+C;X1;Y11;K"isb … isb*"
+C;X2;Y11;K"X"
+C;X7;Y11;K1
+C;X8;Y11;K"Sans Semibold [p.sfm]"
+C;X9;Y11;K1
+C;X10;Y11;K"PSFM Only"
+C;X12;Y11;K"S60"
+C;X17;Y11;K"text"
+C;X18;Y11;K"isb"
+C;X1;Y12;K"iti … iti*"
+C;X2;Y12;K"X"
+C;X7;Y12;K1
+C;X8;Y12;K"Sans Italic [p.sfm]"
+C;X9;Y12;K1
+C;X10;Y12;K"PSFM Only"
+C;X12;Y12;K"S41"
+C;X17;Y12;K"text"
+C;X18;Y12;K"iti"
+C;X1;Y13;K"mt"
+C;X2;Y13;K"X"
+C;X5;Y13;K1
+C;X8;Y13;K"Major Title"
+C;X9;Y13;K1
+C;X11;Y13;K"m"
+C;X12;Y13;K"T50"
+C;X13;Y13;K"L90"
+C;X14;Y13;K"CB"
+C;X15;Y13;K"KPN"
+C;X16;Y13;K"SPN"
+C;X17;Y13;K"paragraph"
+C;X18;Y13;K"mt"
+C;X1;Y14;K"n ... n*"
+C;X2;Y14;K"X"
+C;X7;Y14;K1
+C;X8;Y14;K"Handwritten Note [p.sfm]"
+C;X9;Y14;K1
+C;X10;Y14;K"PSFM Only"
+C;X12;Y14;K"V50"
+C;X17;Y14;K"text"
+C;X18;Y14;K"n"
+C;X1;Y15;K"nh ... nh*"
+C;X2;Y15;K"X"
+C;X7;Y15;K1
+C;X8;Y15;K"Handwritten Note Heavy [p.sfm]"
+C;X9;Y15;K1
+C;X10;Y15;K"PSFM Only"
+C;X12;Y15;K"V70"
+C;X17;Y15;K"text"
+C;X18;Y15;K"nh"
+C;X1;Y16;K"nl ... nl*"
+C;X2;Y16;K"X"
+C;X7;Y16;K1
+C;X8;Y16;K"Handwritten Note Light [p.sfm]"
+C;X9;Y16;K1
+C;X10;Y16;K"PSFM Only"
+C;X12;Y16;K"V30"
+C;X17;Y16;K"text"
+C;X18;Y16;K"nl"
+C;X1;Y17;K"q"
+C;X2;Y17;K"X"
+C;X5;Y17;K1
+C;X8;Y17;K"Poetry Paragraph"
+C;X9;Y17;K1
+C;X11;Y17;K"m"
+C;X14;Y17;K"C"
+C;X15;Y17;K"QVS"
+C;X17;Y17;K"paragraph"
+C;X18;Y17;K"q"
+C;X1;Y18;K"[[ ... ]] ($)"
+C;X2;Y18;K"W"
+C;X3;Y18;K1
+C;X4;Y18;K1
+C;X7;Y18;K1
+C;X8;Y18;K"Verse Text Placeholder [p.sfm]"
+C;X9;Y18;K0
+C;X13;Y18;K"R00"
+C;X15;Y18;K"Clear"
+C;X17;Y18;K"text"
+C;X18;Y18;K"[["
+C;X1;Y19;K"[{ ... }] ($)"
+C;X2;Y19;K"W"
+C;X3;Y19;K1
+C;X4;Y19;K1
+C;X7;Y19;K1
+C;X8;Y19;K"Tag Variable Text Placement marker [p.sfm]"
+C;X9;Y19;K0
+C;X10;Y19;K"[ID] Insert contents of variable here"
+C;X13;Y19;K"R00"
+C;X15;Y19;K"Clear"
+C;X17;Y19;K"text"
+C;X18;Y19;K"[{"
+C;X1;Y20;K"cat ... cat* ($)"
+C;X2;Y20;K"V"
+C;X3;Y20;K1
+C;X4;Y20;K1
+C;X7;Y20;K1
+C;X8;Y20;K"Category"
+C;X9;Y20;K0
+C;X10;Y20;K"TextVariable: character"
+C;X13;Y20;K"R00"
+C;X15;Y20;K"Clear"
+C;X17;Y20;K"text"
+C;X18;Y20;K"cat"
+C;X1;Y21;K"cn ... cn* ($)"
+C;X2;Y21;K"V"
+C;X3;Y21;K1
+C;X7;Y21;K1
+C;X8;Y21;K"Chapter Number in Header [p.sfm]"
+C;X9;Y21;K0.9
+C;X10;Y21;K"created in converter"
+C;X12;Y21;K"T50"
+C;X16;Y21;K"FPL"
+C;X17;Y21;K"text"
+C;X18;Y21;K"cn"
+C;X1;Y22;K"cp ( $)"
+C;X2;Y22;K"V"
+C;X3;Y22;K1
+C;X8;Y22;K"Published Chapter"
+C;X9;Y22;K1
+C;X10;Y22;K"cp visible in output text, c goes into var"
+C;X11;Y22;K"rem"
+C;X17;Y22;K"paragraph"
+C;X18;Y22;K"cp"
+C;X1;Y23;K"fig0 (&)"
+C;X2;Y23;K"V"
+C;X4;Y23;K1
+C;X5;Y23;K1
+C;X8;Y23;K"Figure Dimensions [p.sfm]"
+C;X9;Y23;K1
+C;X10;Y23;K"TextVariable:"
+C;X11;Y23;K"rem"
+C;X17;Y23;K"paragraph"
+C;X18;Y23;K"fig0"
+C;X1;Y24;K"fig1 (&)"
+C;X2;Y24;K"V"
+C;X4;Y24;K1
+C;X5;Y24;K1
+C;X8;Y24;K"Figure Description [USFM]"
+C;X9;Y24;K1
+C;X10;Y24;K"TextVariable:"
+C;X11;Y24;K"rem"
+C;X17;Y24;K"paragraph"
+C;X18;Y24;K"fig1"
+C;X1;Y25;K"fig2 (&)"
+C;X2;Y25;K"V"
+C;X4;Y25;K1
+C;X5;Y25;K1
+C;X8;Y25;K"Figure Filename [USFM]"
+C;X9;Y25;K1
+C;X10;Y25;K"TextVariable:"
+C;X11;Y25;K"rem"
+C;X17;Y25;K"paragraph"
+C;X18;Y25;K"fig2"
+C;X1;Y26;K"fig3 (&)"
+C;X2;Y26;K"V"
+C;X4;Y26;K1
+C;X5;Y26;K1
+C;X8;Y26;K"Figure Scripture Range [USFM]"
+C;X9;Y26;K1
+C;X10;Y26;K"TextVariable:"
+C;X11;Y26;K"rem"
+C;X17;Y26;K"paragraph"
+C;X18;Y26;K"fig3"
+C;X1;Y27;K"fig4 (&)"
+C;X2;Y27;K"V"
+C;X4;Y27;K1
+C;X5;Y27;K1
+C;X8;Y27;K"Figure Rights [USFM]"
+C;X9;Y27;K1
+C;X10;Y27;K"TextVariable:"
+C;X11;Y27;K"rem"
+C;X17;Y27;K"paragraph"
+C;X18;Y27;K"fig4"
+C;X1;Y28;K"fig5 (&)"
+C;X2;Y28;K"V"
+C;X4;Y28;K1
+C;X5;Y28;K1
+C;X8;Y28;K"Figure Caption [USFM]"
+C;X9;Y28;K1
+C;X10;Y28;K"TextVariable:"
+C;X11;Y28;K"rem"
+C;X17;Y28;K"paragraph"
+C;X18;Y28;K"fig5"
+C;X1;Y29;K"fig6 (&)"
+C;X2;Y29;K"V"
+C;X4;Y29;K1
+C;X5;Y29;K1
+C;X8;Y29;K"Figure Reference [USFM]"
+C;X9;Y29;K1
+C;X10;Y29;K"TextVariable:"
+C;X11;Y29;K"rem"
+C;X17;Y29;K"paragraph"
+C;X18;Y29;K"fig6"
+C;X1;Y30;K"fig7 (&)"
+C;X2;Y30;K"V"
+C;X4;Y30;K1
+C;X5;Y30;K1
+C;X8;Y30;K"Figure Horiz Dimension [p.sfm]"
+C;X9;Y30;K1
+C;X10;Y30;K"TextVariable:"
+C;X11;Y30;K"rem"
+C;X17;Y30;K"paragraph"
+C;X18;Y30;K"fig7"
+C;X1;Y31;K"fig8 (&)"
+C;X2;Y31;K"V"
+C;X4;Y31;K1
+C;X5;Y31;K1
+C;X8;Y31;K"Figure Vertical Dim [p.sfm]"
+C;X9;Y31;K1
+C;X10;Y31;K"TextVariable:"
+C;X11;Y31;K"rem"
+C;X17;Y31;K"paragraph"
+C;X18;Y31;K"fig8"
+C;X1;Y32;K"fig9 (&)"
+C;X2;Y32;K"V"
+C;X4;Y32;K1
+C;X5;Y32;K1
+C;X8;Y32;K"Figure Data [p.sfm]"
+C;X9;Y32;K1
+C;X10;Y32;K"TextVariable:"
+C;X11;Y32;K"rem"
+C;X17;Y32;K"paragraph"
+C;X18;Y32;K"fig9"
+C;X1;Y33;K"h (&)"
+C;X2;Y33;K"V"
+C;X4;Y33;K1
+C;X5;Y33;K1
+C;X8;Y33;K"Header Text [USFM]"
+C;X9;Y33;K1
+C;X10;Y33;K"TextVariable: paragraph"
+C;X11;Y33;K"rem"
+C;X17;Y33;K"paragraph"
+C;X18;Y33;K"h"
+C;X1;Y34;K"h0 (&)"
+C;X2;Y34;K"V"
+C;X4;Y34;K1
+C;X5;Y34;K1
+C;X8;Y34;K"Header Even Page Outside [p.sfm]"
+C;X9;Y34;K1
+C;X10;Y34;K"TextVariable: paragraph"
+C;X11;Y34;K"rem"
+C;X17;Y34;K"paragraph"
+C;X18;Y34;K"h0"
+C;X1;Y35;K"h1 (&)"
+C;X2;Y35;K"V"
+C;X4;Y35;K1
+C;X5;Y35;K1
+C;X8;Y35;K"Header Odd Page Outside [p.sfm]"
+C;X9;Y35;K1
+C;X10;Y35;K"TextVariable: paragraph"
+C;X11;Y35;K"rem"
+C;X17;Y35;K"paragraph"
+C;X18;Y35;K"h1"
+C;X1;Y36;K"h2 (&)"
+C;X2;Y36;K"V"
+C;X4;Y36;K1
+C;X5;Y36;K1
+C;X8;Y36;K"Header Even Page Inside  [p.sfm]"
+C;X9;Y36;K1
+C;X10;Y36;K"TextVariable: paragraph"
+C;X11;Y36;K"rem"
+C;X17;Y36;K"paragraph"
+C;X18;Y36;K"h2"
+C;X1;Y37;K"h3 (&)"
+C;X2;Y37;K"V"
+C;X4;Y37;K1
+C;X5;Y37;K1
+C;X8;Y37;K"Header Odd Page Inside [p.sfm]"
+C;X9;Y37;K1
+C;X10;Y37;K"TextVariable: paragraph"
+C;X11;Y37;K"rem"
+C;X17;Y37;K"paragraph"
+C;X18;Y37;K"h3"
+C;X1;Y38;K"h4 (&)"
+C;X2;Y38;K"V"
+C;X4;Y38;K1
+C;X5;Y38;K1
+C;X8;Y38;K"Header Even Page Center [p.sfm]"
+C;X9;Y38;K1
+C;X10;Y38;K"TextVariable: paragraph"
+C;X11;Y38;K"rem"
+C;X17;Y38;K"paragraph"
+C;X18;Y38;K"h4"
+C;X1;Y39;K"h5 (&)"
+C;X2;Y39;K"V"
+C;X4;Y39;K1
+C;X5;Y39;K1
+C;X8;Y39;K"Header Odd Page Center [p.sfm]"
+C;X9;Y39;K1
+C;X10;Y39;K"TextVariable: paragraph"
+C;X11;Y39;K"rem"
+C;X17;Y39;K"paragraph"
+C;X18;Y39;K"h5"
+C;X1;Y40;K"h6 (&)"
+C;X2;Y40;K"V"
+C;X4;Y40;K1
+C;X5;Y40;K1
+C;X8;Y40;K"Footer Even Page Outside [p.sfm]"
+C;X9;Y40;K1
+C;X10;Y40;K"TextVariable: paragraph"
+C;X11;Y40;K"rem"
+C;X17;Y40;K"paragraph"
+C;X18;Y40;K"h6"
+C;X1;Y41;K"h7 (&)"
+C;X2;Y41;K"V"
+C;X4;Y41;K1
+C;X5;Y41;K1
+C;X8;Y41;K"Footer Odd Page Outside [p.sfm]"
+C;X9;Y41;K1
+C;X10;Y41;K"TextVariable: paragraph"
+C;X11;Y41;K"rem"
+C;X17;Y41;K"paragraph"
+C;X18;Y41;K"h7"
+C;X1;Y42;K"h8 (&)"
+C;X2;Y42;K"V"
+C;X4;Y42;K1
+C;X5;Y42;K1
+C;X8;Y42;K"Footer Even Page Inside [p.sfm]"
+C;X9;Y42;K1
+C;X10;Y42;K"TextVariable: paragraph"
+C;X11;Y42;K"rem"
+C;X17;Y42;K"paragraph"
+C;X18;Y42;K"h8"
+C;X1;Y43;K"h9 (&)"
+C;X2;Y43;K"V"
+C;X4;Y43;K1
+C;X5;Y43;K1
+C;X8;Y43;K"Footer Odd Page Inside [p.sfm]"
+C;X9;Y43;K1
+C;X10;Y43;K"TextVariable: paragraph"
+C;X11;Y43;K"rem"
+C;X17;Y43;K"paragraph"
+C;X18;Y43;K"h9"
+C;X1;Y44;K"id (&)"
+C;X2;Y44;K"V"
+C;X4;Y44;K1
+C;X5;Y44;K1
+C;X8;Y44;K"Project ID-complete field"
+C;X9;Y44;K0.7
+C;X10;Y44;K"TextVariable: paragraph"
+C;X11;Y44;K"rem"
+C;X17;Y44;K"paragraph"
+C;X18;Y44;K"id"
+C;X1;Y45;K"id0 (&)"
+C;X2;Y45;K"V"
+C;X4;Y45;K1
+C;X5;Y45;K1
+C;X8;Y45;K"Project ID-File ID [USFM]"
+C;X9;Y45;K0.5
+C;X10;Y45;K"TextVariable: paragraph"
+C;X11;Y45;K"rem"
+C;X17;Y45;K"paragraph"
+C;X18;Y45;K"id0"
+C;X1;Y46;K"id1 (&)"
+C;X2;Y46;K"V"
+C;X4;Y46;K1
+C;X5;Y46;K1
+C;X8;Y46;K"Project ID-Target Language (BCP-47, ISO 639, ISO3166)"
+C;X9;Y46;K0.5
+C;X10;Y46;K"TextVariable: paragraph"
+C;X11;Y46;K"rem"
+C;X17;Y46;K"paragraph"
+C;X18;Y46;K"id1"
+C;X1;Y47;K"id2 (&)"
+C;X2;Y47;K"V"
+C;X4;Y47;K1
+C;X5;Y47;K1
+C;X8;Y47;K"Project ID-Versification (USFM- .vrs file) (p.sfm see section)"
+C;X9;Y47;K0.5
+C;X10;Y47;K"TextVariable: paragraph"
+C;X11;Y47;K"rem"
+C;X17;Y47;K"paragraph"
+C;X18;Y47;K"id2"
+C;X1;Y48;K"id3 (&)"
+C;X2;Y48;K"V"
+C;X4;Y48;K1
+C;X5;Y48;K1
+C;X8;Y48;K"Project ID-Tagging Language [p.sfm]"
+C;X9;Y48;K0.5
+C;X10;Y48;K"TextVariable: paragraph"
+C;X11;Y48;K"rem"
+C;X17;Y48;K"paragraph"
+C;X18;Y48;K"id3"
+C;X1;Y49;K"id4 (&)"
+C;X2;Y49;K"V"
+C;X4;Y49;K1
+C;X5;Y49;K1
+C;X8;Y49;K"Project ID-Acronym (3Letter) [p.sfm] (p.sfm .slk file)"
+C;X9;Y49;K0.5
+C;X10;Y49;K"TextVariable: paragraph"
+C;X11;Y49;K"rem"
+C;X17;Y49;K"paragraph"
+C;X18;Y49;K"id4"
+C;X1;Y50;K"id5 (&)"
+C;X2;Y50;K"V"
+C;X4;Y50;K1
+C;X5;Y50;K1
+C;X8;Y50;K"Project ID Title [p.sfm]"
+C;X9;Y50;K0.5
+C;X10;Y50;K"TextVariable: paragraph"
+C;X11;Y50;K"rem"
+C;X17;Y50;K"paragraph"
+C;X18;Y50;K"id5"
+C;X1;Y51;K"id6 (&)"
+C;X2;Y51;K"V"
+C;X4;Y51;K1
+C;X5;Y51;K1
+C;X8;Y51;K"Project ID Text Freeze Date [p.sfm]"
+C;X9;Y51;K0.5
+C;X10;Y51;K"TextVariable: paragraph"
+C;X11;Y51;K"rem"
+C;X17;Y51;K"paragraph"
+C;X18;Y51;K"id6"
+C;X1;Y52;K"id7 (&)"
+C;X2;Y52;K"V"
+C;X4;Y52;K1
+C;X5;Y52;K1
+C;X8;Y52;K"Project ID Rights Code [p.sfm] (creative commons)"
+C;X9;Y52;K0.5
+C;X10;Y52;K"TextVariable: paragraph"
+C;X11;Y52;K"rem"
+C;X17;Y52;K"paragraph"
+C;X18;Y52;K"id7"
+C;X1;Y53;K"id8 (&)"
+C;X2;Y53;K"V"
+C;X4;Y53;K1
+C;X5;Y53;K1
+C;X8;Y53;K"Project ID Rights Owner [p.sfm] (of final work)"
+C;X9;Y53;K0.5
+C;X10;Y53;K"TextVariable: paragraph"
+C;X11;Y53;K"rem"
+C;X17;Y53;K"paragraph"
+C;X18;Y53;K"id8"
+C;X1;Y54;K"id9 (&)"
+C;X2;Y54;K"V"
+C;X4;Y54;K1
+C;X5;Y54;K1
+C;X8;Y54;K"Project ID Status Level [p.sfm] (1-7 p.sfm publishing status"
+C;X9;Y54;K0.5
+C;X10;Y54;K"TextVariable: paragraph"
+C;X11;Y54;K"rem"
+C;X17;Y54;K"paragraph"
+C;X18;Y54;K"id9"
+C;X1;Y55;K"ide (&)"
+C;X2;Y55;K"V"
+C;X4;Y55;K1
+C;X5;Y55;K1
+C;X8;Y55;K"Project encoding (ie UTF8 or ANSI or) "
+C;X9;Y55;K1
+C;X10;Y55;K"TextVariable: paragraph"
+C;X11;Y55;K"rem"
+C;X17;Y55;K"paragraph"
+C;X18;Y55;K"ide"
+C;X1;Y56;K"periph (&)"
+C;X2;Y56;K"V"
+C;X4;Y56;K1
+C;X5;Y56;K1
+C;X8;Y56;K"Peripheral ID-Full field"
+C;X9;Y56;K0.7
+C;X10;Y56;K"TextVariable: paragraph"
+C;X11;Y56;K"rem"
+C;X15;Y56;K"SPN"
+C;X16;Y56;K"PB"
+C;X17;Y56;K"paragraph"
+C;X18;Y56;K"periph"
+C;X1;Y57;K"periph0 (&)"
+C;X2;Y57;K"V"
+C;X4;Y57;K1
+C;X5;Y57;K1
+C;X8;Y57;K"Peripheral ID Code [USFM Peripherals]"
+C;X9;Y57;K0.7
+C;X10;Y57;K"TextVariable: paragraph"
+C;X11;Y57;K"rem"
+C;X15;Y57;K"SPN"
+C;X16;Y57;K"PB"
+C;X17;Y57;K"paragraph"
+C;X18;Y57;K"periph0"
+C;X1;Y58;K"periph1 (&)"
+C;X2;Y58;K"V"
+C;X4;Y58;K1
+C;X5;Y58;K1
+C;X8;Y58;K"Peripheral Name [p.sfm]"
+C;X9;Y58;K0.7
+C;X10;Y58;K"TextVariable: paragraph"
+C;X11;Y58;K"rem"
+C;X15;Y58;K"SPN"
+C;X16;Y58;K"PB"
+C;X17;Y58;K"paragraph"
+C;X18;Y58;K"periph1"
+C;X1;Y59;K"periph2 (&)"
+C;X2;Y59;K"V"
+C;X4;Y59;K1
+C;X5;Y59;K1
+C;X8;Y59;K"Peripheral Description [p.sfm]"
+C;X9;Y59;K0.7
+C;X10;Y59;K"TextVariable: paragraph"
+C;X11;Y59;K"rem"
+C;X15;Y59;K"SPN"
+C;X16;Y59;K"PB"
+C;X17;Y59;K"paragraph"
+C;X18;Y59;K"periph2"
+C;X1;Y60;K"periph3 (&)"
+C;X2;Y60;K"V"
+C;X4;Y60;K1
+C;X5;Y60;K1
+C;X8;Y60;K"Peripheral Variable [p.sfm]"
+C;X9;Y60;K0.7
+C;X10;Y60;K"TextVariable: paragraph"
+C;X11;Y60;K"rem"
+C;X15;Y60;K"SPN"
+C;X16;Y60;K"PB"
+C;X17;Y60;K"paragraph"
+C;X18;Y60;K"periph3"
+C;X1;Y61;K"periph4 (&)"
+C;X2;Y61;K"V"
+C;X4;Y61;K1
+C;X5;Y61;K1
+C;X8;Y61;K"Peripheral Variable [p.sfm]"
+C;X9;Y61;K0.7
+C;X10;Y61;K"TextVariable: paragraph"
+C;X11;Y61;K"rem"
+C;X15;Y61;K"SPN"
+C;X16;Y61;K"PB"
+C;X17;Y61;K"paragraph"
+C;X18;Y61;K"periph4"
+C;X1;Y62;K"periph5 (&)"
+C;X2;Y62;K"V"
+C;X4;Y62;K1
+C;X5;Y62;K1
+C;X8;Y62;K"Peripheral Variable [p.sfm]"
+C;X9;Y62;K0.7
+C;X10;Y62;K"TextVariable: paragraph"
+C;X11;Y62;K"rem"
+C;X15;Y62;K"SPN"
+C;X16;Y62;K"PB"
+C;X17;Y62;K"paragraph"
+C;X18;Y62;K"periph5"
+C;X1;Y63;K"periph6 (&)"
+C;X2;Y63;K"V"
+C;X4;Y63;K1
+C;X5;Y63;K1
+C;X8;Y63;K"Peripheral Variable [p.sfm]"
+C;X9;Y63;K0.7
+C;X10;Y63;K"TextVariable: paragraph"
+C;X11;Y63;K"rem"
+C;X15;Y63;K"SPN"
+C;X16;Y63;K"PB"
+C;X17;Y63;K"paragraph"
+C;X18;Y63;K"periph6"
+C;X1;Y64;K"periph7 (&)"
+C;X2;Y64;K"V"
+C;X4;Y64;K1
+C;X5;Y64;K1
+C;X8;Y64;K"Peripheral Variable [p.sfm]"
+C;X9;Y64;K0.7
+C;X10;Y64;K"TextVariable: paragraph"
+C;X11;Y64;K"rem"
+C;X15;Y64;K"SPN"
+C;X16;Y64;K"PB"
+C;X17;Y64;K"paragraph"
+C;X18;Y64;K"periph7"
+C;X1;Y65;K"periph8 (&)"
+C;X2;Y65;K"V"
+C;X4;Y65;K1
+C;X5;Y65;K1
+C;X8;Y65;K"Peripheral Variable [p.sfm]"
+C;X9;Y65;K0.7
+C;X10;Y65;K"TextVariable: paragraph"
+C;X11;Y65;K"rem"
+C;X15;Y65;K"SPN"
+C;X16;Y65;K"PB"
+C;X17;Y65;K"paragraph"
+C;X18;Y65;K"periph8"
+C;X1;Y66;K"periph9 (&)"
+C;X2;Y66;K"V"
+C;X4;Y66;K1
+C;X5;Y66;K1
+C;X8;Y66;K"Peripheral Variable [p.sfm]"
+C;X9;Y66;K0.7
+C;X10;Y66;K"TextVariable: paragraph"
+C;X11;Y66;K"rem"
+C;X15;Y66;K"SPN"
+C;X16;Y66;K"PB"
+C;X17;Y66;K"paragraph"
+C;X18;Y66;K"periph9"
+C;X1;Y67;K"qvs ... ($)"
+C;X2;Y67;K"V"
+C;X3;Y67;K1
+C;X7;Y67;K1
+C;X8;Y67;K"Backspace v in poetry [p.sfm]"
+C;X9;Y67;K0
+C;X10;Y67;K"ID (Manumission) only."
+C;X15;Y67;K"TQV"
+C;X17;Y67;K"text"
+C;X18;Y67;K"qvs"
+C;X1;Y68;K"rem (&)"
+C;X2;Y68;K"V"
+C;X4;Y68;K1
+C;X5;Y68;K1
+C;X8;Y68;K"Remark"
+C;X9;Y68;K1
+C;X10;Y68;K"USFM Notes (hidden)"
+C;X11;Y68;K"m"
+C;X12;Y68;K"T50"
+C;X13;Y68;K"R00"
+C;X14;Y68;K"M0"
+C;X15;Y68;K"Clear"
+C;X17;Y68;K"paragraph"
+C;X18;Y68;K"rem"
+C;X1;Y69;K"sts (&)"
+C;X2;Y69;K"V"
+C;X4;Y69;K1
+C;X5;Y69;K1
+C;X8;Y69;K"Project status"
+C;X9;Y69;K1
+C;X10;Y69;K"TextVariable: paragraph"
+C;X11;Y69;K"rem"
+C;X17;Y69;K"paragraph"
+C;X18;Y69;K"sts"
+C;X1;Y70;K"usfm (&)"
+C;X2;Y70;K"V"
+C;X4;Y70;K1
+C;X5;Y70;K1
+C;X8;Y70;K"Version declaration [USFM]"
+C;X9;Y70;K1
+C;X10;Y70;K"TextVariable: paragraph"
+C;X11;Y70;K"rem"
+C;X17;Y70;K"paragraph"
+C;X18;Y70;K"usfm"
+C;X1;Y71;K"vn … vn ($)"
+C;X2;Y71;K"V"
+C;X3;Y71;K1
+C;X5;Y71;K1
+C;X7;Y71;K1
+C;X8;Y71;K"Verse Number in Header [p.sfm]"
+C;X9;Y71;K0.9
+C;X10;Y71;K"created in converter"
+C;X12;Y71;K"T50"
+C;X16;Y71;K"FPL"
+C;X17;Y71;K"text"
+C;X18;Y71;K"vn"
+C;X1;Y72;K"qt-e ...*"
+C;X2;Y72;K"U"
+C;X3;Y72;K1
+C;X4;Y72;K1
+C;X7;Y72;K1
+C;X8;Y72;K"quotation speaker info"
+C;X9;Y72;K0.25
+C;X13;Y72;K"R00"
+C;X15;Y72;K"Clear"
+C;X17;Y72;K"text"
+C;X18;Y72;K"qt-e"
+C;X1;Y73;K"qt-s ...*"
+C;X2;Y73;K"U"
+C;X3;Y73;K1
+C;X4;Y73;K1
+C;X7;Y73;K1
+C;X8;Y73;K"quotation speaker info"
+C;X9;Y73;K0.25
+C;X13;Y73;K"R00"
+C;X15;Y73;K"Clear"
+C;X17;Y73;K"text"
+C;X18;Y73;K"qt-s"
+C;X1;Y74;K"qt0-e ...*"
+C;X2;Y74;K"U"
+C;X3;Y74;K1
+C;X4;Y74;K1
+C;X7;Y74;K1
+C;X8;Y74;K"quotation speaker info"
+C;X9;Y74;K0.25
+C;X13;Y74;K"R00"
+C;X15;Y74;K"Clear"
+C;X17;Y74;K"text"
+C;X18;Y74;K"qt0-e"
+C;X1;Y75;K"qt0-s ...*"
+C;X2;Y75;K"U"
+C;X3;Y75;K1
+C;X4;Y75;K1
+C;X7;Y75;K1
+C;X8;Y75;K"quotation speaker info"
+C;X9;Y75;K0.25
+C;X13;Y75;K"R00"
+C;X15;Y75;K"Clear"
+C;X17;Y75;K"text"
+C;X18;Y75;K"qt0-s"
+C;X1;Y76;K"qt1-e ...*"
+C;X2;Y76;K"U"
+C;X3;Y76;K1
+C;X4;Y76;K1
+C;X7;Y76;K1
+C;X8;Y76;K"quotation speaker info"
+C;X9;Y76;K0.25
+C;X13;Y76;K"R00"
+C;X15;Y76;K"Clear"
+C;X17;Y76;K"text"
+C;X18;Y76;K"qt1-e"
+C;X1;Y77;K"qt1-s ...*"
+C;X2;Y77;K"U"
+C;X3;Y77;K1
+C;X4;Y77;K1
+C;X7;Y77;K1
+C;X8;Y77;K"quotation speaker info"
+C;X9;Y77;K0.25
+C;X13;Y77;K"R00"
+C;X15;Y77;K"Clear"
+C;X17;Y77;K"text"
+C;X18;Y77;K"qt1-s"
+C;X1;Y78;K"qt2-e ...*"
+C;X2;Y78;K"U"
+C;X3;Y78;K1
+C;X4;Y78;K1
+C;X7;Y78;K1
+C;X8;Y78;K"quotation speaker info"
+C;X9;Y78;K0.25
+C;X13;Y78;K"R00"
+C;X15;Y78;K"Clear"
+C;X17;Y78;K"text"
+C;X18;Y78;K"qt2-e"
+C;X1;Y79;K"qt2-s ...*"
+C;X2;Y79;K"U"
+C;X3;Y79;K1
+C;X4;Y79;K1
+C;X7;Y79;K1
+C;X8;Y79;K"quotation speaker info"
+C;X9;Y79;K0.25
+C;X13;Y79;K"R00"
+C;X15;Y79;K"Clear"
+C;X17;Y79;K"text"
+C;X18;Y79;K"qt2-s"
+C;X1;Y80;K"qt3-e ...*"
+C;X2;Y80;K"U"
+C;X3;Y80;K1
+C;X4;Y80;K1
+C;X7;Y80;K1
+C;X8;Y80;K"quotation speaker info"
+C;X9;Y80;K0.25
+C;X13;Y80;K"R00"
+C;X15;Y80;K"Clear"
+C;X17;Y80;K"text"
+C;X18;Y80;K"qt3-e"
+C;X1;Y81;K"qt3-s ...*"
+C;X2;Y81;K"U"
+C;X3;Y81;K1
+C;X4;Y81;K1
+C;X7;Y81;K1
+C;X8;Y81;K"quotation speaker info"
+C;X9;Y81;K0.25
+C;X13;Y81;K"R00"
+C;X15;Y81;K"Clear"
+C;X17;Y81;K"text"
+C;X18;Y81;K"qt3-s"
+C;X1;Y82;K"qt4-e ...*"
+C;X2;Y82;K"U"
+C;X3;Y82;K1
+C;X4;Y82;K1
+C;X7;Y82;K1
+C;X8;Y82;K"quotation speaker info"
+C;X9;Y82;K0.25
+C;X13;Y82;K"R00"
+C;X15;Y82;K"Clear"
+C;X17;Y82;K"text"
+C;X18;Y82;K"qt4-e"
+C;X1;Y83;K"qt4-s ...*"
+C;X2;Y83;K"U"
+C;X3;Y83;K1
+C;X4;Y83;K1
+C;X7;Y83;K1
+C;X8;Y83;K"quotation speaker info"
+C;X9;Y83;K0.25
+C;X13;Y83;K"R00"
+C;X15;Y83;K"Clear"
+C;X17;Y83;K"text"
+C;X18;Y83;K"qt4-s"
+C;X1;Y84;K"qt5-e ...*"
+C;X2;Y84;K"U"
+C;X3;Y84;K1
+C;X4;Y84;K1
+C;X7;Y84;K1
+C;X8;Y84;K"quotation speaker info"
+C;X9;Y84;K0.25
+C;X13;Y84;K"R00"
+C;X15;Y84;K"Clear"
+C;X17;Y84;K"text"
+C;X18;Y84;K"qt5-e"
+C;X1;Y85;K"qt5-s ...*"
+C;X2;Y85;K"U"
+C;X3;Y85;K1
+C;X4;Y85;K1
+C;X7;Y85;K1
+C;X8;Y85;K"quotation speaker info"
+C;X9;Y85;K0.25
+C;X13;Y85;K"R00"
+C;X15;Y85;K"Clear"
+C;X17;Y85;K"text"
+C;X18;Y85;K"qt5-s"
+C;X1;Y86;K"qt6-e ...*"
+C;X2;Y86;K"U"
+C;X3;Y86;K1
+C;X4;Y86;K1
+C;X7;Y86;K1
+C;X8;Y86;K"quotation speaker info"
+C;X9;Y86;K0.25
+C;X13;Y86;K"R00"
+C;X15;Y86;K"Clear"
+C;X17;Y86;K"text"
+C;X18;Y86;K"qt6-e"
+C;X1;Y87;K"qt6-s ...*"
+C;X2;Y87;K"U"
+C;X3;Y87;K1
+C;X4;Y87;K1
+C;X7;Y87;K1
+C;X8;Y87;K"quotation speaker info"
+C;X9;Y87;K0.25
+C;X13;Y87;K"R00"
+C;X15;Y87;K"Clear"
+C;X17;Y87;K"text"
+C;X18;Y87;K"qt6-s"
+C;X1;Y88;K"qt7-e ...*"
+C;X2;Y88;K"U"
+C;X3;Y88;K1
+C;X4;Y88;K1
+C;X7;Y88;K1
+C;X8;Y88;K"quotation speaker info"
+C;X9;Y88;K0.25
+C;X13;Y88;K"R00"
+C;X15;Y88;K"Clear"
+C;X17;Y88;K"text"
+C;X18;Y88;K"qt7-e"
+C;X1;Y89;K"qt7-s ...*"
+C;X2;Y89;K"U"
+C;X3;Y89;K1
+C;X4;Y89;K1
+C;X7;Y89;K1
+C;X8;Y89;K"quotation speaker info"
+C;X9;Y89;K0.25
+C;X13;Y89;K"R00"
+C;X15;Y89;K"Clear"
+C;X17;Y89;K"text"
+C;X18;Y89;K"qt7-s"
+C;X1;Y90;K"qt8-e ...*"
+C;X2;Y90;K"U"
+C;X3;Y90;K1
+C;X4;Y90;K1
+C;X7;Y90;K1
+C;X8;Y90;K"quotation speaker info"
+C;X9;Y90;K0.25
+C;X13;Y90;K"R00"
+C;X15;Y90;K"Clear"
+C;X17;Y90;K"text"
+C;X18;Y90;K"qt8-e"
+C;X1;Y91;K"qt8-s ...*"
+C;X2;Y91;K"U"
+C;X3;Y91;K1
+C;X4;Y91;K1
+C;X7;Y91;K1
+C;X8;Y91;K"quotation speaker info"
+C;X9;Y91;K0.25
+C;X13;Y91;K"R00"
+C;X15;Y91;K"Clear"
+C;X17;Y91;K"text"
+C;X18;Y91;K"qt8-s"
+C;X1;Y92;K"qt9-e ...*"
+C;X2;Y92;K"U"
+C;X3;Y92;K1
+C;X4;Y92;K1
+C;X7;Y92;K1
+C;X8;Y92;K"quotation speaker info"
+C;X9;Y92;K0.25
+C;X13;Y92;K"R00"
+C;X15;Y92;K"Clear"
+C;X17;Y92;K"text"
+C;X18;Y92;K"qt9-e"
+C;X1;Y93;K"qt9-s ...*"
+C;X2;Y93;K"U"
+C;X3;Y93;K1
+C;X4;Y93;K1
+C;X7;Y93;K1
+C;X8;Y93;K"quotation speaker info"
+C;X9;Y93;K0.25
+C;X10;Y93;K"rem"
+C;X13;Y93;K"R00"
+C;X15;Y93;K"Clear"
+C;X17;Y93;K"text"
+C;X18;Y93;K"qt9-s"
+C;X1;Y94;K"_ [ ... ]($)"
+C;X2;Y94;K"S"
+C;X3;Y94;K1
+C;X7;Y94;K1
+C;X8;Y94;K"Styled space after verse [p.sfm]"
+C;X9;Y94;K0.4
+C;X10;Y94;K"no break"
+C;X12;Y94;K"B92"
+C;X17;Y94;K"text"
+C;X18;Y94;K"_"
+C;X1;Y95;K"// ... ($)"
+C;X2;Y95;K"S"
+C;X3;Y95;K1
+C;X7;Y95;K1
+C;X8;Y95;K"Optional breakpoint"
+C;X9;Y95;K0.4
+C;X10;Y95;K"rest of Paragraph >  nb space (~)"
+C;X17;Y95;K"text"
+C;X18;Y95;K"//"
+C;X1;Y96;K"~ [ ... ]"
+C;X2;Y96;K"S"
+C;X3;Y96;K1
+C;X7;Y96;K1
+C;X8;Y96;K"Non-breaking space Character"
+C;X9;Y96;K1
+C;X10;Y96;K"Replace with nbsp"
+C;X15;Y96;K"NB"
+C;X16;Y96;K"Clear"
+C;X17;Y96;K"text"
+C;X18;Y96;K"~"
+C;X1;Y97;K"c (.) ( $)"
+C;X2;Y97;K"S"
+C;X3;Y97;K1
+C;X4;Y97;K1
+C;X5;Y97;K1
+C;X8;Y97;K"Chapter Number"
+C;X9;Y97;K1
+C;X10;Y97;K"Drop Caps"
+C;X11;Y97;K"m"
+C;X15;Y97;K"DC"
+C;X17;Y97;K"paragraph"
+C;X18;Y97;K"c"
+C;X1;Y98;K"col"
+C;X2;Y98;K"S"
+C;X4;Y98;K1
+C;X5;Y98;K1
+C;X8;Y98;K"Figure in column [p.sfm]"
+C;X9;Y98;K0.5
+C;X11;Y98;K"m"
+C;X14;Y98;K"C"
+C;X17;Y98;K"paragraph"
+C;X18;Y98;K"col"
+C;X1;Y99;K"qs ... qs*"
+C;X2;Y99;K"S"
+C;X3;Y99;K1
+C;X7;Y99;K1
+C;X8;Y99;K"Selah"
+C;X9;Y99;K0.4
+C;X10;Y99;K"need \u0008 before style (shift-tab)"
+C;X12;Y99;K"B41"
+C;X17;Y99;K"text"
+C;X18;Y99;K"qs"
+C;X1;Y100;K"restore (&)"
+C;X2;Y100;K"S"
+C;X3;Y100;K1
+C;X4;Y100;K1
+C;X8;Y100;K"Restore Information"
+C;X9;Y100;K0.5
+C;X11;Y100;K"rem"
+C;X17;Y100;K"paragraph"
+C;X18;Y100;K"restore"
+C;X1;Y101;K"span"
+C;X2;Y101;K"S"
+C;X4;Y101;K1
+C;X5;Y101;K1
+C;X8;Y101;K"Figure spans columns [p.sfm]"
+C;X9;Y101;K0.5
+C;X10;Y101;K"LO: start 1 column section"
+C;X11;Y101;K"m"
+C;X14;Y101;K"CB"
+C;X15;Y101;K"SPN"
+C;X17;Y101;K"paragraph"
+C;X18;Y101;K"span"
+C;X1;Y102;K"v (.) ( $)"
+C;X2;Y102;K"S"
+C;X3;Y102;K1
+C;X7;Y102;K1
+C;X8;Y102;K"Verse Number"
+C;X9;Y102;K1
+C;X10;Y102;K"1 word style"
+C;X12;Y102;K"S60"
+C;X15;Y102;K"VM"
+C;X16;Y102;K"FPL"
+C;X17;Y102;K"text"
+C;X18;Y102;K"v"
+C;X1;Y103;K"vp ... vp* ( $)"
+C;X2;Y103;K"S"
+C;X3;Y103;K1
+C;X7;Y103;K1
+C;X8;Y103;K"Published Verse"
+C;X9;Y103;K0.8
+C;X10;Y103;K"untested"
+C;X13;Y103;K"B10"
+C;X15;Y103;K"Clear"
+C;X17;Y103;K"text"
+C;X18;Y103;K"vp"
+C;X1;Y104;K"fig ... fig* ($)"
+C;X2;Y104;K"R"
+C;X3;Y104;K1
+C;X4;Y104;K1
+C;X7;Y104;K1
+C;X8;Y104;K"Illustration [p.sfm] :desc(H x V)|url|cols|na|src|cap|ref"
+C;X9;Y104;K0.5
+C;X10;Y104;K"Insert Illustration"
+C;X17;Y104;K"text"
+C;X18;Y104;K"fig"
+C;X1;Y105;K"jmp ...|...jmp*"
+C;X2;Y105;K"R"
+C;X7;Y105;K1
+C;X8;Y105;K"jump to target within document"
+C;X9;Y105;K0.5
+C;X10;Y105;K"NEEDS pipe handling"
+C;X17;Y105;K"text"
+C;X18;Y105;K"jmp"
+C;X1;Y106;K"toc (&)"
+C;X2;Y106;K"R"
+C;X4;Y106;K1
+C;X5;Y106;K1
+C;X8;Y106;K"TOC Major Section [p.sfm]"
+C;X9;Y106;K1
+C;X10;Y106;K"TextVariable: paragraph"
+C;X11;Y106;K"rem"
+C;X17;Y106;K"paragraph"
+C;X18;Y106;K"toc"
+C;X1;Y107;K"toc0 (&)"
+C;X2;Y107;K"R"
+C;X4;Y107;K1
+C;X5;Y107;K1
+C;X8;Y107;K"TOC Subsection [p.sfm]"
+C;X9;Y107;K1
+C;X10;Y107;K"TextVariable: paragraph"
+C;X11;Y107;K"rem"
+C;X17;Y107;K"paragraph"
+C;X18;Y107;K"toc0"
+C;X1;Y108;K"toc1 (&)"
+C;X2;Y108;K"R"
+C;X4;Y108;K1
+C;X5;Y108;K1
+C;X8;Y108;K"TOC Long Book Name [USFM]"
+C;X9;Y108;K1
+C;X10;Y108;K"TextVariable: paragraph"
+C;X11;Y108;K"rem"
+C;X17;Y108;K"paragraph"
+C;X18;Y108;K"toc1"
+C;X1;Y109;K"toc2 (&)"
+C;X2;Y109;K"R"
+C;X4;Y109;K1
+C;X5;Y109;K1
+C;X8;Y109;K"Short TOC text [USFM]"
+C;X9;Y109;K1
+C;X10;Y109;K"TextVariable: paragraph"
+C;X11;Y109;K"rem"
+C;X17;Y109;K"paragraph"
+C;X18;Y109;K"toc2"
+C;X1;Y110;K"toc3 (&)"
+C;X2;Y110;K"R"
+C;X4;Y110;K1
+C;X5;Y110;K1
+C;X8;Y110;K"TOC Book Abbreviation [USFM]"
+C;X9;Y110;K1
+C;X10;Y110;K"TextVariable: paragraph"
+C;X11;Y110;K"rem"
+C;X17;Y110;K"paragraph"
+C;X18;Y110;K"toc3"
+C;X1;Y111;K"toc4 (&)"
+C;X2;Y111;K"R"
+C;X4;Y111;K1
+C;X5;Y111;K1
+C;X8;Y111;K"Published Number Chapters [p.sfm]"
+C;X9;Y111;K1
+C;X10;Y111;K"TextVariable: paragraph"
+C;X11;Y111;K"rem"
+C;X17;Y111;K"paragraph"
+C;X18;Y111;K"toc4"
+C;X1;Y112;K"toc5 (&)"
+C;X2;Y112;K"R"
+C;X4;Y112;K1
+C;X5;Y112;K1
+C;X8;Y112;K"TOC Data [p.sfm]"
+C;X9;Y112;K1
+C;X10;Y112;K"TextVariable: paragraph"
+C;X11;Y112;K"rem"
+C;X17;Y112;K"paragraph"
+C;X18;Y112;K"toc5"
+C;X1;Y113;K"toc6 (&)"
+C;X2;Y113;K"R"
+C;X4;Y113;K1
+C;X5;Y113;K1
+C;X8;Y113;K"TOC Data [p.sfm]"
+C;X9;Y113;K1
+C;X10;Y113;K"TextVariable: paragraph"
+C;X11;Y113;K"rem"
+C;X17;Y113;K"paragraph"
+C;X18;Y113;K"toc6"
+C;X1;Y114;K"toc7 (&)"
+C;X2;Y114;K"R"
+C;X4;Y114;K1
+C;X5;Y114;K1
+C;X8;Y114;K"TOC Data [p.sfm]"
+C;X9;Y114;K1
+C;X10;Y114;K"TextVariable: paragraph"
+C;X11;Y114;K"rem"
+C;X17;Y114;K"paragraph"
+C;X18;Y114;K"toc7"
+C;X1;Y115;K"toc8 (&)"
+C;X2;Y115;K"R"
+C;X4;Y115;K1
+C;X5;Y115;K1
+C;X8;Y115;K"TOC Data [p.sfm]"
+C;X9;Y115;K1
+C;X10;Y115;K"TextVariable: paragraph"
+C;X11;Y115;K"rem"
+C;X17;Y115;K"paragraph"
+C;X18;Y115;K"toc8"
+C;X1;Y116;K"toc9 (&)"
+C;X2;Y116;K"R"
+C;X4;Y116;K1
+C;X5;Y116;K1
+C;X8;Y116;K"TOC Data [p.sfm]"
+C;X9;Y116;K1
+C;X10;Y116;K"TextVariable: paragraph"
+C;X11;Y116;K"rem"
+C;X17;Y116;K"paragraph"
+C;X18;Y116;K"toc9"
+C;X1;Y117;K"toca (&)"
+C;X2;Y117;K"R"
+C;X4;Y117;K1
+C;X5;Y117;K1
+C;X8;Y117;K"Alt Lang TOC Major Section [p.sfm]"
+C;X9;Y117;K1
+C;X10;Y117;K"TextVariable: paragraph"
+C;X11;Y117;K"rem"
+C;X17;Y117;K"paragraph"
+C;X18;Y117;K"toca"
+C;X1;Y118;K"toca0 (&)"
+C;X2;Y118;K"R"
+C;X4;Y118;K1
+C;X5;Y118;K1
+C;X8;Y118;K"Alt Lang TOC Subsection [p.sfm]"
+C;X9;Y118;K1
+C;X10;Y118;K"TextVariable: paragraph"
+C;X11;Y118;K"rem"
+C;X17;Y118;K"paragraph"
+C;X18;Y118;K"toca0"
+C;X1;Y119;K"toca1 (&)"
+C;X2;Y119;K"R"
+C;X4;Y119;K1
+C;X5;Y119;K1
+C;X8;Y119;K"Alt TOC Long Name [USFM]"
+C;X9;Y119;K1
+C;X10;Y119;K"TextVariable: paragraph"
+C;X11;Y119;K"rem"
+C;X17;Y119;K"paragraph"
+C;X18;Y119;K"toca1"
+C;X1;Y120;K"toca2 (&)"
+C;X2;Y120;K"R"
+C;X4;Y120;K1
+C;X5;Y120;K1
+C;X8;Y120;K"Alt TOC Short Name [USFM]"
+C;X9;Y120;K1
+C;X10;Y120;K"TextVariable: paragraph"
+C;X11;Y120;K"rem"
+C;X17;Y120;K"paragraph"
+C;X18;Y120;K"toca2"
+C;X1;Y121;K"toca3 (&)"
+C;X2;Y121;K"R"
+C;X4;Y121;K1
+C;X5;Y121;K1
+C;X8;Y121;K"Alt TOC Book Abbr [USFM]"
+C;X9;Y121;K1
+C;X10;Y121;K"TextVariable: paragraph"
+C;X11;Y121;K"rem"
+C;X17;Y121;K"paragraph"
+C;X18;Y121;K"toca3"
+C;X1;Y122;K"toca4 (&)"
+C;X2;Y122;K"R"
+C;X4;Y122;K1
+C;X5;Y122;K1
+C;X8;Y122;K"TOC Data [p.sfm]"
+C;X9;Y122;K1
+C;X10;Y122;K"TextVariable: paragraph"
+C;X11;Y122;K"rem"
+C;X17;Y122;K"paragraph"
+C;X18;Y122;K"toca4"
+C;X1;Y123;K"toca5 (&)"
+C;X2;Y123;K"R"
+C;X4;Y123;K1
+C;X5;Y123;K1
+C;X8;Y123;K"TOC Data [p.sfm]"
+C;X9;Y123;K1
+C;X10;Y123;K"TextVariable: paragraph"
+C;X11;Y123;K"rem"
+C;X17;Y123;K"paragraph"
+C;X18;Y123;K"toca5"
+C;X1;Y124;K"toca6 (&)"
+C;X2;Y124;K"R"
+C;X4;Y124;K1
+C;X5;Y124;K1
+C;X8;Y124;K"TOC Data [p.sfm]"
+C;X9;Y124;K1
+C;X10;Y124;K"TextVariable: paragraph"
+C;X11;Y124;K"rem"
+C;X17;Y124;K"paragraph"
+C;X18;Y124;K"toca6"
+C;X1;Y125;K"toca7 (&)"
+C;X2;Y125;K"R"
+C;X4;Y125;K1
+C;X5;Y125;K1
+C;X8;Y125;K"TOC Data [p.sfm]"
+C;X9;Y125;K1
+C;X10;Y125;K"TextVariable: paragraph"
+C;X11;Y125;K"rem"
+C;X17;Y125;K"paragraph"
+C;X18;Y125;K"toca7"
+C;X1;Y126;K"toca8 (&)"
+C;X2;Y126;K"R"
+C;X4;Y126;K1
+C;X5;Y126;K1
+C;X8;Y126;K"TOC Data [p.sfm]"
+C;X9;Y126;K1
+C;X10;Y126;K"TextVariable: paragraph"
+C;X11;Y126;K"rem"
+C;X17;Y126;K"paragraph"
+C;X18;Y126;K"toca8"
+C;X1;Y127;K"toca9 (&)"
+C;X2;Y127;K"R"
+C;X4;Y127;K1
+C;X5;Y127;K1
+C;X8;Y127;K"TOC Data [p.sfm]"
+C;X9;Y127;K1
+C;X10;Y127;K"TextVariable: paragraph"
+C;X11;Y127;K"rem"
+C;X17;Y127;K"paragraph"
+C;X18;Y127;K"toca9"
+C;X1;Y128;K"ts"
+C;X2;Y128;K"R"
+C;X4;Y128;K1
+C;X5;Y128;K1
+C;X8;Y128;K"Translator's Chunk Marker"
+C;X9;Y128;K1
+C;X11;Y128;K"rem"
+C;X17;Y128;K"paragraph"
+C;X18;Y128;K"ts"
+C;X1;Y129;K"w ...|... w*"
+C;X2;Y129;K"R"
+C;X3;Y129;K1
+C;X4;Y129;K1
+C;X7;Y129;K1
+C;X8;Y129;K"Wordlist Marker w metadata"
+C;X9;Y129;K0.5
+C;X10;Y129;K"NEEDS pipe handling"
+C;X17;Y129;K"text"
+C;X18;Y129;K"w"
+C;X1;Y130;K"b"
+C;X2;Y130;K"P"
+C;X5;Y130;K1
+C;X8;Y130;K"Blank Line"
+C;X9;Y130;K1
+C;X11;Y130;K"rem"
+C;X13;Y130;K"B10"
+C;X17;Y130;K"paragraph"
+C;X18;Y130;K"b"
+C;X1;Y131;K"b0"
+C;X2;Y131;K"P"
+C;X5;Y131;K1
+C;X8;Y131;K"Blank Line-50% leading [p.sfm]"
+C;X9;Y131;K1
+C;X11;Y131;K"rem"
+C;X13;Y131;K"R05"
+C;X17;Y131;K"paragraph"
+C;X18;Y131;K"b0"
+C;X1;Y132;K"b1"
+C;X2;Y132;K"P"
+C;X5;Y132;K1
+C;X8;Y132;K"Blank Line-1x leading [p.sfm]"
+C;X9;Y132;K1
+C;X11;Y132;K"rem"
+C;X13;Y132;K"B10"
+C;X17;Y132;K"paragraph"
+C;X18;Y132;K"b1"
+C;X1;Y133;K"b2"
+C;X2;Y133;K"P"
+C;X5;Y133;K1
+C;X8;Y133;K"Blank Line-2x leading [p.sfm]"
+C;X9;Y133;K1
+C;X11;Y133;K"rem"
+C;X13;Y133;K"B20"
+C;X17;Y133;K"paragraph"
+C;X18;Y133;K"b2"
+C;X1;Y134;K"b3"
+C;X2;Y134;K"P"
+C;X5;Y134;K1
+C;X8;Y134;K"Blank Line-3x leading [p.sfm]"
+C;X9;Y134;K1
+C;X11;Y134;K"rem"
+C;X13;Y134;K"B30"
+C;X17;Y134;K"paragraph"
+C;X18;Y134;K"b3"
+C;X1;Y135;K"b4"
+C;X2;Y135;K"P"
+C;X5;Y135;K1
+C;X8;Y135;K"Blank Line-4x leading [p.sfm]"
+C;X9;Y135;K1
+C;X11;Y135;K"rem"
+C;X13;Y135;K"B40"
+C;X17;Y135;K"paragraph"
+C;X18;Y135;K"b4"
+C;X1;Y136;K"b5"
+C;X2;Y136;K"P"
+C;X5;Y136;K1
+C;X8;Y136;K"Blank Line-5x leading [p.sfm]"
+C;X9;Y136;K1
+C;X11;Y136;K"rem"
+C;X13;Y136;K"B50"
+C;X17;Y136;K"paragraph"
+C;X18;Y136;K"b5"
+C;X1;Y137;K"b6"
+C;X2;Y137;K"P"
+C;X5;Y137;K1
+C;X8;Y137;K"Blank Line-6x leading [p.sfm]"
+C;X9;Y137;K1
+C;X11;Y137;K"rem"
+C;X13;Y137;K"B60"
+C;X17;Y137;K"paragraph"
+C;X18;Y137;K"b6"
+C;X1;Y138;K"b7"
+C;X2;Y138;K"P"
+C;X5;Y138;K1
+C;X8;Y138;K"Blank Line-7x leading [p.sfm]"
+C;X9;Y138;K1
+C;X11;Y138;K"rem"
+C;X13;Y138;K"B70"
+C;X17;Y138;K"paragraph"
+C;X18;Y138;K"b7"
+C;X1;Y139;K"b8"
+C;X2;Y139;K"P"
+C;X5;Y139;K1
+C;X8;Y139;K"Blank Line-8x leading [p.sfm]"
+C;X9;Y139;K1
+C;X11;Y139;K"rem"
+C;X13;Y139;K"B80"
+C;X17;Y139;K"paragraph"
+C;X18;Y139;K"b8"
+C;X1;Y140;K"b9"
+C;X2;Y140;K"P"
+C;X5;Y140;K1
+C;X8;Y140;K"Blank Line-9x leading [p.sfm]"
+C;X9;Y140;K1
+C;X11;Y140;K"rem"
+C;X13;Y140;K"B90"
+C;X17;Y140;K"paragraph"
+C;X18;Y140;K"b9"
+C;X1;Y141;K"cd"
+C;X2;Y141;K"P"
+C;X5;Y141;K1
+C;X8;Y141;K"Chapter Description"
+C;X9;Y141;K1
+C;X11;Y141;K"m"
+C;X12;Y141;K"S50"
+C;X13;Y141;K"L08"
+C;X14;Y141;K"CJ"
+C;X15;Y141;K"FPL"
+C;X17;Y141;K"paragraph"
+C;X18;Y141;K"cd"
+C;X1;Y142;K"cl ( $)"
+C;X2;Y142;K"P"
+C;X3;Y142;K1
+C;X5;Y142;K1
+C;X8;Y142;K"Chapter Label"
+C;X9;Y142;K0.8
+C;X10;Y142;K"If exist c stays up."
+C;X11;Y142;K"m"
+C;X12;Y142;K"T70"
+C;X13;Y142;K"S20"
+C;X14;Y142;K"C"
+C;X15;Y142;K"VC1"
+C;X16;Y142;K"FPL"
+C;X17;Y142;K"paragraph"
+C;X18;Y142;K"cl"
+C;X1;Y143;K"cls"
+C;X2;Y143;K"P"
+C;X5;Y143;K1
+C;X8;Y143;K"Closing"
+C;X9;Y143;K1
+C;X11;Y143;K"m"
+C;X17;Y143;K"paragraph"
+C;X18;Y143;K"cls"
+C;X1;Y144;K"d"
+C;X2;Y144;K"P"
+C;X5;Y144;K1
+C;X8;Y144;K"Directives Descriptive Title"
+C;X9;Y144;K1
+C;X11;Y144;K"m"
+C;X12;Y144;K"B51"
+C;X13;Y144;K"L08"
+C;X14;Y144;K"CJ"
+C;X17;Y144;K"paragraph"
+C;X18;Y144;K"d"
+C;X1;Y145;K"erq"
+C;X2;Y145;K"P"
+C;X5;Y145;K1
+C;X8;Y145;K"Study Reflective Question Pargraph"
+C;X9;Y145;K0.5
+C;X11;Y145;K"im"
+C;X12;Y145;K"S40"
+C;X13;Y145;K"F10"
+C;X17;Y145;K"paragraph"
+C;X18;Y145;K"erq"
+C;X1;Y146;K"ib"
+C;X2;Y146;K"P"
+C;X5;Y146;K1
+C;X8;Y146;K"Intro Blank Line"
+C;X9;Y146;K1
+C;X11;Y146;K"rem"
+C;X13;Y146;K"B10"
+C;X17;Y146;K"paragraph"
+C;X18;Y146;K"ib"
+C;X1;Y147;K"ib0"
+C;X2;Y147;K"P"
+C;X5;Y147;K1
+C;X8;Y147;K"Blank Line-50% leading [p.sfm]"
+C;X9;Y147;K1
+C;X11;Y147;K"rem"
+C;X13;Y147;K"R05"
+C;X17;Y147;K"paragraph"
+C;X18;Y147;K"ib0"
+C;X1;Y148;K"ib1"
+C;X2;Y148;K"P"
+C;X5;Y148;K1
+C;X8;Y148;K"Blank Line-1x leading [p.sfm]"
+C;X9;Y148;K1
+C;X11;Y148;K"rem"
+C;X13;Y148;K"B10"
+C;X17;Y148;K"paragraph"
+C;X18;Y148;K"ib1"
+C;X1;Y149;K"ib2"
+C;X2;Y149;K"P"
+C;X5;Y149;K1
+C;X8;Y149;K"Blank Line-2x leading [p.sfm]"
+C;X9;Y149;K1
+C;X11;Y149;K"rem"
+C;X13;Y149;K"B20"
+C;X17;Y149;K"paragraph"
+C;X18;Y149;K"ib2"
+C;X1;Y150;K"ib3"
+C;X2;Y150;K"P"
+C;X5;Y150;K1
+C;X8;Y150;K"Blank Line-3x leading [p.sfm]"
+C;X9;Y150;K1
+C;X11;Y150;K"rem"
+C;X13;Y150;K"B30"
+C;X17;Y150;K"paragraph"
+C;X18;Y150;K"ib3"
+C;X1;Y151;K"ib4"
+C;X2;Y151;K"P"
+C;X5;Y151;K1
+C;X8;Y151;K"Blank Line-4x leading [p.sfm]"
+C;X9;Y151;K1
+C;X11;Y151;K"rem"
+C;X13;Y151;K"B40"
+C;X17;Y151;K"paragraph"
+C;X18;Y151;K"ib4"
+C;X1;Y152;K"ib5"
+C;X2;Y152;K"P"
+C;X5;Y152;K1
+C;X8;Y152;K"Blank Line-5x leading [p.sfm]"
+C;X9;Y152;K1
+C;X11;Y152;K"rem"
+C;X13;Y152;K"B50"
+C;X17;Y152;K"paragraph"
+C;X18;Y152;K"ib5"
+C;X1;Y153;K"ib6"
+C;X2;Y153;K"P"
+C;X5;Y153;K1
+C;X8;Y153;K"Blank Line-6x leading [p.sfm]"
+C;X9;Y153;K1
+C;X11;Y153;K"rem"
+C;X13;Y153;K"B60"
+C;X17;Y153;K"paragraph"
+C;X18;Y153;K"ib6"
+C;X1;Y154;K"ib7"
+C;X2;Y154;K"P"
+C;X5;Y154;K1
+C;X8;Y154;K"Blank Line-7x leading [p.sfm]"
+C;X9;Y154;K1
+C;X11;Y154;K"rem"
+C;X13;Y154;K"B70"
+C;X17;Y154;K"paragraph"
+C;X18;Y154;K"ib7"
+C;X1;Y155;K"ib8"
+C;X2;Y155;K"P"
+C;X5;Y155;K1
+C;X8;Y155;K"Blank Line-8x leading [p.sfm]"
+C;X9;Y155;K1
+C;X11;Y155;K"rem"
+C;X13;Y155;K"B80"
+C;X17;Y155;K"paragraph"
+C;X18;Y155;K"ib8"
+C;X1;Y156;K"ib9"
+C;X2;Y156;K"P"
+C;X5;Y156;K1
+C;X8;Y156;K"Blank Line-9x leading [p.sfm]"
+C;X9;Y156;K1
+C;X11;Y156;K"rem"
+C;X13;Y156;K"B90"
+C;X17;Y156;K"paragraph"
+C;X18;Y156;K"ib9"
+C;X1;Y157;K"ie"
+C;X2;Y157;K"P"
+C;X5;Y157;K1
+C;X8;Y157;K"Intro End"
+C;X9;Y157;K1
+C;X10;Y157;K"LO: section "text" start."
+C;X11;Y157;K"rem"
+C;X13;Y157;K"B10"
+C;X17;Y157;K"paragraph"
+C;X18;Y157;K"ie"
+C;X1;Y158;K"iex"
+C;X2;Y158;K"P"
+C;X5;Y158;K1
+C;X8;Y158;K"Explanation/Bridge"
+C;X9;Y158;K1
+C;X11;Y158;K"m"
+C;X12;Y158;K"B41"
+C;X14;Y158;K"CB"
+C;X17;Y158;K"paragraph"
+C;X18;Y158;K"iex"
+C;X1;Y159;K"ili"
+C;X2;Y159;K"P"
+C;X5;Y159;K1
+C;X8;Y159;K"Intro List"
+C;X9;Y159;K1
+C;X11;Y159;K"im"
+C;X14;Y159;K"H1"
+C;X17;Y159;K"paragraph"
+C;X18;Y159;K"ili"
+C;X1;Y160;K"ili0"
+C;X2;Y160;K"P"
+C;X5;Y160;K1
+C;X8;Y160;K"Intro List Lvl 0"
+C;X9;Y160;K1
+C;X11;Y160;K"im"
+C;X14;Y160;K"H0"
+C;X17;Y160;K"paragraph"
+C;X18;Y160;K"ili0"
+C;X1;Y161;K"ili1"
+C;X2;Y161;K"P"
+C;X5;Y161;K1
+C;X8;Y161;K"Intro List Lvl 1"
+C;X9;Y161;K1
+C;X11;Y161;K"im"
+C;X14;Y161;K"H1"
+C;X17;Y161;K"paragraph"
+C;X18;Y161;K"ili1"
+C;X1;Y162;K"ili2"
+C;X2;Y162;K"P"
+C;X5;Y162;K1
+C;X8;Y162;K"Intro List Lvl 2"
+C;X9;Y162;K1
+C;X11;Y162;K"im"
+C;X14;Y162;K"H2"
+C;X17;Y162;K"paragraph"
+C;X18;Y162;K"ili2"
+C;X1;Y163;K"ili3"
+C;X2;Y163;K"P"
+C;X5;Y163;K1
+C;X8;Y163;K"Intro List Lvl 3"
+C;X9;Y163;K1
+C;X11;Y163;K"im"
+C;X14;Y163;K"H3"
+C;X17;Y163;K"paragraph"
+C;X18;Y163;K"ili3"
+C;X1;Y164;K"ili4"
+C;X2;Y164;K"P"
+C;X5;Y164;K1
+C;X8;Y164;K"Intro List Lvl 4"
+C;X9;Y164;K1
+C;X11;Y164;K"im"
+C;X14;Y164;K"H4"
+C;X17;Y164;K"paragraph"
+C;X18;Y164;K"ili4"
+C;X1;Y165;K"ili5"
+C;X2;Y165;K"P"
+C;X5;Y165;K1
+C;X8;Y165;K"Intro List Lvl 5"
+C;X9;Y165;K1
+C;X11;Y165;K"im"
+C;X14;Y165;K"H5"
+C;X17;Y165;K"paragraph"
+C;X18;Y165;K"ili5"
+C;X1;Y166;K"ili6"
+C;X2;Y166;K"P"
+C;X5;Y166;K1
+C;X8;Y166;K"Intro List Lvl 6"
+C;X9;Y166;K1
+C;X11;Y166;K"im"
+C;X14;Y166;K"H6"
+C;X17;Y166;K"paragraph"
+C;X18;Y166;K"ili6"
+C;X1;Y167;K"ili7"
+C;X2;Y167;K"P"
+C;X5;Y167;K1
+C;X8;Y167;K"Intro List Lvl 7"
+C;X9;Y167;K1
+C;X11;Y167;K"im"
+C;X14;Y167;K"H7"
+C;X17;Y167;K"paragraph"
+C;X18;Y167;K"ili7"
+C;X1;Y168;K"ili8"
+C;X2;Y168;K"P"
+C;X5;Y168;K1
+C;X8;Y168;K"Intro List Lvl 8"
+C;X9;Y168;K1
+C;X11;Y168;K"im"
+C;X14;Y168;K"H8"
+C;X17;Y168;K"paragraph"
+C;X18;Y168;K"ili8"
+C;X1;Y169;K"ili9"
+C;X2;Y169;K"P"
+C;X5;Y169;K1
+C;X8;Y169;K"Intro List Lvl 9"
+C;X9;Y169;K1
+C;X11;Y169;K"im"
+C;X14;Y169;K"H9"
+C;X17;Y169;K"paragraph"
+C;X18;Y169;K"ili9"
+C;X1;Y170;K"im0"
+C;X2;Y170;K"P"
+C;X5;Y170;K1
+C;X8;Y170;K"Intro Mrg Parag Lvl 0 [p.sfm]"
+C;X9;Y170;K1
+C;X11;Y170;K"im"
+C;X14;Y170;K"M0"
+C;X17;Y170;K"paragraph"
+C;X18;Y170;K"im0"
+C;X1;Y171;K"im1"
+C;X2;Y171;K"P"
+C;X5;Y171;K1
+C;X8;Y171;K"Intro Mrg Parag Lvl 1 [p.sfm]"
+C;X9;Y171;K1
+C;X11;Y171;K"im"
+C;X14;Y171;K"M1"
+C;X17;Y171;K"paragraph"
+C;X18;Y171;K"im1"
+C;X1;Y172;K"im2"
+C;X2;Y172;K"P"
+C;X5;Y172;K1
+C;X8;Y172;K"Intro Mrg Parag Lvl 2 [p.sfm]"
+C;X9;Y172;K1
+C;X11;Y172;K"im"
+C;X14;Y172;K"M2"
+C;X17;Y172;K"paragraph"
+C;X18;Y172;K"im2"
+C;X1;Y173;K"im3"
+C;X2;Y173;K"P"
+C;X5;Y173;K1
+C;X8;Y173;K"Intro Mrg Parag Lvl 3 [p.sfm]"
+C;X9;Y173;K1
+C;X11;Y173;K"im"
+C;X14;Y173;K"M3"
+C;X17;Y173;K"paragraph"
+C;X18;Y173;K"im3"
+C;X1;Y174;K"im4"
+C;X2;Y174;K"P"
+C;X5;Y174;K1
+C;X8;Y174;K"Intro Mrg Parag Lvl 4 [p.sfm]"
+C;X9;Y174;K1
+C;X11;Y174;K"im"
+C;X14;Y174;K"M4"
+C;X17;Y174;K"paragraph"
+C;X18;Y174;K"im4"
+C;X1;Y175;K"im5"
+C;X2;Y175;K"P"
+C;X5;Y175;K1
+C;X8;Y175;K"Intro Mrg Parag Lvl 5 [p.sfm]"
+C;X9;Y175;K1
+C;X11;Y175;K"im"
+C;X14;Y175;K"M5"
+C;X17;Y175;K"paragraph"
+C;X18;Y175;K"im5"
+C;X1;Y176;K"im6"
+C;X2;Y176;K"P"
+C;X5;Y176;K1
+C;X8;Y176;K"Intro Mrg Parag Lvl 6 [p.sfm]"
+C;X9;Y176;K1
+C;X11;Y176;K"im"
+C;X14;Y176;K"M6"
+C;X17;Y176;K"paragraph"
+C;X18;Y176;K"im6"
+C;X1;Y177;K"im7"
+C;X2;Y177;K"P"
+C;X5;Y177;K1
+C;X8;Y177;K"Intro Mrg Parag Lvl 7 [p.sfm]"
+C;X9;Y177;K1
+C;X11;Y177;K"im"
+C;X14;Y177;K"M7"
+C;X17;Y177;K"paragraph"
+C;X18;Y177;K"im7"
+C;X1;Y178;K"im8"
+C;X2;Y178;K"P"
+C;X5;Y178;K1
+C;X8;Y178;K"Intro Mrg Parag Lvl 8 [p.sfm]"
+C;X9;Y178;K1
+C;X11;Y178;K"im"
+C;X14;Y178;K"M8"
+C;X17;Y178;K"paragraph"
+C;X18;Y178;K"im8"
+C;X1;Y179;K"im9"
+C;X2;Y179;K"P"
+C;X5;Y179;K1
+C;X8;Y179;K"Intro Mrg Parag Lvl 9 [p.sfm]"
+C;X9;Y179;K1
+C;X11;Y179;K"im"
+C;X14;Y179;K"M9"
+C;X17;Y179;K"paragraph"
+C;X18;Y179;K"im9"
+C;X1;Y180;K"imi"
+C;X2;Y180;K"P"
+C;X5;Y180;K1
+C;X8;Y180;K"Intro Mrg Parag Lvl 2"
+C;X9;Y180;K1
+C;X11;Y180;K"im"
+C;X14;Y180;K"M2"
+C;X17;Y180;K"paragraph"
+C;X18;Y180;K"imi"
+C;X1;Y181;K"imq"
+C;X2;Y181;K"P"
+C;X5;Y181;K1
+C;X8;Y181;K"Intro Margin Quote Par"
+C;X9;Y181;K1
+C;X11;Y181;K"im"
+C;X14;Y181;K"M2"
+C;X17;Y181;K"paragraph"
+C;X18;Y181;K"imq"
+C;X1;Y182;K"imt"
+C;X2;Y182;K"P"
+C;X5;Y182;K1
+C;X8;Y182;K"Intro Major Title"
+C;X9;Y182;K1
+C;X11;Y182;K"mt"
+C;X12;Y182;K"T50"
+C;X13;Y182;K"L90"
+C;X15;Y182;K"VC1"
+C;X17;Y182;K"paragraph"
+C;X18;Y182;K"imt"
+C;X1;Y183;K"imt0"
+C;X2;Y183;K"P"
+C;X5;Y183;K1
+C;X8;Y183;K"Intro Major Title Lvl 0"
+C;X9;Y183;K1
+C;X11;Y183;K"mt"
+C;X12;Y183;K"T50"
+C;X13;Y183;K"L80"
+C;X15;Y183;K"VC1"
+C;X17;Y183;K"paragraph"
+C;X18;Y183;K"imt0"
+C;X1;Y184;K"imt1"
+C;X2;Y184;K"P"
+C;X5;Y184;K1
+C;X8;Y184;K"Intro Major Title Lvl 1"
+C;X9;Y184;K1
+C;X11;Y184;K"mt"
+C;X12;Y184;K"T50"
+C;X13;Y184;K"L70"
+C;X15;Y184;K"VC1"
+C;X17;Y184;K"paragraph"
+C;X18;Y184;K"imt1"
+C;X1;Y185;K"imt2"
+C;X2;Y185;K"P"
+C;X5;Y185;K1
+C;X8;Y185;K"Intro Major Title Lvl 2"
+C;X9;Y185;K1
+C;X11;Y185;K"mt"
+C;X12;Y185;K"T50"
+C;X13;Y185;K"L60"
+C;X15;Y185;K"VC1"
+C;X17;Y185;K"paragraph"
+C;X18;Y185;K"imt2"
+C;X1;Y186;K"imt3"
+C;X2;Y186;K"P"
+C;X5;Y186;K1
+C;X8;Y186;K"Intro Major Title Lvl 3"
+C;X9;Y186;K1
+C;X11;Y186;K"mt"
+C;X12;Y186;K"T50"
+C;X13;Y186;K"L50"
+C;X15;Y186;K"VC1"
+C;X17;Y186;K"paragraph"
+C;X18;Y186;K"imt3"
+C;X1;Y187;K"imt4"
+C;X2;Y187;K"P"
+C;X5;Y187;K1
+C;X8;Y187;K"Intro Major Title Lvl 4"
+C;X9;Y187;K1
+C;X11;Y187;K"mt"
+C;X12;Y187;K"T50"
+C;X13;Y187;K"L40"
+C;X15;Y187;K"VC1"
+C;X17;Y187;K"paragraph"
+C;X18;Y187;K"imt4"
+C;X1;Y188;K"imt5"
+C;X2;Y188;K"P"
+C;X5;Y188;K1
+C;X8;Y188;K"Intro Major Title Lvl 5"
+C;X9;Y188;K1
+C;X11;Y188;K"mt"
+C;X12;Y188;K"T60"
+C;X13;Y188;K"L30"
+C;X17;Y188;K"paragraph"
+C;X18;Y188;K"imt5"
+C;X1;Y189;K"imt6"
+C;X2;Y189;K"P"
+C;X5;Y189;K1
+C;X8;Y189;K"Intro Major Title Lvl 6"
+C;X9;Y189;K1
+C;X11;Y189;K"mt"
+C;X12;Y189;K"T70"
+C;X13;Y189;K"L10"
+C;X17;Y189;K"paragraph"
+C;X18;Y189;K"imt6"
+C;X1;Y190;K"imt7"
+C;X2;Y190;K"P"
+C;X5;Y190;K1
+C;X8;Y190;K"Intro Major Title Lvl 7"
+C;X9;Y190;K1
+C;X11;Y190;K"mt"
+C;X12;Y190;K"T70"
+C;X13;Y190;K"L10"
+C;X17;Y190;K"paragraph"
+C;X18;Y190;K"imt7"
+C;X1;Y191;K"imt8"
+C;X2;Y191;K"P"
+C;X5;Y191;K1
+C;X8;Y191;K"Intro Major Title Lvl 8"
+C;X9;Y191;K1
+C;X11;Y191;K"mt"
+C;X12;Y191;K"T70"
+C;X13;Y191;K"L08"
+C;X17;Y191;K"paragraph"
+C;X18;Y191;K"imt8"
+C;X1;Y192;K"imt9"
+C;X2;Y192;K"P"
+C;X5;Y192;K1
+C;X8;Y192;K"Intro Major Title Lvl 9"
+C;X9;Y192;K1
+C;X11;Y192;K"mt"
+C;X12;Y192;K"T70"
+C;X13;Y192;K"L08"
+C;X17;Y192;K"paragraph"
+C;X18;Y192;K"imt9"
+C;X1;Y193;K"imte"
+C;X2;Y193;K"P"
+C;X5;Y193;K1
+C;X8;Y193;K"Intro End Major Title"
+C;X9;Y193;K1
+C;X11;Y193;K"mt"
+C;X12;Y193;K"T50"
+C;X13;Y193;K"L90"
+C;X15;Y193;K"VC1"
+C;X17;Y193;K"paragraph"
+C;X18;Y193;K"imte"
+C;X1;Y194;K"imte0"
+C;X2;Y194;K"P"
+C;X5;Y194;K1
+C;X8;Y194;K"Intro End Major Title Lvl 0"
+C;X9;Y194;K1
+C;X11;Y194;K"mt"
+C;X12;Y194;K"T50"
+C;X13;Y194;K"L80"
+C;X15;Y194;K"VC1"
+C;X17;Y194;K"paragraph"
+C;X18;Y194;K"imte0"
+C;X1;Y195;K"imte1"
+C;X2;Y195;K"P"
+C;X5;Y195;K1
+C;X8;Y195;K"Intro End Major Title Lvl 1"
+C;X9;Y195;K1
+C;X11;Y195;K"mt"
+C;X12;Y195;K"T50"
+C;X13;Y195;K"L70"
+C;X15;Y195;K"VC1"
+C;X17;Y195;K"paragraph"
+C;X18;Y195;K"imte1"
+C;X1;Y196;K"imte2"
+C;X2;Y196;K"P"
+C;X5;Y196;K1
+C;X8;Y196;K"Intro End Major Title Lvl 2"
+C;X9;Y196;K1
+C;X11;Y196;K"mt"
+C;X12;Y196;K"T50"
+C;X13;Y196;K"L60"
+C;X15;Y196;K"VC1"
+C;X17;Y196;K"paragraph"
+C;X18;Y196;K"imte2"
+C;X1;Y197;K"imte3"
+C;X2;Y197;K"P"
+C;X5;Y197;K1
+C;X8;Y197;K"Intro End Major Title Lvl 3"
+C;X9;Y197;K1
+C;X11;Y197;K"mt"
+C;X12;Y197;K"T50"
+C;X13;Y197;K"L50"
+C;X15;Y197;K"VC1"
+C;X17;Y197;K"paragraph"
+C;X18;Y197;K"imte3"
+C;X1;Y198;K"imte4"
+C;X2;Y198;K"P"
+C;X5;Y198;K1
+C;X8;Y198;K"Intro End Major Title Lvl 4"
+C;X9;Y198;K1
+C;X11;Y198;K"mt"
+C;X12;Y198;K"T50"
+C;X13;Y198;K"L40"
+C;X15;Y198;K"VC1"
+C;X17;Y198;K"paragraph"
+C;X18;Y198;K"imte4"
+C;X1;Y199;K"imte5"
+C;X2;Y199;K"P"
+C;X5;Y199;K1
+C;X8;Y199;K"Intro End Major Title Lvl 5"
+C;X9;Y199;K1
+C;X11;Y199;K"mt"
+C;X12;Y199;K"T60"
+C;X13;Y199;K"L30"
+C;X17;Y199;K"paragraph"
+C;X18;Y199;K"imte5"
+C;X1;Y200;K"imte6"
+C;X2;Y200;K"P"
+C;X5;Y200;K1
+C;X8;Y200;K"Intro End Major Title Lvl 6"
+C;X9;Y200;K1
+C;X11;Y200;K"mt"
+C;X12;Y200;K"T70"
+C;X13;Y200;K"S20"
+C;X17;Y200;K"paragraph"
+C;X18;Y200;K"imte6"
+C;X1;Y201;K"imte7"
+C;X2;Y201;K"P"
+C;X5;Y201;K1
+C;X8;Y201;K"Intro End Major Title Lvl 7"
+C;X9;Y201;K1
+C;X11;Y201;K"mt"
+C;X12;Y201;K"T70"
+C;X13;Y201;K"S10"
+C;X17;Y201;K"paragraph"
+C;X18;Y201;K"imte7"
+C;X1;Y202;K"imte8"
+C;X2;Y202;K"P"
+C;X5;Y202;K1
+C;X8;Y202;K"Intro End Major Title Lvl 8"
+C;X9;Y202;K1
+C;X11;Y202;K"mt"
+C;X12;Y202;K"T70"
+C;X13;Y202;K"S08"
+C;X17;Y202;K"paragraph"
+C;X18;Y202;K"imte8"
+C;X1;Y203;K"imte9"
+C;X2;Y203;K"P"
+C;X5;Y203;K1
+C;X8;Y203;K"Intro End Major Title Lvl 9"
+C;X9;Y203;K1
+C;X10;Y203;K"LO: section "text" start."
+C;X11;Y203;K"rem"
+C;X15;Y203;K"SPN"
+C;X17;Y203;K"paragraph"
+C;X18;Y203;K"imte9"
+C;X1;Y204;K"io"
+C;X2;Y204;K"P"
+C;X5;Y204;K1
+C;X8;Y204;K"Intro Outline"
+C;X9;Y204;K1
+C;X11;Y204;K"im"
+C;X14;Y204;K"H1"
+C;X17;Y204;K"paragraph"
+C;X18;Y204;K"io"
+C;X1;Y205;K"io0"
+C;X2;Y205;K"P"
+C;X5;Y205;K1
+C;X8;Y205;K"Intro Outline Lvl 0"
+C;X9;Y205;K1
+C;X11;Y205;K"im"
+C;X14;Y205;K"H0"
+C;X17;Y205;K"paragraph"
+C;X18;Y205;K"io0"
+C;X1;Y206;K"io1"
+C;X2;Y206;K"P"
+C;X5;Y206;K1
+C;X8;Y206;K"Intro Outline Lvl 1"
+C;X9;Y206;K1
+C;X11;Y206;K"im"
+C;X14;Y206;K"H1"
+C;X17;Y206;K"paragraph"
+C;X18;Y206;K"io1"
+C;X1;Y207;K"io2"
+C;X2;Y207;K"P"
+C;X5;Y207;K1
+C;X8;Y207;K"Intro Outline Lvl 2"
+C;X9;Y207;K1
+C;X11;Y207;K"im"
+C;X14;Y207;K"H2"
+C;X17;Y207;K"paragraph"
+C;X18;Y207;K"io2"
+C;X1;Y208;K"io3"
+C;X2;Y208;K"P"
+C;X5;Y208;K1
+C;X8;Y208;K"Intro Outline Lvl 3"
+C;X9;Y208;K1
+C;X11;Y208;K"im"
+C;X14;Y208;K"H3"
+C;X17;Y208;K"paragraph"
+C;X18;Y208;K"io3"
+C;X1;Y209;K"io4"
+C;X2;Y209;K"P"
+C;X5;Y209;K1
+C;X8;Y209;K"Intro Outline Lvl 4"
+C;X9;Y209;K1
+C;X11;Y209;K"im"
+C;X14;Y209;K"H4"
+C;X17;Y209;K"paragraph"
+C;X18;Y209;K"io4"
+C;X1;Y210;K"io5"
+C;X2;Y210;K"P"
+C;X5;Y210;K1
+C;X8;Y210;K"Intro Outline Lvl 5"
+C;X9;Y210;K1
+C;X11;Y210;K"im"
+C;X14;Y210;K"H5"
+C;X17;Y210;K"paragraph"
+C;X18;Y210;K"io5"
+C;X1;Y211;K"io6"
+C;X2;Y211;K"P"
+C;X5;Y211;K1
+C;X8;Y211;K"Intro Outline Lvl 6"
+C;X9;Y211;K1
+C;X11;Y211;K"im"
+C;X14;Y211;K"H6"
+C;X17;Y211;K"paragraph"
+C;X18;Y211;K"io6"
+C;X1;Y212;K"io7"
+C;X2;Y212;K"P"
+C;X5;Y212;K1
+C;X8;Y212;K"Intro Outline Lvl 7"
+C;X9;Y212;K1
+C;X11;Y212;K"im"
+C;X14;Y212;K"H7"
+C;X17;Y212;K"paragraph"
+C;X18;Y212;K"io7"
+C;X1;Y213;K"io8"
+C;X2;Y213;K"P"
+C;X5;Y213;K1
+C;X8;Y213;K"Intro Outline Lvl 8"
+C;X9;Y213;K1
+C;X11;Y213;K"im"
+C;X14;Y213;K"H8"
+C;X17;Y213;K"paragraph"
+C;X18;Y213;K"io8"
+C;X1;Y214;K"io9"
+C;X2;Y214;K"P"
+C;X5;Y214;K1
+C;X8;Y214;K"Intro Outline Lvl 9"
+C;X9;Y214;K1
+C;X11;Y214;K"im"
+C;X14;Y214;K"H9"
+C;X17;Y214;K"paragraph"
+C;X18;Y214;K"io9"
+C;X1;Y215;K"iot"
+C;X2;Y215;K"P"
+C;X5;Y215;K1
+C;X8;Y215;K"Intro Outline Title"
+C;X9;Y215;K1
+C;X11;Y215;K"im"
+C;X12;Y215;K"S70"
+C;X14;Y215;K"H1"
+C;X17;Y215;K"paragraph"
+C;X18;Y215;K"iot"
+C;X1;Y216;K"ip"
+C;X2;Y216;K"P"
+C;X5;Y216;K1
+C;X8;Y216;K"Intro Paragraph"
+C;X9;Y216;K1
+C;X11;Y216;K"im"
+C;X14;Y216;K"P0"
+C;X17;Y216;K"paragraph"
+C;X18;Y216;K"ip"
+C;X1;Y217;K"ip0"
+C;X2;Y217;K"P"
+C;X5;Y217;K1
+C;X8;Y217;K"Intro Paragraph Lvl 0 [p.sfm]"
+C;X9;Y217;K1
+C;X11;Y217;K"im"
+C;X14;Y217;K"P0"
+C;X17;Y217;K"paragraph"
+C;X18;Y217;K"ip0"
+C;X1;Y218;K"ip1"
+C;X2;Y218;K"P"
+C;X5;Y218;K2
+C;X8;Y218;K"Intro Paragraph Lvl 1 [p.sfm]"
+C;X9;Y218;K1
+C;X11;Y218;K"im"
+C;X14;Y218;K"P1"
+C;X17;Y218;K"paragraph"
+C;X18;Y218;K"ip1"
+C;X1;Y219;K"ip2"
+C;X2;Y219;K"P"
+C;X5;Y219;K3
+C;X8;Y219;K"Intro Paragraph Lvl 2 [p.sfm]"
+C;X9;Y219;K1
+C;X11;Y219;K"im"
+C;X14;Y219;K"P2"
+C;X17;Y219;K"paragraph"
+C;X18;Y219;K"ip2"
+C;X1;Y220;K"ip3"
+C;X2;Y220;K"P"
+C;X5;Y220;K4
+C;X8;Y220;K"Intro Paragraph Lvl 3 [p.sfm]"
+C;X9;Y220;K1
+C;X11;Y220;K"im"
+C;X14;Y220;K"P3"
+C;X17;Y220;K"paragraph"
+C;X18;Y220;K"ip3"
+C;X1;Y221;K"ip4"
+C;X2;Y221;K"P"
+C;X5;Y221;K5
+C;X8;Y221;K"Intro Paragraph Lvl 4 [p.sfm]"
+C;X9;Y221;K1
+C;X11;Y221;K"im"
+C;X14;Y221;K"P4"
+C;X17;Y221;K"paragraph"
+C;X18;Y221;K"ip4"
+C;X1;Y222;K"ip5"
+C;X2;Y222;K"P"
+C;X5;Y222;K6
+C;X8;Y222;K"Intro Paragraph Lvl 5 [p.sfm]"
+C;X9;Y222;K1
+C;X11;Y222;K"im"
+C;X14;Y222;K"P5"
+C;X17;Y222;K"paragraph"
+C;X18;Y222;K"ip5"
+C;X1;Y223;K"ip6"
+C;X2;Y223;K"P"
+C;X5;Y223;K7
+C;X8;Y223;K"Intro Paragraph Lvl 6 [p.sfm]"
+C;X9;Y223;K1
+C;X11;Y223;K"im"
+C;X14;Y223;K"P6"
+C;X17;Y223;K"paragraph"
+C;X18;Y223;K"ip6"
+C;X1;Y224;K"ip7"
+C;X2;Y224;K"P"
+C;X5;Y224;K8
+C;X8;Y224;K"Intro Paragraph Lvl 7 [p.sfm]"
+C;X9;Y224;K1
+C;X11;Y224;K"im"
+C;X14;Y224;K"P7"
+C;X17;Y224;K"paragraph"
+C;X18;Y224;K"ip7"
+C;X1;Y225;K"ip8"
+C;X2;Y225;K"P"
+C;X5;Y225;K9
+C;X8;Y225;K"Intro Paragraph Lvl 8 [p.sfm]"
+C;X9;Y225;K1
+C;X11;Y225;K"im"
+C;X14;Y225;K"P8"
+C;X17;Y225;K"paragraph"
+C;X18;Y225;K"ip8"
+C;X1;Y226;K"ip9"
+C;X2;Y226;K"P"
+C;X5;Y226;K10
+C;X8;Y226;K"Intro Paragraph Lvl 9 [p.sfm]"
+C;X9;Y226;K1
+C;X11;Y226;K"im"
+C;X14;Y226;K"P9"
+C;X17;Y226;K"paragraph"
+C;X18;Y226;K"ip9"
+C;X1;Y227;K"ipi"
+C;X2;Y227;K"P"
+C;X5;Y227;K1
+C;X8;Y227;K"Intro Indented Paragraph"
+C;X9;Y227;K1
+C;X11;Y227;K"im"
+C;X14;Y227;K"P2"
+C;X17;Y227;K"paragraph"
+C;X18;Y227;K"ipi"
+C;X1;Y228;K"ipq"
+C;X2;Y228;K"P"
+C;X5;Y228;K1
+C;X8;Y228;K"Intro Indented Quote Paragraph"
+C;X9;Y228;K1
+C;X11;Y228;K"im"
+C;X14;Y228;K"P2"
+C;X17;Y228;K"paragraph"
+C;X18;Y228;K"ipq"
+C;X1;Y229;K"ipr"
+C;X2;Y229;K"P"
+C;X5;Y229;K1
+C;X8;Y229;K"Intro Right align Paragraph"
+C;X9;Y229;K1
+C;X11;Y229;K"im"
+C;X14;Y229;K"R0"
+C;X17;Y229;K"paragraph"
+C;X18;Y229;K"ipr"
+C;X1;Y230;K"iq0"
+C;X2;Y230;K"P"
+C;X5;Y230;K1
+C;X8;Y230;K"Intro Poetry Lvl 1"
+C;X9;Y230;K1
+C;X11;Y230;K"iq"
+C;X14;Y230;K"Q0"
+C;X17;Y230;K"paragraph"
+C;X18;Y230;K"iq0"
+C;X1;Y231;K"iq1"
+C;X2;Y231;K"P"
+C;X5;Y231;K1
+C;X8;Y231;K"Intro Poetry Lvl 2"
+C;X9;Y231;K1
+C;X11;Y231;K"iq"
+C;X14;Y231;K"Q1"
+C;X17;Y231;K"paragraph"
+C;X18;Y231;K"iq1"
+C;X1;Y232;K"iq2"
+C;X2;Y232;K"P"
+C;X5;Y232;K1
+C;X8;Y232;K"Intro Poetry Lvl 3"
+C;X9;Y232;K1
+C;X11;Y232;K"iq"
+C;X14;Y232;K"Q2"
+C;X17;Y232;K"paragraph"
+C;X18;Y232;K"iq2"
+C;X1;Y233;K"iq3"
+C;X2;Y233;K"P"
+C;X5;Y233;K1
+C;X8;Y233;K"Intro Poetry Lvl 4"
+C;X9;Y233;K1
+C;X11;Y233;K"iq"
+C;X14;Y233;K"Q3"
+C;X17;Y233;K"paragraph"
+C;X18;Y233;K"iq3"
+C;X1;Y234;K"iq4"
+C;X2;Y234;K"P"
+C;X5;Y234;K1
+C;X8;Y234;K"Intro Poetry Lvl 5"
+C;X9;Y234;K1
+C;X11;Y234;K"iq"
+C;X14;Y234;K"Q4"
+C;X17;Y234;K"paragraph"
+C;X18;Y234;K"iq4"
+C;X1;Y235;K"iq5"
+C;X2;Y235;K"P"
+C;X5;Y235;K1
+C;X8;Y235;K"Intro Poetry Lvl 6"
+C;X9;Y235;K1
+C;X11;Y235;K"iq"
+C;X14;Y235;K"Q5"
+C;X17;Y235;K"paragraph"
+C;X18;Y235;K"iq5"
+C;X1;Y236;K"iq6"
+C;X2;Y236;K"P"
+C;X5;Y236;K1
+C;X8;Y236;K"Intro Poetry Lvl 7"
+C;X9;Y236;K1
+C;X11;Y236;K"iq"
+C;X14;Y236;K"Q6"
+C;X17;Y236;K"paragraph"
+C;X18;Y236;K"iq6"
+C;X1;Y237;K"iq7"
+C;X2;Y237;K"P"
+C;X5;Y237;K1
+C;X8;Y237;K"Intro Poetry Lvl 8"
+C;X9;Y237;K1
+C;X11;Y237;K"iq"
+C;X14;Y237;K"Q7"
+C;X17;Y237;K"paragraph"
+C;X18;Y237;K"iq7"
+C;X1;Y238;K"iq8"
+C;X2;Y238;K"P"
+C;X5;Y238;K1
+C;X8;Y238;K"Intro Poetry Lvl 9"
+C;X9;Y238;K1
+C;X11;Y238;K"iq"
+C;X14;Y238;K"Q8"
+C;X17;Y238;K"paragraph"
+C;X18;Y238;K"iq8"
+C;X1;Y239;K"iq9"
+C;X2;Y239;K"P"
+C;X5;Y239;K1
+C;X8;Y239;K"Intro Poetry Lvl 10"
+C;X9;Y239;K1
+C;X11;Y239;K"iq"
+C;X14;Y239;K"Q9"
+C;X17;Y239;K"paragraph"
+C;X18;Y239;K"iq9"
+C;X1;Y240;K"is"
+C;X2;Y240;K"P"
+C;X5;Y240;K1
+C;X8;Y240;K"Intro Section Title"
+C;X9;Y240;K1
+C;X11;Y240;K"im"
+C;X12;Y240;K"S90"
+C;X13;Y240;K"L40"
+C;X14;Y240;K"CB"
+C;X15;Y240;K"VC1"
+C;X16;Y240;K"KPN"
+C;X17;Y240;K"paragraph"
+C;X18;Y240;K"is"
+C;X1;Y241;K"is0"
+C;X2;Y241;K"P"
+C;X5;Y241;K1
+C;X8;Y241;K"Intro Section Title Lvl 0"
+C;X9;Y241;K1
+C;X11;Y241;K"im"
+C;X12;Y241;K"S91"
+C;X13;Y241;K"L40"
+C;X14;Y241;K"CB"
+C;X15;Y241;K"VC1"
+C;X16;Y241;K"KPN"
+C;X17;Y241;K"paragraph"
+C;X18;Y241;K"is0"
+C;X1;Y242;K"is1"
+C;X2;Y242;K"P"
+C;X5;Y242;K1
+C;X8;Y242;K"Intro Section Title Lvl 1"
+C;X9;Y242;K1
+C;X11;Y242;K"im"
+C;X12;Y242;K"S70"
+C;X13;Y242;K"L30"
+C;X14;Y242;K"CB"
+C;X15;Y242;K"VC1"
+C;X16;Y242;K"KPN"
+C;X17;Y242;K"paragraph"
+C;X18;Y242;K"is1"
+C;X1;Y243;K"is2"
+C;X2;Y243;K"P"
+C;X5;Y243;K1
+C;X8;Y243;K"Intro Section Title Lvl 2"
+C;X9;Y243;K1
+C;X11;Y243;K"im"
+C;X12;Y243;K"S71"
+C;X13;Y243;K"L30"
+C;X14;Y243;K"CB"
+C;X15;Y243;K"VC1"
+C;X16;Y243;K"KPN"
+C;X17;Y243;K"paragraph"
+C;X18;Y243;K"is2"
+C;X1;Y244;K"is3"
+C;X2;Y244;K"P"
+C;X5;Y244;K1
+C;X8;Y244;K"Intro Section Title Lvl 3"
+C;X9;Y244;K1
+C;X11;Y244;K"im"
+C;X12;Y244;K"S90"
+C;X13;Y244;K"S20"
+C;X14;Y244;K"CB"
+C;X15;Y244;K"VC1"
+C;X16;Y244;K"KPN"
+C;X17;Y244;K"paragraph"
+C;X18;Y244;K"is3"
+C;X1;Y245;K"is4"
+C;X2;Y245;K"P"
+C;X5;Y245;K1
+C;X8;Y245;K"Intro Section Title Lvl 4"
+C;X9;Y245;K1
+C;X11;Y245;K"im"
+C;X12;Y245;K"S91"
+C;X13;Y245;K"S20"
+C;X14;Y245;K"CB"
+C;X15;Y245;K"VC1"
+C;X16;Y245;K"KPN"
+C;X17;Y245;K"paragraph"
+C;X18;Y245;K"is4"
+C;X1;Y246;K"is5"
+C;X2;Y246;K"P"
+C;X5;Y246;K1
+C;X8;Y246;K"Intro Section Title Lvl 5"
+C;X9;Y246;K1
+C;X11;Y246;K"im"
+C;X12;Y246;K"S90"
+C;X13;Y246;K"S10"
+C;X14;Y246;K"CB"
+C;X16;Y246;K"KPN"
+C;X17;Y246;K"paragraph"
+C;X18;Y246;K"is5"
+C;X1;Y247;K"is6"
+C;X2;Y247;K"P"
+C;X5;Y247;K1
+C;X8;Y247;K"Intro Section Title Lvl 6"
+C;X9;Y247;K1
+C;X11;Y247;K"im"
+C;X12;Y247;K"S91"
+C;X13;Y247;K"S10"
+C;X14;Y247;K"CB"
+C;X16;Y247;K"KPN"
+C;X17;Y247;K"paragraph"
+C;X18;Y247;K"is6"
+C;X1;Y248;K"is7"
+C;X2;Y248;K"P"
+C;X5;Y248;K1
+C;X8;Y248;K"Intro Section Title Lvl 7"
+C;X9;Y248;K1
+C;X11;Y248;K"im"
+C;X12;Y248;K"S90"
+C;X13;Y248;K"S08"
+C;X14;Y248;K"CB"
+C;X16;Y248;K"KPN"
+C;X17;Y248;K"paragraph"
+C;X18;Y248;K"is7"
+C;X1;Y249;K"is8"
+C;X2;Y249;K"P"
+C;X5;Y249;K1
+C;X8;Y249;K"Intro Section Title Lvl 8"
+C;X9;Y249;K1
+C;X11;Y249;K"im"
+C;X12;Y249;K"S91"
+C;X13;Y249;K"S08"
+C;X14;Y249;K"CB"
+C;X16;Y249;K"KPN"
+C;X17;Y249;K"paragraph"
+C;X18;Y249;K"is8"
+C;X1;Y250;K"is9"
+C;X2;Y250;K"P"
+C;X5;Y250;K1
+C;X8;Y250;K"Intro Section Title Lvl 9"
+C;X9;Y250;K1
+C;X11;Y250;K"im"
+C;X12;Y250;K"S91"
+C;X13;Y250;K"S08"
+C;X14;Y250;K"CB"
+C;X16;Y250;K"SC"
+C;X17;Y250;K"paragraph"
+C;X18;Y250;K"is9"
+C;X1;Y251;K"k"
+C;X2;Y251;K"P"
+C;X5;Y251;K1
+C;X8;Y251;K"Keyword [CB]"
+C;X9;Y251;K1
+C;X11;Y251;K"im"
+C;X14;Y251;K"H0"
+C;X17;Y251;K"paragraph"
+C;X18;Y251;K"k"
+C;X1;Y252;K"k0"
+C;X2;Y252;K"P"
+C;X5;Y252;K1
+C;X8;Y252;K"Keyword Paragraph Lvl 0 [CB]"
+C;X9;Y252;K1
+C;X11;Y252;K"im"
+C;X14;Y252;K"H0"
+C;X17;Y252;K"paragraph"
+C;X18;Y252;K"k0"
+C;X1;Y253;K"k1"
+C;X2;Y253;K"P"
+C;X5;Y253;K1
+C;X8;Y253;K"Keyword Paragraph Lvl 1 [CB]"
+C;X9;Y253;K1
+C;X11;Y253;K"im"
+C;X14;Y253;K"H1"
+C;X17;Y253;K"paragraph"
+C;X18;Y253;K"k1"
+C;X1;Y254;K"k2"
+C;X2;Y254;K"P"
+C;X5;Y254;K1
+C;X8;Y254;K"Keyword Paragraph Lvl 2 [CB]"
+C;X9;Y254;K1
+C;X11;Y254;K"im"
+C;X14;Y254;K"H2"
+C;X17;Y254;K"paragraph"
+C;X18;Y254;K"k2"
+C;X1;Y255;K"k3"
+C;X2;Y255;K"P"
+C;X5;Y255;K1
+C;X8;Y255;K"Keyword Paragraph Lvl 3 [CB]"
+C;X9;Y255;K1
+C;X11;Y255;K"im"
+C;X14;Y255;K"H3"
+C;X17;Y255;K"paragraph"
+C;X18;Y255;K"k3"
+C;X1;Y256;K"k4"
+C;X2;Y256;K"P"
+C;X5;Y256;K1
+C;X8;Y256;K"Keyword Paragraph Lvl 4 [CB]"
+C;X9;Y256;K1
+C;X11;Y256;K"im"
+C;X14;Y256;K"H4"
+C;X17;Y256;K"paragraph"
+C;X18;Y256;K"k4"
+C;X1;Y257;K"k5"
+C;X2;Y257;K"P"
+C;X5;Y257;K1
+C;X8;Y257;K"Keyword Paragraph Lvl 5 [CB]"
+C;X9;Y257;K1
+C;X11;Y257;K"im"
+C;X14;Y257;K"H5"
+C;X17;Y257;K"paragraph"
+C;X18;Y257;K"k5"
+C;X1;Y258;K"k6"
+C;X2;Y258;K"P"
+C;X5;Y258;K1
+C;X8;Y258;K"Keyword Paragraph Lvl 6 [CB]"
+C;X9;Y258;K1
+C;X11;Y258;K"im"
+C;X14;Y258;K"H6"
+C;X17;Y258;K"paragraph"
+C;X18;Y258;K"k6"
+C;X1;Y259;K"k7"
+C;X2;Y259;K"P"
+C;X5;Y259;K1
+C;X8;Y259;K"Keyword Paragraph Lvl 7 [CB]"
+C;X9;Y259;K1
+C;X11;Y259;K"im"
+C;X14;Y259;K"H7"
+C;X17;Y259;K"paragraph"
+C;X18;Y259;K"k7"
+C;X1;Y260;K"k8"
+C;X2;Y260;K"P"
+C;X5;Y260;K1
+C;X8;Y260;K"Keyword Paragraph Lvl 8 [CB]"
+C;X9;Y260;K1
+C;X11;Y260;K"im"
+C;X14;Y260;K"H8"
+C;X17;Y260;K"paragraph"
+C;X18;Y260;K"k8"
+C;X1;Y261;K"k9"
+C;X2;Y261;K"P"
+C;X5;Y261;K1
+C;X8;Y261;K"Keyword Paragraph Lvl 9 [CB]"
+C;X9;Y261;K1
+C;X11;Y261;K"im"
+C;X14;Y261;K"H9"
+C;X17;Y261;K"paragraph"
+C;X18;Y261;K"k9"
+C;X1;Y262;K"lf"
+C;X2;Y262;K"P"
+C;X5;Y262;K1
+C;X8;Y262;K"List footer"
+C;X9;Y262;K1
+C;X11;Y262;K"m"
+C;X14;Y262;K"P0"
+C;X17;Y262;K"paragraph"
+C;X18;Y262;K"lf"
+C;X1;Y263;K"lh"
+C;X2;Y263;K"P"
+C;X5;Y263;K1
+C;X8;Y263;K"List Header"
+C;X9;Y263;K1
+C;X11;Y263;K"m"
+C;X17;Y263;K"paragraph"
+C;X18;Y263;K"lh"
+C;X1;Y264;K"li"
+C;X2;Y264;K"P"
+C;X5;Y264;K1
+C;X8;Y264;K"List item"
+C;X9;Y264;K1
+C;X11;Y264;K"m"
+C;X12;Y264;K"B70"
+C;X13;Y264;K"L10"
+C;X14;Y264;K"CB"
+C;X17;Y264;K"paragraph"
+C;X18;Y264;K"li"
+C;X1;Y265;K"li0"
+C;X2;Y265;K"P"
+C;X5;Y265;K1
+C;X8;Y265;K"List Level 0"
+C;X9;Y265;K1
+C;X11;Y265;K"m"
+C;X14;Y265;K"H0"
+C;X17;Y265;K"paragraph"
+C;X18;Y265;K"li0"
+C;X1;Y266;K"li1"
+C;X2;Y266;K"P"
+C;X5;Y266;K1
+C;X8;Y266;K"List Level 1"
+C;X9;Y266;K1
+C;X11;Y266;K"m"
+C;X14;Y266;K"H1"
+C;X17;Y266;K"paragraph"
+C;X18;Y266;K"li1"
+C;X1;Y267;K"li2"
+C;X2;Y267;K"P"
+C;X5;Y267;K1
+C;X8;Y267;K"List Level 2"
+C;X9;Y267;K1
+C;X11;Y267;K"m"
+C;X14;Y267;K"H2"
+C;X17;Y267;K"paragraph"
+C;X18;Y267;K"li2"
+C;X1;Y268;K"li3"
+C;X2;Y268;K"P"
+C;X5;Y268;K1
+C;X8;Y268;K"List Level 3"
+C;X9;Y268;K1
+C;X11;Y268;K"m"
+C;X14;Y268;K"H3"
+C;X17;Y268;K"paragraph"
+C;X18;Y268;K"li3"
+C;X1;Y269;K"li4"
+C;X2;Y269;K"P"
+C;X5;Y269;K1
+C;X8;Y269;K"List Level 4"
+C;X9;Y269;K1
+C;X11;Y269;K"m"
+C;X14;Y269;K"H4"
+C;X17;Y269;K"paragraph"
+C;X18;Y269;K"li4"
+C;X1;Y270;K"li5"
+C;X2;Y270;K"P"
+C;X5;Y270;K1
+C;X8;Y270;K"List Level 5"
+C;X9;Y270;K1
+C;X11;Y270;K"m"
+C;X14;Y270;K"H5"
+C;X17;Y270;K"paragraph"
+C;X18;Y270;K"li5"
+C;X1;Y271;K"li6"
+C;X2;Y271;K"P"
+C;X5;Y271;K1
+C;X8;Y271;K"List Level 6"
+C;X9;Y271;K1
+C;X11;Y271;K"m"
+C;X14;Y271;K"H6"
+C;X17;Y271;K"paragraph"
+C;X18;Y271;K"li6"
+C;X1;Y272;K"li7"
+C;X2;Y272;K"P"
+C;X5;Y272;K1
+C;X8;Y272;K"List Level 7"
+C;X9;Y272;K1
+C;X11;Y272;K"m"
+C;X14;Y272;K"H7"
+C;X17;Y272;K"paragraph"
+C;X18;Y272;K"li7"
+C;X1;Y273;K"li8"
+C;X2;Y273;K"P"
+C;X5;Y273;K1
+C;X8;Y273;K"List Level 8"
+C;X9;Y273;K1
+C;X11;Y273;K"m"
+C;X14;Y273;K"H8"
+C;X17;Y273;K"paragraph"
+C;X18;Y273;K"li8"
+C;X1;Y274;K"li9"
+C;X2;Y274;K"P"
+C;X5;Y274;K1
+C;X8;Y274;K"List Level 9"
+C;X9;Y274;K1
+C;X11;Y274;K"m"
+C;X14;Y274;K"H9"
+C;X17;Y274;K"paragraph"
+C;X18;Y274;K"li9"
+C;X1;Y275;K"lim"
+C;X2;Y275;K"P"
+C;X5;Y275;K1
+C;X8;Y275;K"Embedded List"
+C;X9;Y275;K1
+C;X11;Y275;K"m"
+C;X12;Y275;K"B70"
+C;X13;Y275;K"L10"
+C;X14;Y275;K"C"
+C;X17;Y275;K"paragraph"
+C;X18;Y275;K"lim"
+C;X1;Y276;K"lim0"
+C;X2;Y276;K"P"
+C;X5;Y276;K1
+C;X8;Y276;K"Embedded List Lvl 0"
+C;X9;Y276;K1
+C;X11;Y276;K"m"
+C;X14;Y276;K"H0"
+C;X17;Y276;K"paragraph"
+C;X18;Y276;K"lim0"
+C;X1;Y277;K"lim1"
+C;X2;Y277;K"P"
+C;X5;Y277;K1
+C;X8;Y277;K"Embedded List Lvl 1"
+C;X9;Y277;K1
+C;X11;Y277;K"m"
+C;X14;Y277;K"H1"
+C;X17;Y277;K"paragraph"
+C;X18;Y277;K"lim1"
+C;X1;Y278;K"lim2"
+C;X2;Y278;K"P"
+C;X5;Y278;K1
+C;X8;Y278;K"Embedded List Lvl 2"
+C;X9;Y278;K1
+C;X11;Y278;K"m"
+C;X14;Y278;K"H2"
+C;X17;Y278;K"paragraph"
+C;X18;Y278;K"lim2"
+C;X1;Y279;K"lim3"
+C;X2;Y279;K"P"
+C;X5;Y279;K1
+C;X8;Y279;K"Embedded List Lvl 3"
+C;X9;Y279;K1
+C;X11;Y279;K"m"
+C;X14;Y279;K"H3"
+C;X17;Y279;K"paragraph"
+C;X18;Y279;K"lim3"
+C;X1;Y280;K"lim4"
+C;X2;Y280;K"P"
+C;X5;Y280;K1
+C;X8;Y280;K"Embedded List Lvl 4"
+C;X9;Y280;K1
+C;X11;Y280;K"m"
+C;X14;Y280;K"H4"
+C;X17;Y280;K"paragraph"
+C;X18;Y280;K"lim4"
+C;X1;Y281;K"lim5"
+C;X2;Y281;K"P"
+C;X5;Y281;K1
+C;X8;Y281;K"Embedded List Lvl 5"
+C;X9;Y281;K1
+C;X11;Y281;K"m"
+C;X14;Y281;K"H5"
+C;X17;Y281;K"paragraph"
+C;X18;Y281;K"lim5"
+C;X1;Y282;K"lim6"
+C;X2;Y282;K"P"
+C;X5;Y282;K1
+C;X8;Y282;K"Embedded List Lvl 6"
+C;X9;Y282;K1
+C;X11;Y282;K"m"
+C;X14;Y282;K"H6"
+C;X17;Y282;K"paragraph"
+C;X18;Y282;K"lim6"
+C;X1;Y283;K"lim7"
+C;X2;Y283;K"P"
+C;X5;Y283;K1
+C;X8;Y283;K"Embedded List Lvl 7"
+C;X9;Y283;K1
+C;X11;Y283;K"m"
+C;X14;Y283;K"H7"
+C;X17;Y283;K"paragraph"
+C;X18;Y283;K"lim7"
+C;X1;Y284;K"lim8"
+C;X2;Y284;K"P"
+C;X5;Y284;K1
+C;X8;Y284;K"Embedded List Lvl 8"
+C;X9;Y284;K1
+C;X11;Y284;K"m"
+C;X14;Y284;K"H8"
+C;X17;Y284;K"paragraph"
+C;X18;Y284;K"lim8"
+C;X1;Y285;K"lim9"
+C;X2;Y285;K"P"
+C;X5;Y285;K1
+C;X8;Y285;K"Embedded List Lvl 9"
+C;X9;Y285;K1
+C;X11;Y285;K"m"
+C;X14;Y285;K"H9"
+C;X17;Y285;K"paragraph"
+C;X18;Y285;K"lim9"
+C;X1;Y286;K"lit"
+C;X2;Y286;K"P"
+C;X5;Y286;K1
+C;X8;Y286;K"Liturgical Note"
+C;X9;Y286;K1
+C;X11;Y286;K"m"
+C;X12;Y286;K"B41"
+C;X14;Y286;K"R0"
+C;X17;Y286;K"paragraph"
+C;X18;Y286;K"lit"
+C;X1;Y287;K"mi"
+C;X2;Y287;K"P"
+C;X5;Y287;K1
+C;X8;Y287;K"Indented flush left Paragraph"
+C;X9;Y287;K1
+C;X11;Y287;K"m"
+C;X14;Y287;K"M2"
+C;X17;Y287;K"paragraph"
+C;X18;Y287;K"mi"
+C;X1;Y288;K"mr"
+C;X2;Y288;K"P"
+C;X5;Y288;K1
+C;X8;Y288;K"Scripture Reference Section Head"
+C;X9;Y288;K1
+C;X11;Y288;K"mt"
+C;X12;Y288;K"T71"
+C;X13;Y288;K"L10"
+C;X17;Y288;K"paragraph"
+C;X18;Y288;K"mr"
+C;X1;Y289;K"ms"
+C;X2;Y289;K"P"
+C;X5;Y289;K1
+C;X8;Y289;K"Major Section Title"
+C;X9;Y289;K1
+C;X11;Y289;K"mt"
+C;X12;Y289;K"S50"
+C;X13;Y289;K"L40"
+C;X15;Y289;K"VC1"
+C;X17;Y289;K"paragraph"
+C;X18;Y289;K"ms"
+C;X1;Y290;K"ms0"
+C;X2;Y290;K"P"
+C;X5;Y290;K1
+C;X8;Y290;K"Major Section Title Lvl 0"
+C;X9;Y290;K1
+C;X11;Y290;K"mt"
+C;X12;Y290;K"S51"
+C;X13;Y290;K"L40"
+C;X15;Y290;K"VC1"
+C;X17;Y290;K"paragraph"
+C;X18;Y290;K"ms0"
+C;X1;Y291;K"ms1"
+C;X2;Y291;K"P"
+C;X5;Y291;K1
+C;X8;Y291;K"Major Section Title Lvl 1"
+C;X9;Y291;K1
+C;X11;Y291;K"mt"
+C;X12;Y291;K"S50"
+C;X13;Y291;K"L30"
+C;X15;Y291;K"VC1"
+C;X17;Y291;K"paragraph"
+C;X18;Y291;K"ms1"
+C;X1;Y292;K"ms2"
+C;X2;Y292;K"P"
+C;X5;Y292;K1
+C;X8;Y292;K"Major Section Title Lvl 2"
+C;X9;Y292;K1
+C;X11;Y292;K"mt"
+C;X12;Y292;K"S51"
+C;X13;Y292;K"L30"
+C;X15;Y292;K"VC1"
+C;X17;Y292;K"paragraph"
+C;X18;Y292;K"ms2"
+C;X1;Y293;K"ms3"
+C;X2;Y293;K"P"
+C;X5;Y293;K1
+C;X8;Y293;K"Major Section Title Lvl 3"
+C;X9;Y293;K1
+C;X11;Y293;K"mt"
+C;X12;Y293;K"S70"
+C;X13;Y293;K"S20"
+C;X15;Y293;K"VC1"
+C;X17;Y293;K"paragraph"
+C;X18;Y293;K"ms3"
+C;X1;Y294;K"ms4"
+C;X2;Y294;K"P"
+C;X5;Y294;K1
+C;X8;Y294;K"Major Section Title Lvl 4"
+C;X9;Y294;K1
+C;X11;Y294;K"mt"
+C;X12;Y294;K"S71"
+C;X13;Y294;K"S20"
+C;X15;Y294;K"VC1"
+C;X17;Y294;K"paragraph"
+C;X18;Y294;K"ms4"
+C;X1;Y295;K"ms5"
+C;X2;Y295;K"P"
+C;X5;Y295;K1
+C;X8;Y295;K"Major Section Title Lvl 5"
+C;X9;Y295;K1
+C;X11;Y295;K"mt"
+C;X12;Y295;K"S70"
+C;X13;Y295;K"S10"
+C;X17;Y295;K"paragraph"
+C;X18;Y295;K"ms5"
+C;X1;Y296;K"ms6"
+C;X2;Y296;K"P"
+C;X5;Y296;K1
+C;X8;Y296;K"Major Section Title Lvl 6"
+C;X9;Y296;K1
+C;X11;Y296;K"mt"
+C;X12;Y296;K"S71"
+C;X13;Y296;K"S10"
+C;X17;Y296;K"paragraph"
+C;X18;Y296;K"ms6"
+C;X1;Y297;K"ms7"
+C;X2;Y297;K"P"
+C;X5;Y297;K1
+C;X8;Y297;K"Major Section Title Lvl 7"
+C;X9;Y297;K1
+C;X11;Y297;K"mt"
+C;X12;Y297;K"S70"
+C;X13;Y297;K"S08"
+C;X17;Y297;K"paragraph"
+C;X18;Y297;K"ms7"
+C;X1;Y298;K"ms8"
+C;X2;Y298;K"P"
+C;X5;Y298;K1
+C;X8;Y298;K"Major Section Title Lvl 8"
+C;X9;Y298;K1
+C;X11;Y298;K"mt"
+C;X12;Y298;K"S71"
+C;X13;Y298;K"S08"
+C;X17;Y298;K"paragraph"
+C;X18;Y298;K"ms8"
+C;X1;Y299;K"ms9"
+C;X2;Y299;K"P"
+C;X5;Y299;K1
+C;X8;Y299;K"Major Section Title Lvl 9"
+C;X9;Y299;K1
+C;X11;Y299;K"mt"
+C;X12;Y299;K"S70"
+C;X13;Y299;K"S08"
+C;X15;Y299;K"SC3"
+C;X17;Y299;K"paragraph"
+C;X18;Y299;K"ms9"
+C;X1;Y300;K"mt0"
+C;X2;Y300;K"P"
+C;X5;Y300;K1
+C;X8;Y300;K"Major Title Lvl 0"
+C;X9;Y300;K1
+C;X11;Y300;K"mt"
+C;X12;Y300;K"T50"
+C;X13;Y300;K"L80"
+C;X15;Y300;K"VC1"
+C;X17;Y300;K"paragraph"
+C;X18;Y300;K"mt0"
+C;X1;Y301;K"mt1"
+C;X2;Y301;K"P"
+C;X5;Y301;K1
+C;X8;Y301;K"Major Title Lvl 1"
+C;X9;Y301;K1
+C;X11;Y301;K"mt"
+C;X12;Y301;K"T50"
+C;X13;Y301;K"L70"
+C;X15;Y301;K"VC1"
+C;X17;Y301;K"paragraph"
+C;X18;Y301;K"mt1"
+C;X1;Y302;K"mt2"
+C;X2;Y302;K"P"
+C;X5;Y302;K1
+C;X8;Y302;K"Major Title Lvl 2"
+C;X9;Y302;K1
+C;X11;Y302;K"mt"
+C;X12;Y302;K"T50"
+C;X13;Y302;K"L60"
+C;X15;Y302;K"VC1"
+C;X17;Y302;K"paragraph"
+C;X18;Y302;K"mt2"
+C;X1;Y303;K"mt3"
+C;X2;Y303;K"P"
+C;X5;Y303;K1
+C;X8;Y303;K"Major Title Lvl 3"
+C;X9;Y303;K1
+C;X11;Y303;K"mt"
+C;X12;Y303;K"T50"
+C;X13;Y303;K"L50"
+C;X15;Y303;K"VC1"
+C;X17;Y303;K"paragraph"
+C;X18;Y303;K"mt3"
+C;X1;Y304;K"mt4"
+C;X2;Y304;K"P"
+C;X5;Y304;K1
+C;X8;Y304;K"Major Title Lvl 4"
+C;X9;Y304;K1
+C;X11;Y304;K"mt"
+C;X12;Y304;K"T70"
+C;X13;Y304;K"L40"
+C;X15;Y304;K"VC1"
+C;X17;Y304;K"paragraph"
+C;X18;Y304;K"mt4"
+C;X1;Y305;K"mt5"
+C;X2;Y305;K"P"
+C;X5;Y305;K1
+C;X8;Y305;K"Major Title Lvl 5"
+C;X9;Y305;K1
+C;X11;Y305;K"mt"
+C;X12;Y305;K"T60"
+C;X13;Y305;K"L30"
+C;X17;Y305;K"paragraph"
+C;X18;Y305;K"mt5"
+C;X1;Y306;K"mt6"
+C;X2;Y306;K"P"
+C;X5;Y306;K1
+C;X8;Y306;K"Major Title Lvl 6"
+C;X9;Y306;K1
+C;X11;Y306;K"mt"
+C;X12;Y306;K"T70"
+C;X13;Y306;K"L20"
+C;X17;Y306;K"paragraph"
+C;X18;Y306;K"mt6"
+C;X1;Y307;K"mt7"
+C;X2;Y307;K"P"
+C;X5;Y307;K1
+C;X8;Y307;K"Major Title Lvl 7"
+C;X9;Y307;K1
+C;X11;Y307;K"mt"
+C;X12;Y307;K"T70"
+C;X13;Y307;K"L10"
+C;X17;Y307;K"paragraph"
+C;X18;Y307;K"mt7"
+C;X1;Y308;K"mt8"
+C;X2;Y308;K"P"
+C;X5;Y308;K1
+C;X8;Y308;K"Major Title Lvl 8"
+C;X9;Y308;K1
+C;X11;Y308;K"mt"
+C;X12;Y308;K"T70"
+C;X13;Y308;K"L08"
+C;X17;Y308;K"paragraph"
+C;X18;Y308;K"mt8"
+C;X1;Y309;K"mt9"
+C;X2;Y309;K"P"
+C;X5;Y309;K1
+C;X8;Y309;K"Major Title Lvl 9"
+C;X9;Y309;K1
+C;X11;Y309;K"mt"
+C;X12;Y309;K"T71"
+C;X13;Y309;K"L08"
+C;X17;Y309;K"paragraph"
+C;X18;Y309;K"mt9"
+C;X1;Y310;K"mte"
+C;X2;Y310;K"P"
+C;X5;Y310;K1
+C;X8;Y310;K"End Title"
+C;X9;Y310;K1
+C;X11;Y310;K"mt"
+C;X12;Y310;K"T50"
+C;X13;Y310;K"L90"
+C;X15;Y310;K"VC1"
+C;X17;Y310;K"paragraph"
+C;X18;Y310;K"mte"
+C;X1;Y311;K"mte0"
+C;X2;Y311;K"P"
+C;X5;Y311;K1
+C;X8;Y311;K"End Title Lvl 0"
+C;X9;Y311;K1
+C;X11;Y311;K"mt"
+C;X12;Y311;K"T50"
+C;X13;Y311;K"L80"
+C;X15;Y311;K"VC1"
+C;X17;Y311;K"paragraph"
+C;X18;Y311;K"mte0"
+C;X1;Y312;K"mte1"
+C;X2;Y312;K"P"
+C;X5;Y312;K1
+C;X8;Y312;K"End Title Lvl 1"
+C;X9;Y312;K1
+C;X11;Y312;K"mt"
+C;X12;Y312;K"T50"
+C;X13;Y312;K"L70"
+C;X15;Y312;K"VC1"
+C;X17;Y312;K"paragraph"
+C;X18;Y312;K"mte1"
+C;X1;Y313;K"mte2"
+C;X2;Y313;K"P"
+C;X5;Y313;K1
+C;X8;Y313;K"End Title Lvl 2"
+C;X9;Y313;K1
+C;X11;Y313;K"mt"
+C;X12;Y313;K"T50"
+C;X13;Y313;K"L60"
+C;X15;Y313;K"VC1"
+C;X17;Y313;K"paragraph"
+C;X18;Y313;K"mte2"
+C;X1;Y314;K"mte3"
+C;X2;Y314;K"P"
+C;X5;Y314;K1
+C;X8;Y314;K"End Title Lvl 3"
+C;X9;Y314;K1
+C;X11;Y314;K"mt"
+C;X12;Y314;K"T50"
+C;X13;Y314;K"L50"
+C;X15;Y314;K"VC1"
+C;X17;Y314;K"paragraph"
+C;X18;Y314;K"mte3"
+C;X1;Y315;K"mte4"
+C;X2;Y315;K"P"
+C;X5;Y315;K1
+C;X8;Y315;K"End Title Lvl 4"
+C;X9;Y315;K1
+C;X11;Y315;K"mt"
+C;X12;Y315;K"T70"
+C;X13;Y315;K"L40"
+C;X15;Y315;K"VC1"
+C;X17;Y315;K"paragraph"
+C;X18;Y315;K"mte4"
+C;X1;Y316;K"mte5"
+C;X2;Y316;K"P"
+C;X5;Y316;K1
+C;X8;Y316;K"End Title Lvl 5"
+C;X9;Y316;K1
+C;X11;Y316;K"mt"
+C;X12;Y316;K"T70"
+C;X13;Y316;K"L30"
+C;X17;Y316;K"paragraph"
+C;X18;Y316;K"mte5"
+C;X1;Y317;K"mte6"
+C;X2;Y317;K"P"
+C;X5;Y317;K1
+C;X8;Y317;K"End Title Lvl 6"
+C;X9;Y317;K1
+C;X11;Y317;K"mt"
+C;X12;Y317;K"T70"
+C;X13;Y317;K"S20"
+C;X17;Y317;K"paragraph"
+C;X18;Y317;K"mte6"
+C;X1;Y318;K"mte7"
+C;X2;Y318;K"P"
+C;X5;Y318;K1
+C;X8;Y318;K"End Title Lvl 7"
+C;X9;Y318;K1
+C;X11;Y318;K"mt"
+C;X12;Y318;K"T70"
+C;X13;Y318;K"S10"
+C;X17;Y318;K"paragraph"
+C;X18;Y318;K"mte7"
+C;X1;Y319;K"mte8"
+C;X2;Y319;K"P"
+C;X5;Y319;K1
+C;X8;Y319;K"End Title Lvl 8"
+C;X9;Y319;K1
+C;X11;Y319;K"mt"
+C;X12;Y319;K"T70"
+C;X13;Y319;K"S08"
+C;X17;Y319;K"paragraph"
+C;X18;Y319;K"mte8"
+C;X1;Y320;K"mte9"
+C;X2;Y320;K"P"
+C;X4;Y320;K1
+C;X5;Y320;K1
+C;X8;Y320;K"End of Book/Section [p.sfm]"
+C;X9;Y320;K1
+C;X10;Y320;K"span to balance cols"
+C;X11;Y320;K"rem"
+C;X15;Y320;K"SPN"
+C;X17;Y320;K"paragraph"
+C;X18;Y320;K"mte9"
+C;X1;Y321;K"nb"
+C;X2;Y321;K"P"
+C;X5;Y321;K1
+C;X8;Y321;K"No break-no whitespace Paragraph"
+C;X9;Y321;K1
+C;X11;Y321;K"m"
+C;X14;Y321;K"M0"
+C;X15;Y321;K"KP1"
+C;X17;Y321;K"paragraph"
+C;X18;Y321;K"nb"
+C;X1;Y322;K"p"
+C;X2;Y322;K"P"
+C;X5;Y322;K1
+C;X8;Y322;K"Paragraph"
+C;X9;Y322;K1
+C;X11;Y322;K"m"
+C;X14;Y322;K"P0"
+C;X17;Y322;K"paragraph"
+C;X18;Y322;K"p"
+C;X1;Y323;K"p0"
+C;X2;Y323;K"P"
+C;X5;Y323;K1
+C;X8;Y323;K"Paragraph Indented Lvl 0"
+C;X9;Y323;K1
+C;X11;Y323;K"m"
+C;X14;Y323;K"P05"
+C;X17;Y323;K"paragraph"
+C;X18;Y323;K"p0"
+C;X1;Y324;K"p1"
+C;X2;Y324;K"P"
+C;X5;Y324;K1
+C;X8;Y324;K"Paragraph Indented Lvl 1"
+C;X9;Y324;K1
+C;X11;Y324;K"m"
+C;X14;Y324;K"P1"
+C;X17;Y324;K"paragraph"
+C;X18;Y324;K"p1"
+C;X1;Y325;K"p2"
+C;X2;Y325;K"P"
+C;X5;Y325;K1
+C;X8;Y325;K"Paragraph Indented Lvl 2"
+C;X9;Y325;K1
+C;X11;Y325;K"m"
+C;X14;Y325;K"P2"
+C;X17;Y325;K"paragraph"
+C;X18;Y325;K"p2"
+C;X1;Y326;K"p3"
+C;X2;Y326;K"P"
+C;X5;Y326;K1
+C;X8;Y326;K"Paragraph Indented Lvl 3"
+C;X9;Y326;K1
+C;X11;Y326;K"m"
+C;X14;Y326;K"P3"
+C;X17;Y326;K"paragraph"
+C;X18;Y326;K"p3"
+C;X1;Y327;K"p4"
+C;X2;Y327;K"P"
+C;X5;Y327;K1
+C;X8;Y327;K"Paragraph Indented Lvl 4"
+C;X9;Y327;K1
+C;X11;Y327;K"m"
+C;X14;Y327;K"P4"
+C;X17;Y327;K"paragraph"
+C;X18;Y327;K"p4"
+C;X1;Y328;K"p5"
+C;X2;Y328;K"P"
+C;X5;Y328;K1
+C;X8;Y328;K"Paragraph Indented Lvl 5"
+C;X9;Y328;K1
+C;X11;Y328;K"m"
+C;X14;Y328;K"P5"
+C;X17;Y328;K"paragraph"
+C;X18;Y328;K"p5"
+C;X1;Y329;K"p6"
+C;X2;Y329;K"P"
+C;X5;Y329;K1
+C;X8;Y329;K"Paragraph Indented Lvl 6"
+C;X9;Y329;K1
+C;X11;Y329;K"m"
+C;X14;Y329;K"P6"
+C;X17;Y329;K"paragraph"
+C;X18;Y329;K"p6"
+C;X1;Y330;K"p7"
+C;X2;Y330;K"P"
+C;X5;Y330;K1
+C;X8;Y330;K"Paragraph Indented Lvl 7"
+C;X9;Y330;K1
+C;X11;Y330;K"m"
+C;X14;Y330;K"P7"
+C;X17;Y330;K"paragraph"
+C;X18;Y330;K"p7"
+C;X1;Y331;K"p8"
+C;X2;Y331;K"P"
+C;X5;Y331;K1
+C;X8;Y331;K"Paragraph Indented Lvl 8"
+C;X9;Y331;K1
+C;X11;Y331;K"m"
+C;X14;Y331;K"P8"
+C;X17;Y331;K"paragraph"
+C;X18;Y331;K"p8"
+C;X1;Y332;K"p9"
+C;X2;Y332;K"P"
+C;X5;Y332;K1
+C;X8;Y332;K"Paragraph Indented Lvl 9"
+C;X9;Y332;K1
+C;X11;Y332;K"m"
+C;X14;Y332;K"P9"
+C;X17;Y332;K"paragraph"
+C;X18;Y332;K"p9"
+C;X1;Y333;K"pb"
+C;X2;Y333;K"P"
+C;X5;Y333;K1
+C;X8;Y333;K"Page Break"
+C;X9;Y333;K1
+C;X11;Y333;K"rem"
+C;X15;Y333;K"SPN"
+C;X16;Y333;K"PB"
+C;X17;Y333;K"paragraph"
+C;X18;Y333;K"pb"
+C;X1;Y334;K"pc"
+C;X2;Y334;K"P"
+C;X5;Y334;K1
+C;X8;Y334;K"Centered Paragraph"
+C;X9;Y334;K1
+C;X11;Y334;K"m"
+C;X14;Y334;K"C"
+C;X17;Y334;K"paragraph"
+C;X18;Y334;K"pc"
+C;X1;Y335;K"ph"
+C;X2;Y335;K"P"
+C;X5;Y335;K1
+C;X8;Y335;K"Hanging Indent Paragraph"
+C;X9;Y335;K1
+C;X11;Y335;K"m"
+C;X14;Y335;K"H1"
+C;X17;Y335;K"paragraph"
+C;X18;Y335;K"ph"
+C;X1;Y336;K"ph0"
+C;X2;Y336;K"P"
+C;X5;Y336;K1
+C;X8;Y336;K"Hanging Indent Par Lvl 0"
+C;X9;Y336;K1
+C;X11;Y336;K"m"
+C;X14;Y336;K"H0"
+C;X17;Y336;K"paragraph"
+C;X18;Y336;K"ph0"
+C;X1;Y337;K"ph1"
+C;X2;Y337;K"P"
+C;X5;Y337;K1
+C;X8;Y337;K"Hanging Indent Par Lvl 1"
+C;X9;Y337;K1
+C;X11;Y337;K"m"
+C;X14;Y337;K"H1"
+C;X17;Y337;K"paragraph"
+C;X18;Y337;K"ph1"
+C;X1;Y338;K"ph2"
+C;X2;Y338;K"P"
+C;X5;Y338;K1
+C;X8;Y338;K"Hanging Indent Par Lvl 2"
+C;X9;Y338;K1
+C;X11;Y338;K"m"
+C;X14;Y338;K"H2"
+C;X17;Y338;K"paragraph"
+C;X18;Y338;K"ph2"
+C;X1;Y339;K"ph3"
+C;X2;Y339;K"P"
+C;X5;Y339;K1
+C;X8;Y339;K"Hanging Indent Par Lvl 3"
+C;X9;Y339;K1
+C;X11;Y339;K"m"
+C;X14;Y339;K"H3"
+C;X17;Y339;K"paragraph"
+C;X18;Y339;K"ph3"
+C;X1;Y340;K"ph4"
+C;X2;Y340;K"P"
+C;X5;Y340;K1
+C;X8;Y340;K"Hanging Indent Par Lvl 4"
+C;X9;Y340;K1
+C;X11;Y340;K"m"
+C;X14;Y340;K"H4"
+C;X17;Y340;K"paragraph"
+C;X18;Y340;K"ph4"
+C;X1;Y341;K"ph5"
+C;X2;Y341;K"P"
+C;X5;Y341;K1
+C;X8;Y341;K"Hanging Indent Par Lvl 5"
+C;X9;Y341;K1
+C;X11;Y341;K"m"
+C;X14;Y341;K"H5"
+C;X17;Y341;K"paragraph"
+C;X18;Y341;K"ph5"
+C;X1;Y342;K"ph6"
+C;X2;Y342;K"P"
+C;X5;Y342;K1
+C;X8;Y342;K"Hanging Indent Par Lvl 6"
+C;X9;Y342;K1
+C;X11;Y342;K"m"
+C;X14;Y342;K"H6"
+C;X17;Y342;K"paragraph"
+C;X18;Y342;K"ph6"
+C;X1;Y343;K"ph7"
+C;X2;Y343;K"P"
+C;X5;Y343;K1
+C;X8;Y343;K"Hanging Indent Par Lvl 7"
+C;X9;Y343;K1
+C;X11;Y343;K"m"
+C;X14;Y343;K"H7"
+C;X17;Y343;K"paragraph"
+C;X18;Y343;K"ph7"
+C;X1;Y344;K"ph8"
+C;X2;Y344;K"P"
+C;X5;Y344;K1
+C;X8;Y344;K"Hanging Indent Par Lvl 8"
+C;X9;Y344;K1
+C;X11;Y344;K"m"
+C;X14;Y344;K"H8"
+C;X17;Y344;K"paragraph"
+C;X18;Y344;K"ph8"
+C;X1;Y345;K"ph9"
+C;X2;Y345;K"P"
+C;X5;Y345;K1
+C;X8;Y345;K"Hanging Indent Par Lvl 9"
+C;X9;Y345;K1
+C;X11;Y345;K"m"
+C;X14;Y345;K"H9"
+C;X17;Y345;K"paragraph"
+C;X18;Y345;K"ph9"
+C;X1;Y346;K"pi"
+C;X2;Y346;K"P"
+C;X5;Y346;K1
+C;X8;Y346;K"Indented Paragraph"
+C;X9;Y346;K1
+C;X11;Y346;K"m"
+C;X14;Y346;K"P1"
+C;X17;Y346;K"paragraph"
+C;X18;Y346;K"pi"
+C;X1;Y347;K"pi0"
+C;X2;Y347;K"P"
+C;X5;Y347;K1
+C;X8;Y347;K"Indented Paragraph Lvl 0"
+C;X9;Y347;K1
+C;X11;Y347;K"m"
+C;X14;Y347;K"P1"
+C;X17;Y347;K"paragraph"
+C;X18;Y347;K"pi0"
+C;X1;Y348;K"pi1"
+C;X2;Y348;K"P"
+C;X5;Y348;K1
+C;X8;Y348;K"Indented Paragraph Lvl 1"
+C;X9;Y348;K1
+C;X11;Y348;K"m"
+C;X14;Y348;K"P2"
+C;X17;Y348;K"paragraph"
+C;X18;Y348;K"pi1"
+C;X1;Y349;K"pi2"
+C;X2;Y349;K"P"
+C;X5;Y349;K1
+C;X8;Y349;K"Indented Paragraph Lvl 2"
+C;X9;Y349;K1
+C;X11;Y349;K"m"
+C;X14;Y349;K"P3"
+C;X17;Y349;K"paragraph"
+C;X18;Y349;K"pi2"
+C;X1;Y350;K"pi3"
+C;X2;Y350;K"P"
+C;X5;Y350;K1
+C;X8;Y350;K"Indented Paragraph Lvl 3"
+C;X9;Y350;K1
+C;X11;Y350;K"m"
+C;X14;Y350;K"P4"
+C;X17;Y350;K"paragraph"
+C;X18;Y350;K"pi3"
+C;X1;Y351;K"pi4"
+C;X2;Y351;K"P"
+C;X5;Y351;K1
+C;X8;Y351;K"Indented Paragraph Lvl 4"
+C;X9;Y351;K1
+C;X11;Y351;K"m"
+C;X14;Y351;K"P5"
+C;X17;Y351;K"paragraph"
+C;X18;Y351;K"pi4"
+C;X1;Y352;K"pi5"
+C;X2;Y352;K"P"
+C;X5;Y352;K1
+C;X8;Y352;K"Indented Paragraph Lvl 5"
+C;X9;Y352;K1
+C;X11;Y352;K"m"
+C;X14;Y352;K"P6"
+C;X17;Y352;K"paragraph"
+C;X18;Y352;K"pi5"
+C;X1;Y353;K"pi6"
+C;X2;Y353;K"P"
+C;X5;Y353;K1
+C;X8;Y353;K"Indented Paragraph Lvl 6"
+C;X9;Y353;K1
+C;X11;Y353;K"m"
+C;X14;Y353;K"P7"
+C;X17;Y353;K"paragraph"
+C;X18;Y353;K"pi6"
+C;X1;Y354;K"pi7"
+C;X2;Y354;K"P"
+C;X5;Y354;K1
+C;X8;Y354;K"Indented Paragraph Lvl 7"
+C;X9;Y354;K1
+C;X11;Y354;K"m"
+C;X14;Y354;K"P8"
+C;X17;Y354;K"paragraph"
+C;X18;Y354;K"pi7"
+C;X1;Y355;K"pi8"
+C;X2;Y355;K"P"
+C;X5;Y355;K1
+C;X8;Y355;K"Indented Paragraph Lvl 8"
+C;X9;Y355;K1
+C;X11;Y355;K"m"
+C;X14;Y355;K"P9"
+C;X17;Y355;K"paragraph"
+C;X18;Y355;K"pi8"
+C;X1;Y356;K"pi9"
+C;X2;Y356;K"P"
+C;X5;Y356;K1
+C;X8;Y356;K"Indented Paragraph Lvl 9"
+C;X9;Y356;K1
+C;X11;Y356;K"m"
+C;X14;Y356;K"P9"
+C;X17;Y356;K"paragraph"
+C;X18;Y356;K"pi9"
+C;X1;Y357;K"pm"
+C;X2;Y357;K"P"
+C;X5;Y357;K1
+C;X8;Y357;K"Embedded Paragraph"
+C;X9;Y357;K1
+C;X11;Y357;K"m"
+C;X14;Y357;K"P2"
+C;X17;Y357;K"paragraph"
+C;X18;Y357;K"pm"
+C;X1;Y358;K"pmc"
+C;X2;Y358;K"P"
+C;X5;Y358;K1
+C;X8;Y358;K"Embedded Text Closing"
+C;X9;Y358;K1
+C;X11;Y358;K"m"
+C;X14;Y358;K"M1"
+C;X17;Y358;K"paragraph"
+C;X18;Y358;K"pmc"
+C;X1;Y359;K"pmo"
+C;X2;Y359;K"P"
+C;X5;Y359;K1
+C;X8;Y359;K"Embedded Text Opening"
+C;X9;Y359;K1
+C;X11;Y359;K"m"
+C;X14;Y359;K"M1"
+C;X17;Y359;K"paragraph"
+C;X18;Y359;K"pmo"
+C;X1;Y360;K"pmr"
+C;X2;Y360;K"P"
+C;X5;Y360;K1
+C;X8;Y360;K"Embedded Text Right Align Par"
+C;X9;Y360;K1
+C;X11;Y360;K"m"
+C;X14;Y360;K"R1"
+C;X17;Y360;K"paragraph"
+C;X18;Y360;K"pmr"
+C;X1;Y361;K"po"
+C;X2;Y361;K"P"
+C;X5;Y361;K1
+C;X8;Y361;K"Opening Paragraph-letter"
+C;X9;Y361;K1
+C;X11;Y361;K"m"
+C;X15;Y361;K"VC1"
+C;X17;Y361;K"paragraph"
+C;X18;Y361;K"po"
+C;X1;Y362;K"pr"
+C;X2;Y362;K"P"
+C;X5;Y362;K1
+C;X8;Y362;K"Right Aligned Paragraph"
+C;X9;Y362;K1
+C;X11;Y362;K"m"
+C;X14;Y362;K"R0"
+C;X17;Y362;K"paragraph"
+C;X18;Y362;K"pr"
+C;X1;Y363;K"ps"
+C;X2;Y363;K"P"
+C;X5;Y363;K1
+C;X8;Y363;K"Paragraph No Break"
+C;X9;Y363;K1
+C;X11;Y363;K"m"
+C;X14;Y363;K"M"
+C;X15;Y363;K"KP1"
+C;X17;Y363;K"paragraph"
+C;X18;Y363;K"ps"
+C;X1;Y364;K"psi"
+C;X2;Y364;K"P"
+C;X5;Y364;K1
+C;X8;Y364;K"Paragraph Indented No Break"
+C;X9;Y364;K1
+C;X11;Y364;K"m"
+C;X14;Y364;K"P1"
+C;X15;Y364;K"KP1"
+C;X17;Y364;K"paragraph"
+C;X18;Y364;K"psi"
+C;X1;Y365;K"q0"
+C;X2;Y365;K"P"
+C;X5;Y365;K1
+C;X8;Y365;K"Poetry Level 0"
+C;X9;Y365;K1
+C;X11;Y365;K"q"
+C;X14;Y365;K"Q0"
+C;X17;Y365;K"paragraph"
+C;X18;Y365;K"q0"
+C;X1;Y366;K"q1"
+C;X2;Y366;K"P"
+C;X5;Y366;K1
+C;X8;Y366;K"Poetry Level 1"
+C;X9;Y366;K1
+C;X11;Y366;K"q"
+C;X14;Y366;K"Q1"
+C;X17;Y366;K"paragraph"
+C;X18;Y366;K"q1"
+C;X1;Y367;K"q2"
+C;X2;Y367;K"P"
+C;X5;Y367;K1
+C;X8;Y367;K"Poetry Level 2"
+C;X9;Y367;K1
+C;X11;Y367;K"q"
+C;X14;Y367;K"Q2"
+C;X17;Y367;K"paragraph"
+C;X18;Y367;K"q2"
+C;X1;Y368;K"q3"
+C;X2;Y368;K"P"
+C;X5;Y368;K1
+C;X8;Y368;K"Poetry Level 3"
+C;X9;Y368;K1
+C;X11;Y368;K"q"
+C;X14;Y368;K"Q3"
+C;X17;Y368;K"paragraph"
+C;X18;Y368;K"q3"
+C;X1;Y369;K"q4"
+C;X2;Y369;K"P"
+C;X5;Y369;K1
+C;X8;Y369;K"Poetry Level 4"
+C;X9;Y369;K1
+C;X11;Y369;K"q"
+C;X14;Y369;K"Q4"
+C;X17;Y369;K"paragraph"
+C;X18;Y369;K"q4"
+C;X1;Y370;K"q5"
+C;X2;Y370;K"P"
+C;X5;Y370;K1
+C;X8;Y370;K"Poetry Level 5"
+C;X9;Y370;K1
+C;X11;Y370;K"q"
+C;X14;Y370;K"Q5"
+C;X17;Y370;K"paragraph"
+C;X18;Y370;K"q5"
+C;X1;Y371;K"q6"
+C;X2;Y371;K"P"
+C;X5;Y371;K1
+C;X8;Y371;K"Poetry Level 6"
+C;X9;Y371;K1
+C;X11;Y371;K"q"
+C;X14;Y371;K"Q6"
+C;X17;Y371;K"paragraph"
+C;X18;Y371;K"q6"
+C;X1;Y372;K"q7"
+C;X2;Y372;K"P"
+C;X5;Y372;K1
+C;X8;Y372;K"Poetry Level 7"
+C;X9;Y372;K1
+C;X11;Y372;K"q"
+C;X14;Y372;K"Q7"
+C;X17;Y372;K"paragraph"
+C;X18;Y372;K"q7"
+C;X1;Y373;K"q8"
+C;X2;Y373;K"P"
+C;X5;Y373;K1
+C;X8;Y373;K"Poetry Level 8"
+C;X9;Y373;K1
+C;X11;Y373;K"q"
+C;X14;Y373;K"Q8"
+C;X17;Y373;K"paragraph"
+C;X18;Y373;K"q8"
+C;X1;Y374;K"q9"
+C;X2;Y374;K"P"
+C;X5;Y374;K1
+C;X8;Y374;K"Poetry Level 9"
+C;X9;Y374;K1
+C;X11;Y374;K"q"
+C;X14;Y374;K"Q9"
+C;X17;Y374;K"paragraph"
+C;X18;Y374;K"q9"
+C;X1;Y375;K"qa"
+C;X2;Y375;K"P"
+C;X5;Y375;K1
+C;X8;Y375;K"Acrostic Heading"
+C;X9;Y375;K1
+C;X11;Y375;K"mt"
+C;X12;Y375;K"T50"
+C;X13;Y375;K"S20"
+C;X15;Y375;K"VC1"
+C;X17;Y375;K"paragraph"
+C;X18;Y375;K"qa"
+C;X1;Y376;K"qc"
+C;X2;Y376;K"P"
+C;X5;Y376;K1
+C;X8;Y376;K"Poetry Centered"
+C;X9;Y376;K1
+C;X11;Y376;K"q"
+C;X14;Y376;K"C"
+C;X17;Y376;K"paragraph"
+C;X18;Y376;K"qc"
+C;X1;Y377;K"qd"
+C;X2;Y377;K"P"
+C;X5;Y377;K1
+C;X8;Y377;K"Poetry directive-Habakkuk"
+C;X9;Y377;K1
+C;X11;Y377;K"m"
+C;X12;Y377;K"B61"
+C;X13;Y377;K"L08"
+C;X14;Y377;K"CB"
+C;X17;Y377;K"paragraph"
+C;X18;Y377;K"qd"
+C;X1;Y378;K"qm"
+C;X2;Y378;K"P"
+C;X5;Y378;K1
+C;X8;Y378;K"Embedded Poetry"
+C;X9;Y378;K1
+C;X11;Y378;K"q"
+C;X12;Y378;K"B41"
+C;X14;Y378;K"C"
+C;X17;Y378;K"paragraph"
+C;X18;Y378;K"qm"
+C;X1;Y379;K"qm0"
+C;X2;Y379;K"P"
+C;X5;Y379;K1
+C;X8;Y379;K"Embedded Poetry Lvl 0"
+C;X9;Y379;K1
+C;X11;Y379;K"q"
+C;X12;Y379;K"B41"
+C;X14;Y379;K"Q0"
+C;X17;Y379;K"paragraph"
+C;X18;Y379;K"qm0"
+C;X1;Y380;K"qm1"
+C;X2;Y380;K"P"
+C;X5;Y380;K1
+C;X8;Y380;K"Embedded Poetry Lvl 1"
+C;X9;Y380;K1
+C;X11;Y380;K"q"
+C;X12;Y380;K"B41"
+C;X14;Y380;K"Q1"
+C;X17;Y380;K"paragraph"
+C;X18;Y380;K"qm1"
+C;X1;Y381;K"qm2"
+C;X2;Y381;K"P"
+C;X5;Y381;K1
+C;X8;Y381;K"Embedded Poetry Lvl 2"
+C;X9;Y381;K1
+C;X11;Y381;K"q"
+C;X12;Y381;K"B41"
+C;X14;Y381;K"Q2"
+C;X17;Y381;K"paragraph"
+C;X18;Y381;K"qm2"
+C;X1;Y382;K"qm3"
+C;X2;Y382;K"P"
+C;X5;Y382;K1
+C;X8;Y382;K"Embedded Poetry Lvl 3"
+C;X9;Y382;K1
+C;X11;Y382;K"q"
+C;X12;Y382;K"B41"
+C;X14;Y382;K"Q3"
+C;X17;Y382;K"paragraph"
+C;X18;Y382;K"qm3"
+C;X1;Y383;K"qm4"
+C;X2;Y383;K"P"
+C;X5;Y383;K1
+C;X8;Y383;K"Embedded Poetry Lvl 4"
+C;X9;Y383;K1
+C;X11;Y383;K"q"
+C;X12;Y383;K"B41"
+C;X14;Y383;K"Q4"
+C;X17;Y383;K"paragraph"
+C;X18;Y383;K"qm4"
+C;X1;Y384;K"qm5"
+C;X2;Y384;K"P"
+C;X5;Y384;K1
+C;X8;Y384;K"Embedded Poetry Lvl 5"
+C;X9;Y384;K1
+C;X11;Y384;K"q"
+C;X12;Y384;K"B41"
+C;X14;Y384;K"Q5"
+C;X17;Y384;K"paragraph"
+C;X18;Y384;K"qm5"
+C;X1;Y385;K"qm6"
+C;X2;Y385;K"P"
+C;X5;Y385;K1
+C;X8;Y385;K"Embedded Poetry Lvl 6"
+C;X9;Y385;K1
+C;X11;Y385;K"q"
+C;X12;Y385;K"B41"
+C;X14;Y385;K"Q6"
+C;X17;Y385;K"paragraph"
+C;X18;Y385;K"qm6"
+C;X1;Y386;K"qm7"
+C;X2;Y386;K"P"
+C;X5;Y386;K1
+C;X8;Y386;K"Embedded Poetry Lvl 7"
+C;X9;Y386;K1
+C;X11;Y386;K"q"
+C;X12;Y386;K"B41"
+C;X14;Y386;K"Q7"
+C;X17;Y386;K"paragraph"
+C;X18;Y386;K"qm7"
+C;X1;Y387;K"qm8"
+C;X2;Y387;K"P"
+C;X5;Y387;K1
+C;X8;Y387;K"Embedded Poetry Lvl 8"
+C;X9;Y387;K1
+C;X11;Y387;K"q"
+C;X12;Y387;K"B41"
+C;X14;Y387;K"Q8"
+C;X17;Y387;K"paragraph"
+C;X18;Y387;K"qm8"
+C;X1;Y388;K"qm9"
+C;X2;Y388;K"P"
+C;X5;Y388;K1
+C;X8;Y388;K"Embedded Poetry Lvl 9"
+C;X9;Y388;K1
+C;X11;Y388;K"q"
+C;X12;Y388;K"B41"
+C;X14;Y388;K"Q9"
+C;X17;Y388;K"paragraph"
+C;X18;Y388;K"qm9"
+C;X1;Y389;K"qr"
+C;X2;Y389;K"P"
+C;X5;Y389;K1
+C;X8;Y389;K"Poetry Right Aligned"
+C;X9;Y389;K1
+C;X11;Y389;K"q"
+C;X12;Y389;K"B41"
+C;X14;Y389;K"R1"
+C;X17;Y389;K"paragraph"
+C;X18;Y389;K"qr"
+C;X1;Y390;K"r"
+C;X2;Y390;K"P"
+C;X5;Y390;K1
+C;X8;Y390;K"Scripture Reference Section Break"
+C;X9;Y390;K1
+C;X11;Y390;K"m"
+C;X12;Y390;K"T71"
+C;X13;Y390;K"L08"
+C;X14;Y390;K"CB"
+C;X15;Y390;K"VS1"
+C;X16;Y390;K"KPN"
+C;X17;Y390;K"paragraph"
+C;X18;Y390;K"r"
+C;X1;Y391;K"s"
+C;X2;Y391;K"P"
+C;X5;Y391;K1
+C;X8;Y391;K"Section Title"
+C;X9;Y391;K1
+C;X11;Y391;K"m"
+C;X12;Y391;K"T70"
+C;X13;Y391;K"L30"
+C;X14;Y391;K"CB"
+C;X15;Y391;K"VC1"
+C;X16;Y391;K"KPN"
+C;X17;Y391;K"paragraph"
+C;X18;Y391;K"s"
+C;X1;Y392;K"s0"
+C;X2;Y392;K"P"
+C;X5;Y392;K1
+C;X8;Y392;K"Section Heading Lvl 0"
+C;X9;Y392;K1
+C;X11;Y392;K"m"
+C;X12;Y392;K"T71"
+C;X13;Y392;K"L30"
+C;X14;Y392;K"CB"
+C;X15;Y392;K"VC1"
+C;X16;Y392;K"KPN"
+C;X17;Y392;K"paragraph"
+C;X18;Y392;K"s0"
+C;X1;Y393;K"s1"
+C;X2;Y393;K"P"
+C;X5;Y393;K1
+C;X8;Y393;K"Section Heading Lvl 1"
+C;X9;Y393;K1
+C;X11;Y393;K"m"
+C;X12;Y393;K"T30"
+C;X13;Y393;K"S20"
+C;X14;Y393;K"CB"
+C;X15;Y393;K"VC1"
+C;X16;Y393;K"KPN"
+C;X17;Y393;K"paragraph"
+C;X18;Y393;K"s1"
+C;X1;Y394;K"s2"
+C;X2;Y394;K"P"
+C;X5;Y394;K1
+C;X8;Y394;K"Section Heading Lvl 2"
+C;X9;Y394;K1
+C;X11;Y394;K"m"
+C;X12;Y394;K"T31"
+C;X13;Y394;K"S20"
+C;X14;Y394;K"CB"
+C;X15;Y394;K"VC1"
+C;X16;Y394;K"KPN"
+C;X17;Y394;K"paragraph"
+C;X18;Y394;K"s2"
+C;X1;Y395;K"s3"
+C;X2;Y395;K"P"
+C;X5;Y395;K1
+C;X8;Y395;K"Section Heading Lvl 3"
+C;X9;Y395;K1
+C;X11;Y395;K"m"
+C;X12;Y395;K"T70"
+C;X13;Y395;K"S10"
+C;X14;Y395;K"CB"
+C;X16;Y395;K"KPN"
+C;X17;Y395;K"paragraph"
+C;X18;Y395;K"s3"
+C;X1;Y396;K"s4"
+C;X2;Y396;K"P"
+C;X5;Y396;K1
+C;X8;Y396;K"Section Heading Lvl 4"
+C;X9;Y396;K1
+C;X11;Y396;K"m"
+C;X12;Y396;K"T71"
+C;X13;Y396;K"S10"
+C;X14;Y396;K"CB"
+C;X16;Y396;K"KPN"
+C;X17;Y396;K"paragraph"
+C;X18;Y396;K"s4"
+C;X1;Y397;K"s5"
+C;X2;Y397;K"P"
+C;X5;Y397;K1
+C;X8;Y397;K"Section Heading Lvl 5"
+C;X9;Y397;K1
+C;X11;Y397;K"m"
+C;X12;Y397;K"T70"
+C;X13;Y397;K"S08"
+C;X14;Y397;K"CB"
+C;X16;Y397;K"KPN"
+C;X17;Y397;K"paragraph"
+C;X18;Y397;K"s5"
+C;X1;Y398;K"s6"
+C;X2;Y398;K"P"
+C;X5;Y398;K1
+C;X8;Y398;K"Section Heading Lvl 6"
+C;X9;Y398;K1
+C;X11;Y398;K"m"
+C;X12;Y398;K"T71"
+C;X13;Y398;K"S08"
+C;X14;Y398;K"CB"
+C;X16;Y398;K"KPN"
+C;X17;Y398;K"paragraph"
+C;X18;Y398;K"s6"
+C;X1;Y399;K"s7"
+C;X2;Y399;K"P"
+C;X5;Y399;K1
+C;X8;Y399;K"Section Heading Lvl 7"
+C;X9;Y399;K1
+C;X11;Y399;K"m"
+C;X12;Y399;K"T70"
+C;X13;Y399;K"S08"
+C;X14;Y399;K"CB"
+C;X16;Y399;K"SC"
+C;X17;Y399;K"paragraph"
+C;X18;Y399;K"s7"
+C;X1;Y400;K"s8"
+C;X2;Y400;K"P"
+C;X5;Y400;K1
+C;X8;Y400;K"Section Heading Lvl 8"
+C;X9;Y400;K1
+C;X11;Y400;K"m"
+C;X12;Y400;K"B70"
+C;X13;Y400;K"S08"
+C;X14;Y400;K"CB"
+C;X16;Y400;K"KPN"
+C;X17;Y400;K"paragraph"
+C;X18;Y400;K"s8"
+C;X1;Y401;K"s9"
+C;X2;Y401;K"P"
+C;X5;Y401;K1
+C;X8;Y401;K"Section Heading Lvl 9"
+C;X9;Y401;K1
+C;X11;Y401;K"m"
+C;X12;Y401;K"B71"
+C;X13;Y401;K"S08"
+C;X14;Y401;K"CB"
+C;X16;Y401;K"KPN"
+C;X17;Y401;K"paragraph"
+C;X18;Y401;K"s9"
+C;X1;Y402;K"sd"
+C;X2;Y402;K"P"
+C;X5;Y402;K1
+C;X8;Y402;K"Semantic Division"
+C;X9;Y402;K1
+C;X11;Y402;K"rem"
+C;X13;Y402;K"R00"
+C;X17;Y402;K"paragraph"
+C;X18;Y402;K"sd"
+C;X1;Y403;K"sd0"
+C;X2;Y403;K"P"
+C;X5;Y403;K1
+C;X8;Y403;K"Semantic Division Lvl 0"
+C;X9;Y403;K1
+C;X11;Y403;K"rem"
+C;X13;Y403;K"R05"
+C;X17;Y403;K"paragraph"
+C;X18;Y403;K"sd0"
+C;X1;Y404;K"sd1"
+C;X2;Y404;K"P"
+C;X5;Y404;K1
+C;X8;Y404;K"Semantic Division Lvl 1"
+C;X9;Y404;K1
+C;X11;Y404;K"rem"
+C;X13;Y404;K"B10"
+C;X17;Y404;K"paragraph"
+C;X18;Y404;K"sd1"
+C;X1;Y405;K"sd2"
+C;X2;Y405;K"P"
+C;X5;Y405;K1
+C;X8;Y405;K"Semantic Division Lvl 2"
+C;X9;Y405;K1
+C;X11;Y405;K"rem"
+C;X13;Y405;K"B20"
+C;X17;Y405;K"paragraph"
+C;X18;Y405;K"sd2"
+C;X1;Y406;K"sd3"
+C;X2;Y406;K"P"
+C;X5;Y406;K1
+C;X8;Y406;K"Semantic Division Lvl 3"
+C;X9;Y406;K1
+C;X11;Y406;K"rem"
+C;X13;Y406;K"B30"
+C;X17;Y406;K"paragraph"
+C;X18;Y406;K"sd3"
+C;X1;Y407;K"sd4"
+C;X2;Y407;K"P"
+C;X5;Y407;K1
+C;X8;Y407;K"Semantic Division Lvl 4"
+C;X9;Y407;K1
+C;X11;Y407;K"rem"
+C;X13;Y407;K"B40"
+C;X17;Y407;K"paragraph"
+C;X18;Y407;K"sd4"
+C;X1;Y408;K"sd5"
+C;X2;Y408;K"P"
+C;X5;Y408;K1
+C;X8;Y408;K"Semantic Division Lvl 5"
+C;X9;Y408;K1
+C;X11;Y408;K"rem"
+C;X13;Y408;K"B50"
+C;X17;Y408;K"paragraph"
+C;X18;Y408;K"sd5"
+C;X1;Y409;K"sd6"
+C;X2;Y409;K"P"
+C;X5;Y409;K1
+C;X8;Y409;K"Semantic Division Lvl 6"
+C;X9;Y409;K1
+C;X11;Y409;K"rem"
+C;X13;Y409;K"B60"
+C;X17;Y409;K"paragraph"
+C;X18;Y409;K"sd6"
+C;X1;Y410;K"sd7"
+C;X2;Y410;K"P"
+C;X5;Y410;K1
+C;X8;Y410;K"Semantic Division Lvl 7"
+C;X9;Y410;K1
+C;X11;Y410;K"rem"
+C;X13;Y410;K"B70"
+C;X17;Y410;K"paragraph"
+C;X18;Y410;K"sd7"
+C;X1;Y411;K"sd8"
+C;X2;Y411;K"P"
+C;X5;Y411;K1
+C;X8;Y411;K"Semantic Division Lvl 8"
+C;X9;Y411;K1
+C;X11;Y411;K"rem"
+C;X13;Y411;K"B80"
+C;X17;Y411;K"paragraph"
+C;X18;Y411;K"sd8"
+C;X1;Y412;K"sd9"
+C;X2;Y412;K"P"
+C;X5;Y412;K1
+C;X8;Y412;K"Semantic Division Lvl 9"
+C;X9;Y412;K1
+C;X11;Y412;K"rem"
+C;X13;Y412;K"B90"
+C;X17;Y412;K"paragraph"
+C;X18;Y412;K"sd9"
+C;X1;Y413;K"sp"
+C;X2;Y413;K"P"
+C;X5;Y413;K1
+C;X8;Y413;K"Speaker Identification"
+C;X9;Y413;K1
+C;X11;Y413;K"m"
+C;X12;Y413;K"B41"
+C;X13;Y413;K"L10"
+C;X14;Y413;K"M0"
+C;X17;Y413;K"paragraph"
+C;X18;Y413;K"sp"
+C;X1;Y414;K"sr"
+C;X2;Y414;K"P"
+C;X5;Y414;K1
+C;X8;Y414;K"Section Verse Range"
+C;X9;Y414;K1
+C;X11;Y414;K"m"
+C;X12;Y414;K"T71"
+C;X13;Y414;K"L08"
+C;X14;Y414;K"CB"
+C;X15;Y414;K"VS1"
+C;X16;Y414;K"KPN"
+C;X17;Y414;K"paragraph"
+C;X18;Y414;K"sr"
+C;X1;Y415;K"ef ... ef*"
+C;X2;Y415;K"F"
+C;X6;Y415;K1
+C;X8;Y415;K"Extended Footnote"
+C;X9;Y415;K1
+C;X10;Y415;K"Convert to Footnote"
+C;X11;Y415;K"f"
+C;X12;Y415;K"C41"
+C;X13;Y415;K"F10"
+C;X14;Y415;K"M"
+C;X17;Y415;K"paragraph"
+C;X18;Y415;K"ef"
+C;X1;Y416;K"ex ... ex*"
+C;X2;Y416;K"F"
+C;X6;Y416;K1
+C;X8;Y416;K"Cross Reference-extended"
+C;X9;Y416;K0.5
+C;X10;Y416;K"Convert to Footnote"
+C;X11;Y416;K"f"
+C;X17;Y416;K"paragraph"
+C;X18;Y416;K"ex"
+C;X1;Y417;K"fdc ... fdc*"
+C;X2;Y417;K"F"
+C;X6;Y417;K1
+C;X8;Y417;K"Footnote-Deuterocanon"
+C;X9;Y417;K1
+C;X10;Y417;K"Convert to footnote (exclude if not DC)"
+C;X11;Y417;K"f"
+C;X17;Y417;K"paragraph"
+C;X18;Y417;K"fdc"
+C;X1;Y418;K"fe ... fe*"
+C;X2;Y418;K"F"
+C;X6;Y418;K1
+C;X8;Y418;K"Endnote"
+C;X9;Y418;K0.5
+C;X10;Y418;K"Convert to Footnote"
+C;X11;Y418;K"f"
+C;X12;Y418;K"C47"
+C;X17;Y418;K"paragraph"
+C;X18;Y418;K"fe"
+C;X1;Y419;K"fp ...  fp*"
+C;X2;Y419;K"F"
+C;X6;Y419;K1
+C;X8;Y419;K"Footnote paragraph"
+C;X9;Y419;K1
+C;X11;Y419;K"f"
+C;X12;Y419;K"C40"
+C;X14;Y419;K"P1"
+C;X17;Y419;K"paragraph"
+C;X18;Y419;K"fp"
+C;X1;Y420;K"fs ...  fs*"
+C;X2;Y420;K"F"
+C;X6;Y420;K1
+C;X8;Y420;K"Footnote Summary"
+C;X9;Y420;K1
+C;X11;Y420;K"f"
+C;X12;Y420;K"C70"
+C;X14;Y420;K"CB"
+C;X17;Y420;K"paragraph"
+C;X18;Y420;K"fs"
+C;X1;Y421;K"x ... x*"
+C;X2;Y421;K"F"
+C;X6;Y421;K1
+C;X8;Y421;K"Cross Reference"
+C;X9;Y421;K0.5
+C;X10;Y421;K"Convert to footnote"
+C;X11;Y421;K"f"
+C;X17;Y421;K"paragraph"
+C;X18;Y421;K"x"
+C;X1;Y422;K"xdc ... xdc*"
+C;X2;Y422;K"F"
+C;X6;Y422;K1
+C;X8;Y422;K"Cross Reference to Dueterocanon"
+C;X9;Y422;K0.5
+C;X10;Y422;K"Convert to footnote"
+C;X11;Y422;K"f"
+C;X17;Y422;K"paragraph"
+C;X18;Y422;K"xdc"
+C;X1;Y423;K"xnt ... xnt*"
+C;X2;Y423;K"F"
+C;X6;Y423;K1
+C;X8;Y423;K"Cross Reference to NT"
+C;X9;Y423;K0.5
+C;X10;Y423;K"Convert to footnote"
+C;X11;Y423;K"f"
+C;X17;Y423;K"paragraph"
+C;X18;Y423;K"xnt"
+C;X1;Y424;K"xot ... xot*"
+C;X2;Y424;K"F"
+C;X6;Y424;K1
+C;X8;Y424;K"Cross Reference to OT"
+C;X9;Y424;K0.5
+C;X10;Y424;K"Convert to footnote"
+C;X11;Y424;K"f"
+C;X17;Y424;K"paragraph"
+C;X18;Y424;K"xot"
+C;X1;Y425;K"- [ ... ]"
+C;X2;Y425;K"C"
+C;X7;Y425;K1
+C;X8;Y425;K"Invisible Footnote marker"
+C;X9;Y425;K1
+C;X13;Y425;K"R00"
+C;X15;Y425;K"Clear"
+C;X17;Y425;K"text"
+C;X18;Y425;K"-"
+C;X1;Y426;K"+ [ ... ]"
+C;X2;Y426;K"C"
+C;X7;Y426;K1
+C;X8;Y426;K"Footnote marker"
+C;X9;Y426;K1
+C;X12;Y426;K"S71"
+C;X15;Y426;K"SUP"
+C;X17;Y426;K"text"
+C;X18;Y426;K"+"
+C;X1;Y427;K"add ... add*"
+C;X2;Y427;K"C"
+C;X7;Y427;K1
+C;X8;Y427;K"Added words"
+C;X9;Y427;K1
+C;X12;Y427;K"B41"
+C;X17;Y427;K"text"
+C;X18;Y427;K"add"
+C;X1;Y428;K"addpn ... addpn*"
+C;X2;Y428;K"C"
+C;X7;Y428;K1
+C;X8;Y428;K"Added words"
+C;X9;Y428;K1
+C;X12;Y428;K"B41"
+C;X17;Y428;K"text"
+C;X18;Y428;K"addpn"
+C;X1;Y429;K"bd ... bd*"
+C;X2;Y429;K"C"
+C;X7;Y429;K1
+C;X8;Y429;K"Bold"
+C;X9;Y429;K1
+C;X12;Y429;K"B70"
+C;X17;Y429;K"text"
+C;X18;Y429;K"bd"
+C;X1;Y430;K"bdit ... bdit*"
+C;X2;Y430;K"C"
+C;X7;Y430;K1
+C;X8;Y430;K"Bold Italics"
+C;X9;Y430;K1
+C;X12;Y430;K"B71"
+C;X17;Y430;K"text"
+C;X18;Y430;K"bdit"
+C;X1;Y431;K"bk ... bk*"
+C;X2;Y431;K"C"
+C;X7;Y431;K1
+C;X8;Y431;K"Book Title"
+C;X9;Y431;K1
+C;X12;Y431;K"B41"
+C;X17;Y431;K"text"
+C;X18;Y431;K"bk"
+C;X1;Y432;K"ca ... ca*"
+C;X2;Y432;K"C"
+C;X7;Y432;K1
+C;X8;Y432;K"Alternate Chapter Number"
+C;X9;Y432;K1
+C;X12;Y432;K"S70"
+C;X13;Y432;K"L10"
+C;X17;Y432;K"text"
+C;X18;Y432;K"ca"
+C;X1;Y433;K"dc ... dc*"
+C;X2;Y433;K"C"
+C;X7;Y433;K1
+C;X8;Y433;K"Text Quotation of Deuterocanon"
+C;X9;Y433;K1
+C;X12;Y433;K"B41"
+C;X17;Y433;K"text"
+C;X18;Y433;K"dc"
+C;X1;Y434;K"em ... em*"
+C;X2;Y434;K"C"
+C;X7;Y434;K1
+C;X8;Y434;K"Emphasis"
+C;X9;Y434;K1
+C;X12;Y434;K"B71"
+C;X17;Y434;K"text"
+C;X18;Y434;K"em"
+C;X1;Y435;K"fk ... fk*"
+C;X2;Y435;K"C"
+C;X7;Y435;K1
+C;X8;Y435;K"Footnote Keyword"
+C;X9;Y435;K1
+C;X12;Y435;K"C76"
+C;X17;Y435;K"text"
+C;X18;Y435;K"fk"
+C;X1;Y436;K"fl ... fl*"
+C;X2;Y436;K"C"
+C;X7;Y436;K1
+C;X8;Y436;K"Footnote Label"
+C;X9;Y436;K1
+C;X12;Y436;K"C77"
+C;X17;Y436;K"text"
+C;X18;Y436;K"fl"
+C;X1;Y437;K"fm ... fm*"
+C;X2;Y437;K"C"
+C;X7;Y437;K1
+C;X8;Y437;K"Fake Footnote Marker in text"
+C;X9;Y437;K1
+C;X12;Y437;K"C77"
+C;X15;Y437;K"SUP"
+C;X17;Y437;K"text"
+C;X18;Y437;K"fm"
+C;X1;Y438;K"fq ... fq*"
+C;X2;Y438;K"C"
+C;X7;Y438;K1
+C;X8;Y438;K"Footnote Quotation"
+C;X9;Y438;K1
+C;X12;Y438;K"C47"
+C;X17;Y438;K"text"
+C;X18;Y438;K"fq"
+C;X1;Y439;K"fqa ... fqa*"
+C;X2;Y439;K"C"
+C;X7;Y439;K1
+C;X8;Y439;K"Footnote Alternate Quote"
+C;X9;Y439;K1
+C;X12;Y439;K"C47"
+C;X17;Y439;K"text"
+C;X18;Y439;K"fqa"
+C;X1;Y440;K"fr ... fr*"
+C;X2;Y440;K"C"
+C;X7;Y440;K1
+C;X8;Y440;K"Footnote Backreference"
+C;X9;Y440;K1
+C;X12;Y440;K"C77"
+C;X17;Y440;K"text"
+C;X18;Y440;K"fr"
+C;X1;Y441;K"ft ... ft*"
+C;X2;Y441;K"C"
+C;X7;Y441;K1
+C;X8;Y441;K"Footnote Text"
+C;X9;Y441;K1
+C;X12;Y441;K"C46"
+C;X17;Y441;K"text"
+C;X18;Y441;K"ft"
+C;X1;Y442;K"fv ... fv*"
+C;X2;Y442;K"C"
+C;X7;Y442;K1
+C;X8;Y442;K"Footnote Verse Marker"
+C;X9;Y442;K1
+C;X12;Y442;K"C76"
+C;X15;Y442;K"VM"
+C;X17;Y442;K"text"
+C;X18;Y442;K"fv"
+C;X1;Y443;K"fw ... fw*"
+C;X2;Y443;K"C"
+C;X7;Y443;K1
+C;X8;Y443;K"Footnote Witness Label"
+C;X9;Y443;K1
+C;X12;Y443;K"C71"
+C;X17;Y443;K"text"
+C;X18;Y443;K"fw"
+C;X1;Y444;K"ior ... ior*"
+C;X2;Y444;K"C"
+C;X7;Y444;K1
+C;X8;Y444;K"Intro Outline Reference"
+C;X9;Y444;K1
+C;X12;Y444;K"S41"
+C;X17;Y444;K"text"
+C;X18;Y444;K"ior"
+C;X1;Y445;K"iqt ... iqt*"
+C;X2;Y445;K"C"
+C;X7;Y445;K1
+C;X8;Y445;K"Intro Quoted Text"
+C;X9;Y445;K1
+C;X12;Y445;K"S41"
+C;X17;Y445;K"text"
+C;X18;Y445;K"iqt"
+C;X1;Y446;K"it ... it*"
+C;X2;Y446;K"C"
+C;X7;Y446;K1
+C;X8;Y446;K"Italics"
+C;X9;Y446;K1
+C;X12;Y446;K"B41"
+C;X17;Y446;K"text"
+C;X18;Y446;K"it"
+C;X1;Y447;K"k ... k*"
+C;X2;Y447;K"C"
+C;X7;Y447;K1
+C;X8;Y447;K"Keyword Key Term"
+C;X9;Y447;K1
+C;X10;Y447;K"signal in glossary"
+C;X12;Y447;K"B70"
+C;X17;Y447;K"text"
+C;X18;Y447;K"k"
+C;X1;Y448;K"lik ... lik*"
+C;X2;Y448;K"C"
+C;X7;Y448;K1
+C;X8;Y448;K"List Key Term"
+C;X9;Y448;K1
+C;X17;Y448;K"text"
+C;X18;Y448;K"lik"
+C;X1;Y449;K"litl ... litl*"
+C;X2;Y449;K"C"
+C;X7;Y449;K1
+C;X8;Y449;K"List Total"
+C;X9;Y449;K1
+C;X10;Y449;K"sum"
+C;X17;Y449;K"text"
+C;X18;Y449;K"litl"
+C;X1;Y450;K"liv ... liv*"
+C;X2;Y450;K"C"
+C;X7;Y450;K1
+C;X8;Y450;K"List Value"
+C;X9;Y450;K1
+C;X17;Y450;K"text"
+C;X18;Y450;K"liv"
+C;X1;Y451;K"liv0 ... liv0*"
+C;X2;Y451;K"C"
+C;X7;Y451;K1
+C;X8;Y451;K"List Value 0"
+C;X9;Y451;K1
+C;X17;Y451;K"text"
+C;X18;Y451;K"liv0"
+C;X1;Y452;K"liv1 ... liv1*"
+C;X2;Y452;K"C"
+C;X7;Y452;K1
+C;X8;Y452;K"List Item Number 1"
+C;X9;Y452;K1
+C;X17;Y452;K"text"
+C;X18;Y452;K"liv1"
+C;X1;Y453;K"liv2 ... liv2*"
+C;X2;Y453;K"C"
+C;X7;Y453;K1
+C;X8;Y453;K"List Item Number 2"
+C;X9;Y453;K1
+C;X17;Y453;K"text"
+C;X18;Y453;K"liv2"
+C;X1;Y454;K"liv3 ... liv3*"
+C;X2;Y454;K"C"
+C;X7;Y454;K1
+C;X8;Y454;K"List Item Number 3"
+C;X9;Y454;K1
+C;X17;Y454;K"text"
+C;X18;Y454;K"liv3"
+C;X1;Y455;K"liv4 ... lIv4*"
+C;X2;Y455;K"C"
+C;X7;Y455;K1
+C;X8;Y455;K"List Item Number 4"
+C;X9;Y455;K1
+C;X17;Y455;K"text"
+C;X18;Y455;K"liv4"
+C;X1;Y456;K"liv5 ... lIv5*"
+C;X2;Y456;K"C"
+C;X7;Y456;K1
+C;X8;Y456;K"List Item Number 5"
+C;X9;Y456;K1
+C;X17;Y456;K"text"
+C;X18;Y456;K"liv5"
+C;X1;Y457;K"liv6 ... lIv6*"
+C;X2;Y457;K"C"
+C;X7;Y457;K1
+C;X8;Y457;K"List Item Number 6"
+C;X9;Y457;K1
+C;X17;Y457;K"text"
+C;X18;Y457;K"liv6"
+C;X1;Y458;K"lIv7 ... lIv7*"
+C;X2;Y458;K"C"
+C;X7;Y458;K1
+C;X8;Y458;K"List Item Number 7"
+C;X9;Y458;K1
+C;X17;Y458;K"text"
+C;X18;Y458;K"lIv7"
+C;X1;Y459;K"lIv8 ... lIv8*"
+C;X2;Y459;K"C"
+C;X7;Y459;K1
+C;X8;Y459;K"List Item Number 8"
+C;X9;Y459;K1
+C;X17;Y459;K"text"
+C;X18;Y459;K"lIv8"
+C;X1;Y460;K"liv9 ... lIv9*"
+C;X2;Y460;K"C"
+C;X7;Y460;K1
+C;X8;Y460;K"List Item Number 9"
+C;X9;Y460;K1
+C;X17;Y460;K"text"
+C;X18;Y460;K"liv9"
+C;X1;Y461;K"nd ... nd*"
+C;X2;Y461;K"C"
+C;X7;Y461;K1
+C;X8;Y461;K"Name of Diety"
+C;X9;Y461;K1
+C;X15;Y461;K"SC"
+C;X17;Y461;K"text"
+C;X18;Y461;K"nd"
+C;X1;Y462;K"ndx ... ndx*"
+C;X2;Y462;K"C"
+C;X7;Y462;K1
+C;X8;Y462;K"Indexed Word"
+C;X9;Y462;K1
+C;X15;Y462;K"UND"
+C;X17;Y462;K"text"
+C;X18;Y462;K"ndx"
+C;X1;Y463;K"no ... no*"
+C;X2;Y463;K"C"
+C;X7;Y463;K1
+C;X8;Y463;K"Normal Text"
+C;X9;Y463;K1
+C;X12;Y463;K"B40"
+C;X17;Y463;K"text"
+C;X18;Y463;K"no"
+C;X1;Y464;K"ord ... ord*"
+C;X2;Y464;K"C"
+C;X7;Y464;K1
+C;X8;Y464;K"Ordinal"
+C;X9;Y464;K1
+C;X15;Y464;K"SUP"
+C;X17;Y464;K"text"
+C;X18;Y464;K"ord"
+C;X1;Y465;K"pn ... pn*"
+C;X2;Y465;K"C"
+C;X7;Y465;K1
+C;X8;Y465;K"Proper Name of Person"
+C;X9;Y465;K1
+C;X17;Y465;K"text"
+C;X18;Y465;K"pn"
+C;X1;Y466;K"png ... png*"
+C;X2;Y466;K"C"
+C;X7;Y466;K1
+C;X8;Y466;K"Proper Name of Geography"
+C;X9;Y466;K1
+C;X17;Y466;K"text"
+C;X18;Y466;K"png"
+C;X1;Y467;K"pro ... pro*"
+C;X2;Y467;K"C"
+C;X7;Y467;K1
+C;X8;Y467;K"Pronunciation"
+C;X9;Y467;K1
+C;X17;Y467;K"text"
+C;X18;Y467;K"pro"
+C;X1;Y468;K"qac ... qac*"
+C;X2;Y468;K"C"
+C;X7;Y468;K1
+C;X8;Y468;K"Inline Acrostic"
+C;X9;Y468;K1
+C;X12;Y468;K"B60"
+C;X15;Y468;K"SC"
+C;X16;Y468;K"T75"
+C;X17;Y468;K"text"
+C;X18;Y468;K"qac"
+C;X1;Y469;K"qt ... qt*"
+C;X2;Y469;K"C"
+C;X7;Y469;K1
+C;X8;Y469;K"Quoted Text"
+C;X9;Y469;K1
+C;X12;Y469;K"B41"
+C;X17;Y469;K"text"
+C;X18;Y469;K"qt"
+C;X1;Y470;K"rb ... rb*"
+C;X2;Y470;K"C"
+C;X7;Y470;K1
+C;X8;Y470;K"Ruby Base"
+C;X9;Y470;K1
+C;X17;Y470;K"text"
+C;X18;Y470;K"rb"
+C;X1;Y471;K"rq ... rq*"
+C;X2;Y471;K"C"
+C;X7;Y471;K1
+C;X8;Y471;K"Inline Reference"
+C;X9;Y471;K1
+C;X10;Y471;K"(in body text)"
+C;X12;Y471;K"B41"
+C;X17;Y471;K"text"
+C;X18;Y471;K"rq"
+C;X1;Y472;K"rt ... rt*"
+C;X2;Y472;K"C"
+C;X7;Y472;K1
+C;X8;Y472;K"Ruby Annotation"
+C;X9;Y472;K1
+C;X15;Y472;K"SUP"
+C;X17;Y472;K"text"
+C;X18;Y472;K"rt"
+C;X1;Y473;K"sc ... sc*"
+C;X2;Y473;K"C"
+C;X7;Y473;K1
+C;X8;Y473;K"Small Caps"
+C;X9;Y473;K1
+C;X15;Y473;K"SC"
+C;X17;Y473;K"text"
+C;X18;Y473;K"sc"
+C;X1;Y474;K"sig ... sig*"
+C;X2;Y474;K"C"
+C;X7;Y474;K1
+C;X8;Y474;K"Signature"
+C;X9;Y474;K1
+C;X12;Y474;K"B41"
+C;X17;Y474;K"text"
+C;X18;Y474;K"sig"
+C;X1;Y475;K"sls ... sls*"
+C;X2;Y475;K"C"
+C;X7;Y475;K1
+C;X8;Y475;K"Text is Alt Language"
+C;X9;Y475;K1
+C;X17;Y475;K"text"
+C;X18;Y475;K"sls"
+C;X1;Y476;K"sup ... sup*"
+C;X2;Y476;K"C"
+C;X7;Y476;K1
+C;X8;Y476;K"Superscript"
+C;X9;Y476;K1
+C;X15;Y476;K"SUP"
+C;X17;Y476;K"text"
+C;X18;Y476;K"sup"
+C;X1;Y477;K"tl ... tl*"
+C;X2;Y477;K"C"
+C;X7;Y477;K1
+C;X8;Y477;K"Transliterated or Foreign word"
+C;X9;Y477;K1
+C;X17;Y477;K"text"
+C;X18;Y477;K"tl"
+C;X1;Y478;K"va ... va*"
+C;X2;Y478;K"C"
+C;X7;Y478;K1
+C;X8;Y478;K"Alternate Verse Number"
+C;X9;Y478;K1
+C;X10;Y478;K"?? (REPLACE OR DUAL?)"
+C;X12;Y478;K"C77"
+C;X15;Y478;K"VM"
+C;X16;Y478;K"FPL"
+C;X17;Y478;K"text"
+C;X18;Y478;K"va"
+C;X1;Y479;K"w ... w*"
+C;X2;Y479;K"C"
+C;X7;Y479;K1
+C;X8;Y479;K"Wordlist Marker"
+C;X9;Y479;K1
+C;X17;Y479;K"text"
+C;X18;Y479;K"w"
+C;X1;Y480;K"wa ... wa*"
+C;X2;Y480;K"C"
+C;X7;Y480;K1
+C;X8;Y480;K"Aramaic Wordlist Marker"
+C;X9;Y480;K1
+C;X17;Y480;K"text"
+C;X18;Y480;K"wa"
+C;X1;Y481;K"wg ... wg*"
+C;X2;Y481;K"C"
+C;X7;Y481;K1
+C;X8;Y481;K"Greek Wordlist Marker"
+C;X9;Y481;K1
+C;X17;Y481;K"text"
+C;X18;Y481;K"wg"
+C;X1;Y482;K"wh ... wh*"
+C;X2;Y482;K"C"
+C;X7;Y482;K1
+C;X8;Y482;K"Hebrew Word List Marker"
+C;X9;Y482;K1
+C;X17;Y482;K"text"
+C;X18;Y482;K"wh"
+C;X1;Y483;K"wj ... wj*"
+C;X2;Y483;K"C"
+C;X7;Y483;K1
+C;X8;Y483;K"Words of Jesus"
+C;X9;Y483;K1
+C;X15;Y483;K"WOC"
+C;X17;Y483;K"text"
+C;X18;Y483;K"wj"
+C;X1;Y484;K"wr ... wr*"
+C;X2;Y484;K"C"
+C;X7;Y484;K1
+C;X8;Y484;K"Auxiliary Wordlist entry"
+C;X9;Y484;K1
+C;X17;Y484;K"text"
+C;X18;Y484;K"wr"
+C;X1;Y485;K"xk ... xk*"
+C;X2;Y485;K"C"
+C;X7;Y485;K1
+C;X8;Y485;K"Cross Reference Keyword"
+C;X9;Y485;K1
+C;X12;Y485;K"C76"
+C;X17;Y485;K"text"
+C;X18;Y485;K"xk"
+C;X1;Y486;K"xo ... xo*"
+C;X2;Y486;K"C"
+C;X7;Y486;K1
+C;X8;Y486;K"Cross Reference Origin"
+C;X9;Y486;K1
+C;X12;Y486;K"C77"
+C;X17;Y486;K"text"
+C;X18;Y486;K"xo"
+C;X1;Y487;K"xop ... xop*"
+C;X2;Y487;K"C"
+C;X7;Y487;K1
+C;X8;Y487;K"Published Cross Reference Origin"
+C;X9;Y487;K1
+C;X12;Y487;K"C77"
+C;X17;Y487;K"text"
+C;X18;Y487;K"xop"
+C;X1;Y488;K"xq ... xq*"
+C;X2;Y488;K"C"
+C;X7;Y488;K1
+C;X8;Y488;K"Cross Reference Quote"
+C;X9;Y488;K1
+C;X12;Y488;K"C47"
+C;X17;Y488;K"text"
+C;X18;Y488;K"xq"
+C;X1;Y489;K"xt ... xt*"
+C;X2;Y489;K"C"
+C;X7;Y489;K1
+C;X8;Y489;K"Cross Reference Target"
+C;X9;Y489;K1
+C;X12;Y489;K"C46"
+C;X17;Y489;K"text"
+C;X18;Y489;K"xt"
+C;X1;Y490;K"xta ... xta*"
+C;X2;Y490;K"C"
+C;X7;Y490;K1
+C;X8;Y490;K"Cross Reference Additional Text"
+C;X9;Y490;K1
+C;X12;Y490;K"C46"
+C;X17;Y490;K"text"
+C;X18;Y490;K"xta"
+C;X1;Y491;K"conc (&)"
+C;X2;Y491;K"A"
+C;X4;Y491;K1
+C;X5;Y491;K1
+C;X8;Y491;K"OBSOLETE Concordance division"
+C;X9;Y491;K0
+C;X11;Y491;K"rem"
+C;X17;Y491;K"paragraph"
+C;X18;Y491;K"conc"
+C;X1;Y492;K"cov (&)"
+C;X2;Y492;K"A"
+C;X4;Y492;K1
+C;X5;Y492;K1
+C;X8;Y492;K"OBSOLETE Cover division"
+C;X9;Y492;K0
+C;X11;Y492;K"rem"
+C;X17;Y492;K"paragraph"
+C;X18;Y492;K"cov"
+C;X1;Y493;K"esb (&)"
+C;X2;Y493;K"A"
+C;X4;Y493;K1
+C;X5;Y493;K1
+C;X8;Y493;K"Study Bible Sidebar Start"
+C;X9;Y493;K0
+C;X11;Y493;K"rem"
+C;X17;Y493;K"paragraph"
+C;X18;Y493;K"esb"
+C;X1;Y494;K"esbe (&)"
+C;X2;Y494;K"A"
+C;X4;Y494;K1
+C;X5;Y494;K1
+C;X8;Y494;K"Study Bible Sidebar End"
+C;X9;Y494;K0
+C;X11;Y494;K"rem"
+C;X17;Y494;K"paragraph"
+C;X18;Y494;K"esbe"
+C;X1;Y495;K"glo (&)"
+C;X2;Y495;K"A"
+C;X4;Y495;K1
+C;X5;Y495;K1
+C;X8;Y495;K"OBSOLETE Glossary division"
+C;X9;Y495;K0
+C;X11;Y495;K"rem"
+C;X17;Y495;K"paragraph"
+C;X18;Y495;K"glo"
+C;X1;Y496;K"idx (&)"
+C;X2;Y496;K"A"
+C;X4;Y496;K1
+C;X5;Y496;K1
+C;X8;Y496;K"OBSOLETE Index division"
+C;X9;Y496;K0
+C;X11;Y496;K"rem"
+C;X17;Y496;K"paragraph"
+C;X18;Y496;K"idx"
+C;X1;Y497;K"intro (&)"
+C;X2;Y497;K"A"
+C;X4;Y497;K1
+C;X5;Y497;K1
+C;X8;Y497;K"OBSOLETE Introduction division"
+C;X9;Y497;K0
+C;X11;Y497;K"rem"
+C;X17;Y497;K"paragraph"
+C;X18;Y497;K"intro"
+C;X1;Y498;K"maps (&)"
+C;X2;Y498;K"A"
+C;X4;Y498;K1
+C;X5;Y498;K1
+C;X8;Y498;K"OBSOLETE Maps division"
+C;X9;Y498;K0
+C;X11;Y498;K"rem"
+C;X17;Y498;K"paragraph"
+C;X18;Y498;K"maps"
+C;X1;Y499;K"pref (&)"
+C;X2;Y499;K"A"
+C;X4;Y499;K1
+C;X5;Y499;K1
+C;X8;Y499;K"OBSOLETE Preface division"
+C;X9;Y499;K0
+C;X11;Y499;K"rem"
+C;X17;Y499;K"paragraph"
+C;X18;Y499;K"pref"
+C;X1;Y500;K"pub (&)"
+C;X2;Y500;K"A"
+C;X4;Y500;K1
+C;X5;Y500;K1
+C;X8;Y500;K"OBSOLETE Publication division"
+C;X9;Y500;K0
+C;X11;Y500;K"rem"
+C;X17;Y500;K"paragraph"
+C;X18;Y500;K"pub"
+C;X1;Y501;K"pubinfo (&)"
+C;X2;Y501;K"A"
+C;X4;Y501;K1
+C;X5;Y501;K1
+C;X8;Y501;K"OBSOLETE Publication Information div"
+C;X9;Y501;K0
+C;X11;Y501;K"rem"
+C;X17;Y501;K"paragraph"
+C;X18;Y501;K"pubinfo"
+C;X1;Y502;K"spine (&)"
+C;X2;Y502;K"A"
+C;X4;Y502;K1
+C;X5;Y502;K1
+C;X8;Y502;K"OBSOLETE Spine"
+C;X9;Y502;K0
+C;X11;Y502;K"rem"
+C;X17;Y502;K"paragraph"
+C;X18;Y502;K"spine"
+C;X1;Y503;K"tc0"
+C;X2;Y503;K"A"
+C;X5;Y503;K1
+C;X8;Y503;K"Table Hand Left"
+C;X9;Y503;K1
+C;X12;Y503;K"V50"
+C;X13;Y503;K"L10"
+C;X14;Y503;K"M"
+C;X17;Y503;K"paragraph"
+C;X18;Y503;K"tc0"
+C;X1;Y504;K"tc1"
+C;X2;Y504;K"A"
+C;X5;Y504;K1
+C;X8;Y504;K"Table Hand Cursive Left"
+C;X9;Y504;K1
+C;X12;Y504;K"V51"
+C;X13;Y504;K"L10"
+C;X14;Y504;K"M"
+C;X17;Y504;K"paragraph"
+C;X18;Y504;K"tc1"
+C;X1;Y505;K"tc2"
+C;X2;Y505;K"A"
+C;X5;Y505;K1
+C;X8;Y505;K"Table Text Light Left"
+C;X9;Y505;K1
+C;X12;Y505;K"B30"
+C;X13;Y505;K"L10"
+C;X14;Y505;K"M"
+C;X17;Y505;K"paragraph"
+C;X18;Y505;K"tc2"
+C;X1;Y506;K"tc3"
+C;X2;Y506;K"A"
+C;X5;Y506;K1
+C;X8;Y506;K"Table Text Light Italic Left"
+C;X9;Y506;K1
+C;X12;Y506;K"B31"
+C;X13;Y506;K"L10"
+C;X14;Y506;K"M"
+C;X17;Y506;K"paragraph"
+C;X18;Y506;K"tc3"
+C;X1;Y507;K"tc4"
+C;X2;Y507;K"A"
+C;X5;Y507;K1
+C;X8;Y507;K"Table Text Regular Left"
+C;X9;Y507;K1
+C;X12;Y507;K"B40"
+C;X13;Y507;K"L10"
+C;X14;Y507;K"M"
+C;X17;Y507;K"paragraph"
+C;X18;Y507;K"tc4"
+C;X1;Y508;K"tc5"
+C;X2;Y508;K"A"
+C;X5;Y508;K1
+C;X8;Y508;K"Table Text Regular Italic Left"
+C;X9;Y508;K1
+C;X12;Y508;K"B41"
+C;X13;Y508;K"L10"
+C;X14;Y508;K"M"
+C;X17;Y508;K"paragraph"
+C;X18;Y508;K"tc5"
+C;X1;Y509;K"tc6"
+C;X2;Y509;K"A"
+C;X5;Y509;K1
+C;X8;Y509;K"Table Text Bold Left"
+C;X9;Y509;K1
+C;X12;Y509;K"B70"
+C;X13;Y509;K"L10"
+C;X14;Y509;K"M"
+C;X17;Y509;K"paragraph"
+C;X18;Y509;K"tc6"
+C;X1;Y510;K"tc7"
+C;X2;Y510;K"A"
+C;X5;Y510;K1
+C;X8;Y510;K"Table Text Bold Italic Left"
+C;X9;Y510;K1
+C;X12;Y510;K"B71"
+C;X13;Y510;K"L10"
+C;X14;Y510;K"M"
+C;X17;Y510;K"paragraph"
+C;X18;Y510;K"tc7"
+C;X1;Y511;K"tc8"
+C;X2;Y511;K"A"
+C;X5;Y511;K1
+C;X8;Y511;K"Table Text Heavy Left"
+C;X9;Y511;K1
+C;X12;Y511;K"B90"
+C;X13;Y511;K"L10"
+C;X14;Y511;K"M"
+C;X17;Y511;K"paragraph"
+C;X18;Y511;K"tc8"
+C;X1;Y512;K"tc9"
+C;X2;Y512;K"A"
+C;X5;Y512;K1
+C;X8;Y512;K"Table Text Heavy Italic Left"
+C;X9;Y512;K1
+C;X12;Y512;K"B91"
+C;X13;Y512;K"L10"
+C;X14;Y512;K"M"
+C;X17;Y512;K"paragraph"
+C;X18;Y512;K"tc9"
+C;X1;Y513;K"tcc0"
+C;X2;Y513;K"A"
+C;X5;Y513;K1
+C;X8;Y513;K"Table Hand Center"
+C;X9;Y513;K1
+C;X12;Y513;K"V50"
+C;X13;Y513;K"L10"
+C;X14;Y513;K"C"
+C;X17;Y513;K"paragraph"
+C;X18;Y513;K"tcc0"
+C;X1;Y514;K"tcc1"
+C;X2;Y514;K"A"
+C;X5;Y514;K1
+C;X8;Y514;K"Table Hand Cursive Center"
+C;X9;Y514;K1
+C;X12;Y514;K"V51"
+C;X13;Y514;K"L10"
+C;X14;Y514;K"C"
+C;X17;Y514;K"paragraph"
+C;X18;Y514;K"tcc1"
+C;X1;Y515;K"tcc2"
+C;X2;Y515;K"A"
+C;X5;Y515;K1
+C;X8;Y515;K"Table Text Light Center"
+C;X9;Y515;K1
+C;X12;Y515;K"B30"
+C;X13;Y515;K"L10"
+C;X14;Y515;K"C"
+C;X17;Y515;K"paragraph"
+C;X18;Y515;K"tcc2"
+C;X1;Y516;K"tcc3"
+C;X2;Y516;K"A"
+C;X5;Y516;K1
+C;X8;Y516;K"Table Text Light Italic Center"
+C;X9;Y516;K1
+C;X12;Y516;K"B31"
+C;X13;Y516;K"L10"
+C;X14;Y516;K"C"
+C;X17;Y516;K"paragraph"
+C;X18;Y516;K"tcc3"
+C;X1;Y517;K"tcc4"
+C;X2;Y517;K"A"
+C;X5;Y517;K1
+C;X8;Y517;K"Table Text Regular Center"
+C;X9;Y517;K1
+C;X12;Y517;K"B40"
+C;X13;Y517;K"L10"
+C;X14;Y517;K"C"
+C;X17;Y517;K"paragraph"
+C;X18;Y517;K"tcc4"
+C;X1;Y518;K"tcc5"
+C;X2;Y518;K"A"
+C;X5;Y518;K1
+C;X8;Y518;K"Table Text Regular Italic Center"
+C;X9;Y518;K1
+C;X12;Y518;K"B41"
+C;X13;Y518;K"L10"
+C;X14;Y518;K"C"
+C;X17;Y518;K"paragraph"
+C;X18;Y518;K"tcc5"
+C;X1;Y519;K"tcc6"
+C;X2;Y519;K"A"
+C;X5;Y519;K1
+C;X8;Y519;K"Table Text Bold Center"
+C;X9;Y519;K1
+C;X12;Y519;K"B70"
+C;X13;Y519;K"L10"
+C;X14;Y519;K"C"
+C;X17;Y519;K"paragraph"
+C;X18;Y519;K"tcc6"
+C;X1;Y520;K"tcc7"
+C;X2;Y520;K"A"
+C;X5;Y520;K1
+C;X8;Y520;K"Table Text Bold Italic Center"
+C;X9;Y520;K1
+C;X12;Y520;K"B71"
+C;X13;Y520;K"L10"
+C;X14;Y520;K"C"
+C;X17;Y520;K"paragraph"
+C;X18;Y520;K"tcc7"
+C;X1;Y521;K"tcc8"
+C;X2;Y521;K"A"
+C;X5;Y521;K1
+C;X8;Y521;K"Table Text Heavy Center"
+C;X9;Y521;K1
+C;X12;Y521;K"B90"
+C;X13;Y521;K"L10"
+C;X14;Y521;K"C"
+C;X17;Y521;K"paragraph"
+C;X18;Y521;K"tcc8"
+C;X1;Y522;K"tcc9"
+C;X2;Y522;K"A"
+C;X5;Y522;K1
+C;X8;Y522;K"Table Text Heavy Italic Center"
+C;X9;Y522;K1
+C;X12;Y522;K"B91"
+C;X13;Y522;K"L10"
+C;X14;Y522;K"C"
+C;X17;Y522;K"paragraph"
+C;X18;Y522;K"tcc9"
+C;X1;Y523;K"tcr0"
+C;X2;Y523;K"A"
+C;X5;Y523;K1
+C;X8;Y523;K"Table Hand Right"
+C;X9;Y523;K1
+C;X12;Y523;K"V50"
+C;X13;Y523;K"L10"
+C;X14;Y523;K"R0"
+C;X17;Y523;K"paragraph"
+C;X18;Y523;K"tcr0"
+C;X1;Y524;K"tcr1"
+C;X2;Y524;K"A"
+C;X5;Y524;K1
+C;X8;Y524;K"Table Hand Cursive Right"
+C;X9;Y524;K1
+C;X12;Y524;K"V51"
+C;X13;Y524;K"L10"
+C;X14;Y524;K"R0"
+C;X17;Y524;K"paragraph"
+C;X18;Y524;K"tcr1"
+C;X1;Y525;K"tcr2"
+C;X2;Y525;K"A"
+C;X5;Y525;K1
+C;X8;Y525;K"Table Text Light Right"
+C;X9;Y525;K1
+C;X12;Y525;K"B30"
+C;X13;Y525;K"L10"
+C;X14;Y525;K"R0"
+C;X17;Y525;K"paragraph"
+C;X18;Y525;K"tcr2"
+C;X1;Y526;K"tcr3"
+C;X2;Y526;K"A"
+C;X5;Y526;K1
+C;X8;Y526;K"Table Text Light Italic Right"
+C;X9;Y526;K1
+C;X12;Y526;K"B31"
+C;X13;Y526;K"L10"
+C;X14;Y526;K"R0"
+C;X17;Y526;K"paragraph"
+C;X18;Y526;K"tcr3"
+C;X1;Y527;K"tcr4"
+C;X2;Y527;K"A"
+C;X5;Y527;K1
+C;X8;Y527;K"Table Text Regular Right"
+C;X9;Y527;K1
+C;X12;Y527;K"B40"
+C;X13;Y527;K"L10"
+C;X14;Y527;K"R0"
+C;X17;Y527;K"paragraph"
+C;X18;Y527;K"tcr4"
+C;X1;Y528;K"tcr5"
+C;X2;Y528;K"A"
+C;X5;Y528;K1
+C;X8;Y528;K"Table Text Regular Italic Right"
+C;X9;Y528;K1
+C;X12;Y528;K"B41"
+C;X13;Y528;K"L10"
+C;X14;Y528;K"R0"
+C;X17;Y528;K"paragraph"
+C;X18;Y528;K"tcr5"
+C;X1;Y529;K"tcr6"
+C;X2;Y529;K"A"
+C;X5;Y529;K1
+C;X8;Y529;K"Table Text Bold Right"
+C;X9;Y529;K1
+C;X12;Y529;K"B70"
+C;X13;Y529;K"L10"
+C;X14;Y529;K"R0"
+C;X17;Y529;K"paragraph"
+C;X18;Y529;K"tcr6"
+C;X1;Y530;K"tcr7"
+C;X2;Y530;K"A"
+C;X5;Y530;K1
+C;X8;Y530;K"Table Text Bold Italic Right"
+C;X9;Y530;K1
+C;X12;Y530;K"B71"
+C;X13;Y530;K"L10"
+C;X14;Y530;K"R0"
+C;X17;Y530;K"paragraph"
+C;X18;Y530;K"tcr7"
+C;X1;Y531;K"tcr8"
+C;X2;Y531;K"A"
+C;X5;Y531;K1
+C;X8;Y531;K"Table Text Heavy Right"
+C;X9;Y531;K1
+C;X12;Y531;K"B90"
+C;X13;Y531;K"L10"
+C;X14;Y531;K"R0"
+C;X17;Y531;K"paragraph"
+C;X18;Y531;K"tcr8"
+C;X1;Y532;K"tcr9"
+C;X2;Y532;K"A"
+C;X5;Y532;K1
+C;X8;Y532;K"Table Text Heavy Italic Right"
+C;X9;Y532;K1
+C;X12;Y532;K"B91"
+C;X13;Y532;K"L10"
+C;X14;Y532;K"R0"
+C;X17;Y532;K"paragraph"
+C;X18;Y532;K"tcr9"
+C;X1;Y533;K"th0"
+C;X2;Y533;K"A"
+C;X5;Y533;K1
+C;X8;Y533;K"Table Hand Bold Left"
+C;X9;Y533;K1
+C;X12;Y533;K"V70"
+C;X13;Y533;K"L10"
+C;X14;Y533;K"M"
+C;X17;Y533;K"paragraph"
+C;X18;Y533;K"th0"
+C;X1;Y534;K"th1"
+C;X2;Y534;K"A"
+C;X5;Y534;K1
+C;X8;Y534;K"Table Hand Cursive Bold Left"
+C;X9;Y534;K1
+C;X12;Y534;K"V71"
+C;X13;Y534;K"L10"
+C;X14;Y534;K"M"
+C;X17;Y534;K"paragraph"
+C;X18;Y534;K"th1"
+C;X1;Y535;K"th2"
+C;X2;Y535;K"A"
+C;X5;Y535;K1
+C;X8;Y535;K"Table Head Light Left"
+C;X9;Y535;K1
+C;X12;Y535;K"T30"
+C;X13;Y535;K"L10"
+C;X14;Y535;K"M"
+C;X17;Y535;K"paragraph"
+C;X18;Y535;K"th2"
+C;X1;Y536;K"th3"
+C;X2;Y536;K"A"
+C;X5;Y536;K1
+C;X8;Y536;K"Table Head Light Italic Left"
+C;X9;Y536;K1
+C;X12;Y536;K"T31"
+C;X13;Y536;K"L10"
+C;X14;Y536;K"M"
+C;X17;Y536;K"paragraph"
+C;X18;Y536;K"th3"
+C;X1;Y537;K"th4"
+C;X2;Y537;K"A"
+C;X5;Y537;K1
+C;X8;Y537;K"Table Head Regular Left"
+C;X9;Y537;K1
+C;X12;Y537;K"T40"
+C;X13;Y537;K"L10"
+C;X14;Y537;K"M"
+C;X17;Y537;K"paragraph"
+C;X18;Y537;K"th4"
+C;X1;Y538;K"th5"
+C;X2;Y538;K"A"
+C;X5;Y538;K1
+C;X8;Y538;K"Table Head Regular Italic Left"
+C;X9;Y538;K1
+C;X12;Y538;K"T41"
+C;X13;Y538;K"L10"
+C;X14;Y538;K"M"
+C;X17;Y538;K"paragraph"
+C;X18;Y538;K"th5"
+C;X1;Y539;K"th6"
+C;X2;Y539;K"A"
+C;X5;Y539;K1
+C;X8;Y539;K"Table Head Bold Left"
+C;X9;Y539;K1
+C;X12;Y539;K"T70"
+C;X13;Y539;K"L10"
+C;X14;Y539;K"M"
+C;X17;Y539;K"paragraph"
+C;X18;Y539;K"th6"
+C;X1;Y540;K"th7"
+C;X2;Y540;K"A"
+C;X5;Y540;K1
+C;X8;Y540;K"Table Head Bold Italic Left"
+C;X9;Y540;K1
+C;X12;Y540;K"T71"
+C;X13;Y540;K"L10"
+C;X14;Y540;K"M"
+C;X17;Y540;K"paragraph"
+C;X18;Y540;K"th7"
+C;X1;Y541;K"th8"
+C;X2;Y541;K"A"
+C;X5;Y541;K1
+C;X8;Y541;K"Table Head Heavy Left"
+C;X9;Y541;K1
+C;X12;Y541;K"T90"
+C;X13;Y541;K"L10"
+C;X14;Y541;K"M"
+C;X17;Y541;K"paragraph"
+C;X18;Y541;K"th8"
+C;X1;Y542;K"th9"
+C;X2;Y542;K"A"
+C;X5;Y542;K1
+C;X8;Y542;K"Table Head Heavy Italic Left"
+C;X9;Y542;K1
+C;X12;Y542;K"T91"
+C;X13;Y542;K"L10"
+C;X14;Y542;K"M"
+C;X17;Y542;K"paragraph"
+C;X18;Y542;K"th9"
+C;X1;Y543;K"thc0"
+C;X2;Y543;K"A"
+C;X5;Y543;K1
+C;X8;Y543;K"Table Hand Cursive Center"
+C;X9;Y543;K1
+C;X12;Y543;K"V70"
+C;X13;Y543;K"L10"
+C;X14;Y543;K"C"
+C;X17;Y543;K"paragraph"
+C;X18;Y543;K"thc0"
+C;X1;Y544;K"thc1"
+C;X2;Y544;K"A"
+C;X5;Y544;K1
+C;X8;Y544;K"Table Hand Cursive Bold Center"
+C;X9;Y544;K1
+C;X12;Y544;K"V71"
+C;X13;Y544;K"L10"
+C;X14;Y544;K"C"
+C;X17;Y544;K"paragraph"
+C;X18;Y544;K"thc1"
+C;X1;Y545;K"thc2"
+C;X2;Y545;K"A"
+C;X5;Y545;K1
+C;X8;Y545;K"Table Head Light Center"
+C;X9;Y545;K1
+C;X12;Y545;K"T30"
+C;X13;Y545;K"L10"
+C;X14;Y545;K"C"
+C;X17;Y545;K"paragraph"
+C;X18;Y545;K"thc2"
+C;X1;Y546;K"thc3"
+C;X2;Y546;K"A"
+C;X5;Y546;K1
+C;X8;Y546;K"Table Head Light Italic Center"
+C;X9;Y546;K1
+C;X12;Y546;K"T31"
+C;X13;Y546;K"L10"
+C;X14;Y546;K"C"
+C;X17;Y546;K"paragraph"
+C;X18;Y546;K"thc3"
+C;X1;Y547;K"thc4"
+C;X2;Y547;K"A"
+C;X5;Y547;K1
+C;X8;Y547;K"Table Head Regular Center"
+C;X9;Y547;K1
+C;X12;Y547;K"T40"
+C;X13;Y547;K"L10"
+C;X14;Y547;K"C"
+C;X17;Y547;K"paragraph"
+C;X18;Y547;K"thc4"
+C;X1;Y548;K"thc5"
+C;X2;Y548;K"A"
+C;X5;Y548;K1
+C;X8;Y548;K"Table Head Regular Italic Center"
+C;X9;Y548;K1
+C;X12;Y548;K"T41"
+C;X13;Y548;K"L10"
+C;X14;Y548;K"C"
+C;X17;Y548;K"paragraph"
+C;X18;Y548;K"thc5"
+C;X1;Y549;K"thc6"
+C;X2;Y549;K"A"
+C;X5;Y549;K1
+C;X8;Y549;K"Table Head Bold Center"
+C;X9;Y549;K1
+C;X12;Y549;K"T70"
+C;X13;Y549;K"L10"
+C;X14;Y549;K"C"
+C;X17;Y549;K"paragraph"
+C;X18;Y549;K"thc6"
+C;X1;Y550;K"thc7"
+C;X2;Y550;K"A"
+C;X5;Y550;K1
+C;X8;Y550;K"Table Head Bold Italic Center"
+C;X9;Y550;K1
+C;X12;Y550;K"T71"
+C;X13;Y550;K"L10"
+C;X14;Y550;K"C"
+C;X17;Y550;K"paragraph"
+C;X18;Y550;K"thc7"
+C;X1;Y551;K"thc8"
+C;X2;Y551;K"A"
+C;X5;Y551;K1
+C;X8;Y551;K"Table Head Heavy Center"
+C;X9;Y551;K1
+C;X12;Y551;K"T90"
+C;X13;Y551;K"L10"
+C;X14;Y551;K"C"
+C;X17;Y551;K"paragraph"
+C;X18;Y551;K"thc8"
+C;X1;Y552;K"thc9"
+C;X2;Y552;K"A"
+C;X5;Y552;K1
+C;X8;Y552;K"Table Head Heavy Italic Center"
+C;X9;Y552;K1
+C;X12;Y552;K"T91"
+C;X13;Y552;K"L10"
+C;X14;Y552;K"C"
+C;X17;Y552;K"paragraph"
+C;X18;Y552;K"thc9"
+C;X1;Y553;K"thr0"
+C;X2;Y553;K"A"
+C;X5;Y553;K1
+C;X8;Y553;K"Table Hand Cursive Right"
+C;X9;Y553;K1
+C;X12;Y553;K"V70"
+C;X13;Y553;K"L10"
+C;X14;Y553;K"R0"
+C;X17;Y553;K"paragraph"
+C;X18;Y553;K"thr0"
+C;X1;Y554;K"thr1"
+C;X2;Y554;K"A"
+C;X5;Y554;K1
+C;X8;Y554;K"Table Hand Cursive Bold Right"
+C;X9;Y554;K1
+C;X12;Y554;K"V71"
+C;X13;Y554;K"L10"
+C;X14;Y554;K"R0"
+C;X17;Y554;K"paragraph"
+C;X18;Y554;K"thr1"
+C;X1;Y555;K"thr2"
+C;X2;Y555;K"A"
+C;X5;Y555;K1
+C;X8;Y555;K"Table Head Light Right"
+C;X9;Y555;K1
+C;X12;Y555;K"T30"
+C;X13;Y555;K"L10"
+C;X14;Y555;K"R0"
+C;X17;Y555;K"paragraph"
+C;X18;Y555;K"thr2"
+C;X1;Y556;K"thr3"
+C;X2;Y556;K"A"
+C;X5;Y556;K1
+C;X8;Y556;K"Table Head Light Italic Right"
+C;X9;Y556;K1
+C;X12;Y556;K"T31"
+C;X13;Y556;K"L10"
+C;X14;Y556;K"R0"
+C;X17;Y556;K"paragraph"
+C;X18;Y556;K"thr3"
+C;X1;Y557;K"thr4"
+C;X2;Y557;K"A"
+C;X5;Y557;K1
+C;X8;Y557;K"Table Head Regular Right"
+C;X9;Y557;K1
+C;X12;Y557;K"T40"
+C;X13;Y557;K"L10"
+C;X14;Y557;K"R0"
+C;X17;Y557;K"paragraph"
+C;X18;Y557;K"thr4"
+C;X1;Y558;K"thr5"
+C;X2;Y558;K"A"
+C;X5;Y558;K1
+C;X8;Y558;K"Table Head Regular Italic Right"
+C;X9;Y558;K1
+C;X12;Y558;K"T41"
+C;X13;Y558;K"L10"
+C;X14;Y558;K"R0"
+C;X17;Y558;K"paragraph"
+C;X18;Y558;K"thr5"
+C;X1;Y559;K"thr6"
+C;X2;Y559;K"A"
+C;X5;Y559;K1
+C;X8;Y559;K"Table Head Bold Right"
+C;X9;Y559;K1
+C;X12;Y559;K"T70"
+C;X13;Y559;K"L10"
+C;X14;Y559;K"R0"
+C;X17;Y559;K"paragraph"
+C;X18;Y559;K"thr6"
+C;X1;Y560;K"thr7"
+C;X2;Y560;K"A"
+C;X5;Y560;K1
+C;X8;Y560;K"Table Head Bold Italic Right"
+C;X9;Y560;K1
+C;X12;Y560;K"T71"
+C;X13;Y560;K"L10"
+C;X14;Y560;K"R0"
+C;X17;Y560;K"paragraph"
+C;X18;Y560;K"thr7"
+C;X1;Y561;K"thr8"
+C;X2;Y561;K"A"
+C;X5;Y561;K1
+C;X8;Y561;K"Table Head Heavy Right"
+C;X9;Y561;K1
+C;X12;Y561;K"T90"
+C;X13;Y561;K"L10"
+C;X14;Y561;K"R0"
+C;X17;Y561;K"paragraph"
+C;X18;Y561;K"thr8"
+C;X1;Y562;K"thr9"
+C;X2;Y562;K"A"
+C;X5;Y562;K1
+C;X8;Y562;K"Table Head Heavy Italic Right"
+C;X9;Y562;K1
+C;X12;Y562;K"T91"
+C;X13;Y562;K"L10"
+C;X14;Y562;K"R0"
+C;X17;Y562;K"paragraph"
+C;X18;Y562;K"thr9"
+C;X1;Y563;K"tr"
+C;X2;Y563;K"A"
+C;X5;Y563;K1
+C;X8;Y563;K"New Table-row"
+C;X9;Y563;K0.8
+C;X11;Y563;K"m"
+C;X14;Y563;K"C"
+C;X17;Y563;K"paragraph"
+C;X18;Y563;K"tr"
+C;X1;Y564;K"tr0"
+C;X2;Y564;K"A"
+C;X5;Y564;K1
+C;X8;Y564;K"Table Row Type 0 [p.sfm]"
+C;X9;Y564;K0.8
+C;X10;Y564;K"ID only"
+C;X11;Y564;K"m"
+C;X14;Y564;K"M0"
+C;X17;Y564;K"paragraph"
+C;X18;Y564;K"tr0"
+C;X1;Y565;K"tr1"
+C;X2;Y565;K"A"
+C;X5;Y565;K1
+C;X8;Y565;K"Table Row Type 1 [p.sfm]"
+C;X9;Y565;K0.8
+C;X10;Y565;K"ID only"
+C;X11;Y565;K"m"
+C;X14;Y565;K"M1"
+C;X17;Y565;K"paragraph"
+C;X18;Y565;K"tr1"
+C;X1;Y566;K"tr2"
+C;X2;Y566;K"A"
+C;X5;Y566;K1
+C;X8;Y566;K"Table Row Type 2 [p.sfm]"
+C;X9;Y566;K0.8
+C;X10;Y566;K"ID only"
+C;X11;Y566;K"m"
+C;X14;Y566;K"M2"
+C;X17;Y566;K"paragraph"
+C;X18;Y566;K"tr2"
+C;X1;Y567;K"tr3"
+C;X2;Y567;K"A"
+C;X5;Y567;K1
+C;X8;Y567;K"Table Row Type 3 [p.sfm]"
+C;X9;Y567;K0.8
+C;X10;Y567;K"ID only"
+C;X11;Y567;K"m"
+C;X14;Y567;K"M3"
+C;X17;Y567;K"paragraph"
+C;X18;Y567;K"tr3"
+C;X1;Y568;K"tr4"
+C;X2;Y568;K"A"
+C;X5;Y568;K1
+C;X8;Y568;K"Table Row Type 4 [p.sfm]"
+C;X9;Y568;K0.8
+C;X10;Y568;K"ID only"
+C;X11;Y568;K"m"
+C;X14;Y568;K"M4"
+C;X17;Y568;K"paragraph"
+C;X18;Y568;K"tr4"
+C;X1;Y569;K"tr5"
+C;X2;Y569;K"A"
+C;X5;Y569;K1
+C;X8;Y569;K"Table Row Type 5 [p.sfm]"
+C;X9;Y569;K0.8
+C;X10;Y569;K"ID only"
+C;X11;Y569;K"m"
+C;X14;Y569;K"M5"
+C;X17;Y569;K"paragraph"
+C;X18;Y569;K"tr5"
+C;X1;Y570;K"tr6"
+C;X2;Y570;K"A"
+C;X5;Y570;K1
+C;X8;Y570;K"Table Row Type 6 [p.sfm]"
+C;X9;Y570;K0.8
+C;X10;Y570;K"ID only"
+C;X11;Y570;K"m"
+C;X14;Y570;K"M6"
+C;X17;Y570;K"paragraph"
+C;X18;Y570;K"tr6"
+C;X1;Y571;K"tr7"
+C;X2;Y571;K"A"
+C;X5;Y571;K1
+C;X8;Y571;K"Table Row Type 7 [p.sfm]"
+C;X9;Y571;K0.8
+C;X10;Y571;K"ID only"
+C;X11;Y571;K"m"
+C;X14;Y571;K"M7"
+C;X17;Y571;K"paragraph"
+C;X18;Y571;K"tr7"
+C;X1;Y572;K"tr8"
+C;X2;Y572;K"A"
+C;X5;Y572;K1
+C;X8;Y572;K"Table Row Type 8 [p.sfm]"
+C;X9;Y572;K0.8
+C;X10;Y572;K"ID only"
+C;X11;Y572;K"m"
+C;X14;Y572;K"M8"
+C;X17;Y572;K"paragraph"
+C;X18;Y572;K"tr8"
+C;X1;Y573;K"tr9"
+C;X2;Y573;K"A"
+C;X5;Y573;K1
+C;X8;Y573;K"Table Row Type 9 [p.sfm]"
+C;X9;Y573;K0.8
+C;X10;Y573;K"ID only"
+C;X11;Y573;K"m"
+C;X14;Y573;K"M9"
+C;X17;Y573;K"paragraph"
+C;X18;Y573;K"tr9"
+E
